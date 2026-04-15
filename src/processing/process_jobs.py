@@ -58,8 +58,13 @@ def build_spark() -> SparkSession:
 
 def read_raw(spark: SparkSession, raw_dir: Path) -> DataFrame:
     """Read all JSON files from raw/ recursively."""
-    pattern = str(raw_dir / "**" / "*.json")
-    df = spark.read.option("multiLine", True).json(pattern)
+    # Spark precisa de glob recursivo explícito no Windows/Docker volume
+    import glob
+    files = glob.glob(str(raw_dir / "**" / "*.json"), recursive=True)
+    if not files:
+        raise FileNotFoundError(f"No JSON files found under {raw_dir}")
+    log.info("Found %d JSON files to process", len(files))
+    df = spark.read.option("multiLine", True).json(files)
     log.info("Raw records loaded: %d", df.count())
     return df
 
