@@ -33,7 +33,15 @@ services:
   airflow-init:
     <<: *airflow-common
     container_name: airflow_init
-    command: db init
+    command: >
+      bash -c "airflow db init &&
+               (airflow users create
+               --username airflow
+               --password airflow
+               --firstname Air
+               --lastname Flow
+               --role Admin
+               --email admin@example.com || true)"
     restart: "no"
 
   airflow-webserver:
