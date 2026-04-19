@@ -1,0 +1,1558 @@
+[
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia3FldllTWTg4Ukc1TWRBYWpBbFNfQSIsImkiOiI1NjkwMDM4MzY1In0.l3FqM0IC8GbUlt0ZISNW8ggJe9_u86cr7GecEGMsLjE",
+    "title": "Data Engineer - Data Foundry Engineer",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Vagas em Tecnologia Informática"
+    },
+    "description": "Data Science at TRACTIAN The Data Science team at TRACTIAN focuses on extracting valuable insights from vast amounts of industrial data. Using advanced statistical methods, algorithms, and data visualization techniques, this team transforms raw data into actionable intelligence that drives decision-making across engineering, product development, and operational strategies. The team constantly works on optimizing prediction models, identifying trends, and providing data-driven solutions that dir…",
+    "contract_time": "full_time",
+    "created": "2026-04-04T17:15:16Z",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Tractian"
+    },
+    "id": "5690038365",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "Brasil",
+        "Sudeste",
+        "Estado de São Paulo",
+        "São Paulo"
+      ],
+      "display_name": "São Paulo, Estado de São Paulo"
+    },
+    "redirect_url": "https://www.adzuna.com.br/details/5690038365?utm_medium=api&utm_source=9fef4eac",
+    "salary_is_predicted": "0",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "id": "5658389090",
+    "location": {
+      "area": [
+        "Brasil"
+      ],
+      "display_name": "Brasil",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Keyrus Brazil"
+    },
+    "redirect_url": "https://www.adzuna.com.br/land/ad/5658389090?se=kqevYSY88RG5MdAajAlS_A&utm_medium=api&utm_source=9fef4eac&v=088F0A154039F5C162F100EF6722B388295A5F94",
+    "salary_is_predicted": "0",
+    "title": "Senior Data Engineer (Especialista em Azure/ Databricks)",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY1ODM4OTA5MCIsInMiOiJrcWV2WVNZODhSRzVNZEFhakFsU19BIn0.L4d1izdO8zXR90_ON4vDf8Q8lQsuM8witEi25Fi2b5g",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Unknown",
+      "tag": "unknown"
+    },
+    "description": "A Keyrus acredita na diversidade e na inclusão. Encorajamos a todos a participarem em nosso processo de contratação, não importando o gênero, idade, raça, religião. Não permitimos nenhum tipo de discriminação. Isto é reforçado no processo de contratação e vivido dessa forma na empresa. Sabemos que grandes resultados só são alcançados com uma grande equipe, por isso procuramos pessoas talentosas e apaixonadas, com desejo de crescer profissionalmente e criar uma trajetória de carreira conosco. Pa…",
+    "created": "2026-03-08T04:35:55Z",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMjEyNjE3NSIsInMiOiJrcWV2WVNZODhSRzVNZEFhakFsU19BIn0.r5y6j9u5hJP0KK2Wh9FqW24NmdazBjGTgmVuolNUx00",
+    "title": "Senior Data Engineer (Especialista em Azure/ Databricks)",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-04-16T23:36:22Z",
+    "description": "A Keyrus acredita na diversidade e na inclusão. Encorajamos a todos a participarem em nosso processo de contratação, não importando o gênero, idade, raça, religião. Não permitimos nenhum tipo de discriminação. Isto é reforçado no processo de contratação e vivido dessa forma na empresa. Papéis e Responsabilidades Construir e manter pipelines de ingestão e processamento de dados a partir de múltiplas fontes. Desenvolver processos de extração, transformação e carga (ETL/ELT) utilizando Python, Apa…",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Unknown",
+      "tag": "unknown"
+    },
+    "company": {
+      "display_name": "Keyrus",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5702126175",
+    "location": {
+      "display_name": "Brasil",
+      "area": [
+        "Brasil"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "redirect_url": "https://www.adzuna.com.br/land/ad/5702126175?se=kqevYSY88RG5MdAajAlS_A&utm_medium=api&utm_source=9fef4eac&v=F03CBA17AB555489566B41B297B94C0916F0A14F",
+    "salary_is_predicted": "0",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Data Engineer- QA",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NjA3MzYzMSIsInMiOiJrcWV2WVNZODhSRzVNZEFhakFsU19BIn0.TFWXHi0gP5RLBDLzfFLxzCq9Pbr4P2aTUzBChHQGEZQ",
+    "contract_time": "full_time",
+    "description": "Role: Data Engineer- QA Hours: 9am - 6pm Eastern Time (Remote) USD Salary: Negotiable based on experience up to $2500 The Data Engineer - QA is responsible for ensuring data quality and reliability across our analytics ecosystem. This role serves as the first line of defense for identifying, researching, and resolving data issues reported by internal stakeholders. You'll work directly with analysts to validate dashboard accuracy, investigate anomalies, and maintain confidence in our reporting i…",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Vagas em Administrativo e Operacional",
+      "tag": "admin-jobs"
+    },
+    "created": "2026-01-09T14:13:31Z",
+    "redirect_url": "https://www.adzuna.com.br/details/5576073631?utm_medium=api&utm_source=9fef4eac",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Lago"
+    },
+    "id": "5576073631",
+    "location": {
+      "area": [
+        "Brasil"
+      ],
+      "display_name": "Brasil",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "created": "2025-11-20T16:16:12Z",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Outras vagas",
+      "tag": "other-general-jobs"
+    },
+    "description": "As the Data Engineer you will be responsible for designing, building, and maintaining the data engineering function for a remote-first technology organization. ​ This role oversees the full lifecycle of data architecture, pipelines, modeling, tooling, and reliability. It also involves operational duties and direct collaboration with technical leadership, including defining the complete data engineering strategy from the ground up. Key Responsibilities Architect, implement, and maintain scalable…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwNTgxNTA0MiIsInMiOiJrcWV2WVNZODhSRzVNZEFhakFsU19BIn0.zt6QUvfF8UMbnwbwl_4wJBKb4xC5v2F8zFSu3CPS5F0",
+    "title": "Lead Data Engineer",
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.com.br/details/5505815042?utm_medium=api&utm_source=9fef4eac",
+    "id": "5505815042",
+    "location": {
+      "display_name": "São Paulo, Estado de São Paulo",
+      "area": [
+        "Brasil",
+        "Sudeste",
+        "Estado de São Paulo",
+        "São Paulo"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "display_name": "Sur",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "title": "Senior Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia3FldllTWTg4Ukc1TWRBYWpBbFNfQSIsImkiOiI1Njg1ODA4MTk2In0.JjslgtxW9AGzLbrqFcsq9cs1dynm_eHDEA3QmTMQZBE",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "label": "Outras vagas",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "other-general-jobs"
+    },
+    "description": "We are looking for a Data Engineer with experience in the Azure ecosystem to design, build, and optimize modern data solutions. This role will be key in building robust pipelines, scalable architectures, and data platforms oriented toward advanced analytics and strategic decision-making. You will work in dynamic environments under Agile methodologies, collaborating with engineering, analytics, and business teams to ensure data availability, quality, and efficiency. Responsibilities Design, deve…",
+    "created": "2026-04-01T13:09:53Z",
+    "location": {
+      "area": [
+        "Brasil"
+      ],
+      "display_name": "Brasil",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "id": "5685808196",
+    "company": {
+      "display_name": "Workana",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.com.br/details/5685808196?utm_medium=api&utm_source=9fef4eac",
+    "salary_is_predicted": "0",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Staff Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia3FldllTWTg4Ukc1TWRBYWpBbFNfQSIsImkiOiI1Njk0NTc4MjE4In0.hjQVh-Hpy2_balLWLyANSKFW2CwhcyQcPaj56WXCj3g",
+    "description": "Job Description We’re hiring a Staff Data Engineer to design and build robust data pipelines for our corporate Data Lake. In this role, you’ll own data products end-to-end in production, work autonomously on significant projects, and mentor junior engineers. You’ll be expected to make sound data engineering trade-offs under limited supervision, with strong hands-on experience in Spark, Databricks, Delta Lake, and Airflow. At Pismo, the Data Lake team is responsible for centralizing and organizi…",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Vagas em Engenharia",
+      "tag": "engineering-jobs"
+    },
+    "created": "2026-04-09T11:10:43Z",
+    "redirect_url": "https://www.adzuna.com.br/details/5694578218?utm_medium=api&utm_source=9fef4eac",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Brasil",
+      "area": [
+        "Brasil"
+      ]
+    },
+    "id": "5694578218",
+    "company": {
+      "display_name": "Pismo",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "0",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.com.br/details/5676358131?utm_medium=api&utm_source=9fef4eac",
+    "id": "5676358131",
+    "company": {
+      "display_name": "Rockstar",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "Brasil"
+      ],
+      "display_name": "Brasil"
+    },
+    "created": "2026-03-23T19:42:59Z",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Outras vagas",
+      "tag": "other-general-jobs"
+    },
+    "description": "Rockstar is recruiting for a fast-growing eCommerce and Amazon services and technology company that partners with global brands to drive measurable growth across online retail marketplaces. Our client combines proprietary technology, deep marketplace expertise, and a trust-first approach to client service. They have maintained a high client retention rate and are scaling their team to match the ambition of their roadmap. They reward those who demonstrate excellence and consistency at every leve…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia3FldllTWTg4Ukc1TWRBYWpBbFNfQSIsImkiOiI1Njc2MzU4MTMxIn0.y2MKmDoqimw5P9j3mmFSrUOKreuKKxnee0KYeHFpAeg",
+    "title": "AI Data Engineer",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "title": "Data Engineer-Data Platforms",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0NjkyODE2MiIsInMiOiJrcWV2WVNZODhSRzVNZEFhakFsU19BIn0.ykKP2G_XBgqeVhP1aDbj1CzJwPr7TsuShoLUT9vZues",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "tag": "unknown",
+      "label": "Unknown",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "description": "Introduction A career in IBM Consulting is built on long-term client relationships and close collaboration worldwide. You'll work with leading companies across industries, helping them shape their hybrid cloud and AI journeys. With support from our strategic partners, robust IBM technology, and Red Hat, you'll have the tools to drive meaningful change and accelerate client impact. At IBM Consulting, curiosity fuels success. You'll be encouraged to challenge the norm, explore new ideas, and crea…",
+    "created": "2026-02-27T01:13:58Z",
+    "company": {
+      "display_name": "IBM",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5646928162",
+    "location": {
+      "area": [
+        "Brasil"
+      ],
+      "display_name": "Brasil",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "redirect_url": "https://www.adzuna.com.br/details/5646928162?utm_medium=api&utm_source=9fef4eac",
+    "salary_is_predicted": "0",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "salary_is_predicted": "0",
+    "company": {
+      "display_name": "DoorDash Brazil",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5679597627",
+    "location": {
+      "area": [
+        "Brasil"
+      ],
+      "display_name": "Brasil",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "redirect_url": "https://www.adzuna.com.br/details/5679597627?utm_medium=api&utm_source=9fef4eac",
+    "created": "2026-03-26T17:34:01Z",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Unknown",
+      "tag": "unknown"
+    },
+    "description": "About the Team At DoorDash, people are our most important asset. We build the capability to help our leaders make more informed decisions on identifying, attracting, developing, and retaining talent. We’re looking for a Data Engineer to help us scale our analytics alongside DoorDash’s enormous growth. Come build, experiment, and grow while shaping a best-in-class data team at DoorDash. About the Role DoorDash is seeking an experienced data engineer to join our People Intelligence team supportin…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia3FldllTWTg4Ukc1TWRBYWpBbFNfQSIsImkiOiI1Njc5NTk3NjI3In0.Rh6FtGq0YHrYYKzYtHL60G0QrE1gzIQOJ2btuGdApz8",
+    "title": "Data Engineer, Corporate Data",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "location": {
+      "display_name": "Brasil",
+      "area": [
+        "Brasil"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "id": "5594478939",
+    "company": {
+      "display_name": "BEES",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.com.br/details/5594478939?utm_medium=api&utm_source=9fef4eac",
+    "salary_is_predicted": "0",
+    "title": "Data Engineer | BEES Data",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5NDQ3ODkzOSIsInMiOiJrcWV2WVNZODhSRzVNZEFhakFsU19BIn0.uMNGB6M9BDkbfrfe9NWLhWKEX-Ds2DMRzvKMu1YnCSA",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-01-21T16:27:00Z",
+    "description": "About AB InBev AB InBev is the leading global brewer and one of the top 5 consumer goods companies in the world. With over 500 beer brands, we are the number one or two in many of the main beer markets worldwide, including North America, Latin America, Europe, Asia, and Africa. About ABI Growth Group Created in 2022, the Growth Group unifies our business-to-business (B2B), direct-to-consumer (DTC), Sales & Distribution, and Marketing teams. By bringing together global tech and commercial functi…",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Unknown",
+      "tag": "unknown"
+    },
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Senior Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia3FldllTWTg4Ukc1TWRBYWpBbFNfQSIsImkiOiI1NjQwMTczNTQxIn0.rpfVgXpDm70Go_XD5jedm2rTbQsT-NXiKHT4ZvFYbWo",
+    "created": "2026-02-21T17:29:05Z",
+    "description": "Sobre o Jusbrasil Transformar o sistema de Justiça com tecnologia não é um desafio trivial. Por isso, o Jusbrasil se posiciona como uma empresa AI-first , que utiliza IA Generativa, dados massivos e engenharia de ponta para resolver problemas complexos e criar impacto real em escala. Estamos vivendo um ponto de virada: a revolução da GenAI está redefinindo o mercado, e temos nas mãos uma oportunidade rara de liderar a transformação tecnológica do sistema jurídico no Brasil . Lidamos com petabyt…",
+    "category": {
+      "tag": "unknown",
+      "label": "Unknown",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "redirect_url": "https://www.adzuna.com.br/details/5640173541?utm_medium=api&utm_source=9fef4eac",
+    "company": {
+      "display_name": "vaga para Senior Data Engineer na Jusbrasil",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5640173541",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "Brasil"
+      ],
+      "display_name": "Brasil"
+    },
+    "salary_is_predicted": "0",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "category": {
+      "tag": "other-general-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Outras vagas"
+    },
+    "description": "Senior Data Engineer (Scala / Spark) – AWS Migration | Start ASAP Signify Technology is partnering with a client on a large-scale GCP ? AWS data migration We're looking for a Senior Data Engineer to help deliver the final phase of a business-critical data platform. Location: Fully Remote US East Coast team – some overlap required Contract:- Until the end of  (likely extension) Rate: $40 per hour  Interview Process -2 stages (fast turnaround) What You'll Do Deliver the final 30% of a complex dat…",
+    "created": "2026-04-15T05:33:26Z",
+    "longitude": -55.618586,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Senior Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5OTkxNTg3NyIsInMiOiJrcWV2WVNZODhSRzVNZEFhakFsU19BIn0.kDPOtwn077WBAQb__FhBCHkuNYB_X_wQ3J3YXkY-jtE",
+    "salary_is_predicted": "0",
+    "latitude": -14.487932,
+    "redirect_url": "https://www.adzuna.com.br/details/5699915877?utm_medium=api&utm_source=9fef4eac",
+    "id": "5699915877",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Signify Technology"
+    },
+    "location": {
+      "display_name": "Mato Grosso, Centro-Oeste",
+      "area": [
+        "Brasil",
+        "Centro-Oeste",
+        "Mato Grosso"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "latitude": -3.834408,
+    "salary_is_predicted": "0",
+    "id": "5699916028",
+    "company": {
+      "display_name": "Signify Technology",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "Brasil",
+        "Norte",
+        "Amazonas"
+      ],
+      "display_name": "Amazonas, Norte"
+    },
+    "redirect_url": "https://www.adzuna.com.br/details/5699916028?utm_medium=api&utm_source=9fef4eac",
+    "created": "2026-04-15T05:33:28Z",
+    "category": {
+      "tag": "other-general-jobs",
+      "label": "Outras vagas",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "description": "Senior Data Engineer (Scala / Spark) – AWS Migration | Start ASAP Signify Technology is partnering with a client on a large-scale GCP ? AWS data migration We're looking for a Senior Data Engineer to help deliver the final phase of a business-critical data platform. Location: Fully Remote US East Coast team – some overlap required Contract:- Until the end of  (likely extension) Rate: $40 per hour  Interview Process -2 stages (fast turnaround) What You'll Do Deliver the final 30% of a complex dat…",
+    "title": "Senior Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia3FldllTWTg4Ukc1TWRBYWpBbFNfQSIsImkiOiI1Njk5OTE2MDI4In0.gZTszDG4LDwPy9Hqvf3efezsNnFM5qaWyn04n-gOq7o",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -62.57124,
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "redirect_url": "https://www.adzuna.com.br/details/5700644627?utm_medium=api&utm_source=9fef4eac",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5700644627",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Brasilia, Distrito Federal",
+      "area": [
+        "Brasil",
+        "Centro-Oeste",
+        "Distrito Federal",
+        "Brasilia"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "latitude": -15.765286,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMDY0NDYyNyIsInMiOiJrcWV2WVNZODhSRzVNZEFhakFsU19BIn0.xjyH5pk85afk09rY0eAtUPswiTO7TIow0p8Knw2IVaU",
+    "title": "Senior Data Engineer",
+    "longitude": -47.912034,
+    "created": "2026-04-15T18:36:12Z",
+    "category": {
+      "label": "Outras vagas",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "other-general-jobs"
+    },
+    "description": "Senior Data Engineer - This is a full-time, 100% remote opportunity exclusive to candidates located in Brazil. You''ll be working with a fast-paced US-based company, leading innovations in sustainable commerce and data-driven operations. What Youll DoDesign, develop, and maintain robust, scalable data infrastructure across real-time and batch workloads. Build and support ML pipelines for model training, deployment, and monitoring. Collaborate cross-functionally with data scientists, engineers, …",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5700644425",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Fortaleza, Ceará",
+      "area": [
+        "Brasil",
+        "Nordeste",
+        "Ceará",
+        "Fortaleza"
+      ]
+    },
+    "redirect_url": "https://www.adzuna.com.br/details/5700644425?utm_medium=api&utm_source=9fef4eac",
+    "salary_is_predicted": "0",
+    "title": "Senior Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia3FldllTWTg4Ukc1TWRBYWpBbFNfQSIsImkiOiI1NzAwNjQ0NDI1In0.AcaHT-c1HxmidsYBFvYPqYAfUCQ_057x3d6NrBmNCpo",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "label": "Outras vagas",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "other-general-jobs"
+    },
+    "description": "Senior Data Engineer - This is a full-time, 100% remote opportunity exclusive to candidates located in Brazil. You''ll be working with a fast-paced US-based company, leading innovations in sustainable commerce and data-driven operations. What Youll Do- Design, develop, and maintain robust, scalable data infrastructure across real-time and batch workloads. - Build and support ML pipelines for model training, deployment, and monitoring. - Collaborate cross-functionally with data scientists, engin…",
+    "created": "2026-04-15T18:36:09Z",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "created": "2026-04-14T18:36:07Z",
+    "description": "Senior Data Engineer - This is a full-time, 100% remote opportunity exclusive to candidates located in Brazil. You''ll be working with a fast-paced US-based company, leading innovations in sustainable commerce and data-driven operations. What Youll DoDesign, develop, and maintain robust, scalable data infrastructure across real-time and batch workloads. Build and support ML pipelines for model training, deployment, and monitoring. Collaborate cross-functionally with data scientists, engineers, …",
+    "category": {
+      "tag": "other-general-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Outras vagas"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5OTM4ODM1MCIsInMiOiJrcWV2WVNZODhSRzVNZEFhakFsU19BIn0.YM1j9j84SEDd8dJokHR92cEYVpJxrhsXgEg1LFIRplY",
+    "title": "Senior Data Engineer",
+    "longitude": -51.14799,
+    "salary_is_predicted": "0",
+    "latitude": -29.88307,
+    "redirect_url": "https://www.adzuna.com.br/details/5699388350?utm_medium=api&utm_source=9fef4eac",
+    "id": "5699388350",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "display_name": "Canoas, Rio Grande do Sul",
+      "area": [
+        "Brasil",
+        "Sul",
+        "Rio Grande do Sul",
+        "Canoas"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "salary_is_predicted": "0",
+    "latitude": -22.98889,
+    "redirect_url": "https://www.adzuna.com.br/details/5694879953?utm_medium=api&utm_source=9fef4eac",
+    "location": {
+      "area": [
+        "Brasil",
+        "Sudeste",
+        "Estado de São Paulo",
+        "Campinas"
+      ],
+      "display_name": "Campinas, Estado de São Paulo",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "id": "5694879953",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Vertico"
+    },
+    "description": " Vaga: Data Lead Estamos em busca de um(a) Founding Data Engineer para uma empresa da industria de pets. O desafio é liderar a construção da área de dados do zero e transformar informações em vantagem competitiva para o negócio.  Principais responsabilidades Criar a fundação de dados: data lake, pipelines, governança e segurança. Estruturar coleta de dados internos (sistemas/fábrica) e externos (não estruturados / web-scraping). Construir pipelines que garantam qualidade, disponibilidade e esca…",
+    "category": {
+      "tag": "unknown",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Unknown"
+    },
+    "created": "2026-04-09T17:42:34Z",
+    "longitude": -47.14058,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Senior Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia3FldllTWTg4Ukc1TWRBYWpBbFNfQSIsImkiOiI1Njk0ODc5OTUzIn0.p1wDA3KhQB32EVCMPolQfIIBf4NsYGCQEttg6CUJ53Q",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.com.br/details/5702978102?utm_medium=api&utm_source=9fef4eac",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Brasil",
+      "area": [
+        "Brasil"
+      ]
+    },
+    "id": "5702978102",
+    "company": {
+      "display_name": "Marisa.Care",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "label": "Unknown",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "unknown"
+    },
+    "description": "1. Sobre a Marisa.Care Em 2025 crescemos 11x , atuando nas principais redes do Brasil, como Rede D’Or e Hospitales MAC , iniciando nossa internacionalização com uma rede hospitalar no México . Fomos acelerados pela Microsoft for Startups , participamos do NVIDIA Inception e nossa última rodada foi de R$ 8M , liderada pela Afya . 2. Descrição da Vaga Como Senior Data Engineer, você será responsável por construir e operar a espinha dorsal de dados de um produto digital de saúde de alto impacto, o…",
+    "created": "2026-04-17T18:28:23Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Senior Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMjk3ODEwMiIsInMiOiJrcWV2WVNZODhSRzVNZEFhakFsU19BIn0.qqnAgvzvuYyB9xNy952nnRBvNLc8Huv9cJUfCCJPMow",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "redirect_url": "https://www.adzuna.com.br/details/5698395077?utm_medium=api&utm_source=9fef4eac",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Data Meaning"
+    },
+    "id": "5698395077",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "Brasil",
+        "Sudeste",
+        "Estado de São Paulo",
+        "São Paulo"
+      ],
+      "display_name": "São Paulo, Estado de São Paulo"
+    },
+    "salary_is_predicted": "0",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Senior Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia3FldllTWTg4Ukc1TWRBYWpBbFNfQSIsImkiOiI1Njk4Mzk1MDc3In0.qOiDx3SMWeovVgLP9dMzDpBtq1nmNfw4ItmHYdSgCR8",
+    "contract_time": "full_time",
+    "category": {
+      "tag": "unknown",
+      "label": "Unknown",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "description": "Senior Data Engineer Location: BR, Remote Position type: TBD Job Summary Data Meaning is a front-runner in Business Intelligence and Data Analytics consulting, renowned for our high-quality consulting services throughout the US and beyond. Our expertise lies in delivering tailored solutions in Business Intelligence, Data Warehousing, and Project Management. We have a diverse, global team of consultants, all working remotely, embodying a collaborative, inclusive, and innovation-driven work cultu…",
+    "created": "2026-04-13T17:34:27Z",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "salary_is_predicted": "0",
+    "latitude": -26.37032,
+    "redirect_url": "https://www.adzuna.com.br/details/5699388760?utm_medium=api&utm_source=9fef4eac",
+    "id": "5699388760",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "Brasil",
+        "Sul",
+        "Santa Catarina",
+        "Araquari"
+      ],
+      "display_name": "Araquari, Santa Catarina"
+    },
+    "description": "Snowflake Data Engineer - This team is currently working on a project to modernize on prem SQL warehouses to snowflake. The data warehouse is built, so you will be supporting the build out of data marts on top of their Snowflake enterprise warehouse. This includes lifting and shifting existing data marts, building net new data marts, and further integrations. Additionally, the data engineering team designs, tests, deploys and maintains data pipelines and establishes a strong data reporting envi…",
+    "category": {
+      "label": "Outras vagas",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "other-general-jobs"
+    },
+    "created": "2026-04-14T18:36:11Z",
+    "longitude": -48.72321,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Snowflake Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5OTM4ODc2MCIsInMiOiJrcWV2WVNZODhSRzVNZEFhakFsU19BIn0.lNRLoiWMgj6LUMJ_F9OngaJi2vZpy4tob6Ve-JE5ONM",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "created": "2026-04-15T18:36:18Z",
+    "description": "Snowflake Data Engineer - This team is currently working on a project to modernize on prem SQL warehouses to snowflake. The data warehouse is built, so you will be supporting the build out of data marts on top of their Snowflake enterprise warehouse. This includes lifting and shifting existing data marts, building net new data marts, and further integrations. Additionally, the data engineering team designs, tests, deploys and maintains data pipelines and establishes a strong data reporting envi…",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Outras vagas",
+      "tag": "other-general-jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMDY0NTAzNCIsInMiOiJrcWV2WVNZODhSRzVNZEFhakFsU19BIn0.NoZyk_CqVOSnTYdoM4bZ9GXh4Gkv_d7QJ9jiq21YXAU",
+    "title": "Snowflake Data Engineer",
+    "longitude": -45.43081,
+    "salary_is_predicted": "0",
+    "latitude": -21.54638,
+    "redirect_url": "https://www.adzuna.com.br/details/5700645034?utm_medium=api&utm_source=9fef4eac",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5700645034",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Varginha, Minas Gerais",
+      "area": [
+        "Brasil",
+        "Sudeste",
+        "Minas Gerais",
+        "Varginha"
+      ]
+    },
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia3FldllTWTg4Ukc1TWRBYWpBbFNfQSIsImkiOiI1MTIwMjk0NDI1In0.KCB2D8JLRHLCtwiX5u59dUALSOxqjA2dicSlGE4g74s",
+    "title": "Big Data Engineer",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Vagas em Tecnologia Informática"
+    },
+    "description": "Our client is looking for a Big Data Engineer to join their team remotly. Responsibilities: Extracting data from different data sources and transferring it into a data warehouse environment. Designing, maintaining and implementing transactional and analytical data storage structures. Design, build and maintain data pipelines, consuming for multiple sources, and servicing multiple tenants Elaborate informative, expressive, and meaningful reports that support business decision-making processes th…",
+    "created": "2025-03-31T15:13:26Z",
+    "location": {
+      "display_name": "Brasil",
+      "area": [
+        "Brasil"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "id": "5120294425",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Pacifica Continental"
+    },
+    "redirect_url": "https://www.adzuna.com.br/details/5120294425?utm_medium=api&utm_source=9fef4eac",
+    "salary_is_predicted": "0",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "salary_is_predicted": "0",
+    "id": "5634901395",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "TELUS Digital"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "Brasil",
+        "Sudeste",
+        "Estado de São Paulo",
+        "São Paulo"
+      ],
+      "display_name": "São Paulo, Estado de São Paulo"
+    },
+    "redirect_url": "https://www.adzuna.com.br/details/5634901395?utm_medium=api&utm_source=9fef4eac",
+    "created": "2026-02-18T17:00:53Z",
+    "category": {
+      "label": "Vagas em Tecnologia Informática",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "description": "Senior Data Engineer Who We Are Welcome to TELUS Digital — where innovation drives impact at a global scale. As an award-winning digital product consultancy and the digital division of TELUS , one of Canada’s largest telecommunications providers, we design and deliver transformative customer experiences through cutting-edge technology, agile thinking, and a people-first culture. With a global team across North America, South America, Central America, Europe, and APAC, we offer end-to-end expert…",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia3FldllTWTg4Ukc1TWRBYWpBbFNfQSIsImkiOiI1NjM0OTAxMzk1In0.VQwdT7qJ7cqaFOFkspriMuSdmaCOPkyGWjVTiDY3JZA",
+    "title": "Senior Data Engineer",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5700645098",
+    "location": {
+      "area": [
+        "Brasil",
+        "Sul",
+        "Rio Grande do Sul",
+        "Estância Velha"
+      ],
+      "display_name": "Estância Velha, Rio Grande do Sul",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "redirect_url": "https://www.adzuna.com.br/details/5700645098?utm_medium=api&utm_source=9fef4eac",
+    "latitude": -30.03389,
+    "salary_is_predicted": "0",
+    "longitude": -50.25417,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMDY0NTA5OCIsInMiOiJrcWV2WVNZODhSRzVNZEFhakFsU19BIn0.EuSIXhpY6pQNM0CZrW9xbZy6Lo--EGue2Dr1LAoMfM8",
+    "title": "Principal Data Engineer",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "tag": "other-general-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Outras vagas"
+    },
+    "description": "Principal Data Engineer - Money decisions shape our lives, yet too often people are left without the clarity or tools they need to make informed choices. We exist to change that. Boldin is a comprehensive financial planning platform that helps people understand their financial picture, make smarter decisions with their money and time, and plan for the future with confidence. With over $20M raised and strong momentum, Boldin is entering a pivotal phase of growth. This is an opportunity to join a…",
+    "created": "2026-04-15T18:36:19Z",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Senior Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMDY0NDc5OCIsInMiOiJrcWV2WVNZODhSRzVNZEFhakFsU19BIn0.M2CprHoU5m7c-K9riCVuXGxH98b4_MFwZ-Wg66X83XM",
+    "description": "Senior Data Engineer - In this role, you will design and implement robust data systems, enabling seamless data ingestion, processing, and delivery. You will work closely with cross-functional teams to build a federated GraphQL architecture, powering next-generation sports data experiences within the digital ecosystem. Key ProjectsBuild a unified GraphQL API layer for seamless data access across platformsDesign and implement a core data platform for CBS Sports Digital productsDevelop data pipeli…",
+    "category": {
+      "tag": "other-general-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Outras vagas"
+    },
+    "created": "2026-04-15T18:36:14Z",
+    "redirect_url": "https://www.adzuna.com.br/details/5700644798?utm_medium=api&utm_source=9fef4eac",
+    "location": {
+      "display_name": "Recife, Pernambuco",
+      "area": [
+        "Brasil",
+        "Nordeste",
+        "Pernambuco",
+        "Recife"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "id": "5700644798",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "0",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "created": "2026-04-15T18:36:08Z",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Outras vagas",
+      "tag": "other-general-jobs"
+    },
+    "description": "Principal Data Engineer - Money decisions shape our lives, yet too often people are left without the clarity or tools they need to make informed choices. We exist to change that. Boldin is a comprehensive financial planning platform that helps people understand their financial picture, make smarter decisions with their money and time, and plan for the future with confidence. With over $20M raised and strong momentum, Boldin is entering a pivotal phase of growth. This is an opportunity to join a…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMDY0NDQwMSIsInMiOiJrcWV2WVNZODhSRzVNZEFhakFsU19BIn0.NcPJmTAU37EWLbFq70lHSiIiow2TDR0by-T_P-xrQE0",
+    "title": "Principal Data Engineer",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "0",
+    "id": "5700644401",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "São Paulo, Estado de São Paulo",
+      "area": [
+        "Brasil",
+        "Sudeste",
+        "Estado de São Paulo",
+        "São Paulo"
+      ]
+    },
+    "redirect_url": "https://www.adzuna.com.br/details/5700644401?utm_medium=api&utm_source=9fef4eac",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "longitude": -43.09805,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia3FldllTWTg4Ukc1TWRBYWpBbFNfQSIsImkiOiI1NzAwNjQ1MjE1In0.Rf4-08AFA_b51tx6L0tQ_tXUeTpeY5k0bAhQe4eJF_Q",
+    "title": "Senior Data Engineer",
+    "category": {
+      "label": "Outras vagas",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "other-general-jobs"
+    },
+    "description": "Senior Data Engineer - In this role, you will design and implement robust data systems, enabling seamless data ingestion, processing, and delivery. You will work closely with cross-functional teams to build a federated GraphQL architecture, powering next-generation sports data experiences within the digital ecosystem. Key Projects- Build a unified GraphQL API layer for seamless data access across platforms- Design and implement a core data platform for CBS Sports Digital products- Develop data …",
+    "created": "2026-04-15T18:36:20Z",
+    "redirect_url": "https://www.adzuna.com.br/details/5700645215?utm_medium=api&utm_source=9fef4eac",
+    "id": "5700645215",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Niterói, Estado do Rio de Janeiro",
+      "area": [
+        "Brasil",
+        "Sudeste",
+        "Estado do Rio de Janeiro",
+        "Niterói"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "0",
+    "latitude": -22.93369,
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "created": "2025-03-31T15:09:41Z",
+    "category": {
+      "label": "Unknown",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "unknown"
+    },
+    "description": "Nosso cliente está procurando uma pessoa Data Engineer para integrar sua equipe. Responsabilidades e atribuições: Identifique, projete e implemente melhorias de processos internos: automatizando processos manuais, otimizando a entrega de dados, redesenhando a infraestrutura para maior escalabilidade, etc; Crie a infraestrutura necessária para extração, transformação e carregamento ideais de dados de uma ampla variedade de fontes de dados usando tecnologias de big data SQL e AWS; Crie ferramenta…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTEyMDI5MzM5NyIsInMiOiJrcWV2WVNZODhSRzVNZEFhakFsU19BIn0.5qBGpGBQmDu0FJ0ffTfbrJLhREZPB04qPgkJzaiV16w",
+    "title": "Data Engineer Sênior",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "0",
+    "company": {
+      "display_name": "Pacifica Continental",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5120293397",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "Brasil"
+      ],
+      "display_name": "Brasil"
+    },
+    "redirect_url": "https://www.adzuna.com.br/details/5120293397?utm_medium=api&utm_source=9fef4eac",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia3FldllTWTg4Ukc1TWRBYWpBbFNfQSIsImkiOiI1NjQxNDYxNDQyIn0.iw_MIILJUX1bgdEntplvS1xopaTMhYmJftmIzEa14YY",
+    "title": "Data Engineer Cordinator",
+    "category": {
+      "tag": "manufacturing-jobs",
+      "label": "Vagas no ramo Industrial",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "description": "Vem ser Inter com a gente Aqui no Inter, a gente acredita que o futuro começa todos os dias, na tecnologia que você cria, nas conexões que você desenvolve e nas ideias que você compartilha. Somos um Super App com soluções completas de banco digital, investimentos, crédito, seguros, marketplace e outros serviços do dia a dia. Mas também somos muito mais: um supertime em constante evolução. Nesse ritmo é que novas oportunidades se abrem. Chegou a sua vez de conhecer esse jeito inteligente de inve…",
+    "created": "2026-02-22T17:06:49Z",
+    "redirect_url": "https://www.adzuna.com.br/details/5641461442?utm_medium=api&utm_source=9fef4eac",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "vaga para DATA ENGINEER CORDINATOR na Inter Carreiras"
+    },
+    "id": "5641461442",
+    "location": {
+      "display_name": "Brasil",
+      "area": [
+        "Brasil"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "latitude": -15.765286,
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "Brasilia, Distrito Federal",
+      "area": [
+        "Brasil",
+        "Centro-Oeste",
+        "Distrito Federal",
+        "Brasilia"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "id": "5662571142",
+    "company": {
+      "display_name": "Fusemachines",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.com.br/details/5662571142?utm_medium=api&utm_source=9fef4eac",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Unknown",
+      "tag": "unknown"
+    },
+    "description": "About Fusemachines Founded in 2013, Fusemachines is a global provider of enterprise AI products and services, on a mission to democratize AI. Leveraging proprietary AI Studio and AI Engines, the company helps drive the clients’ AI Enterprise Transformation, regardless of where they are in their Digital AI journeys. With offices in North America, Asia, and Latin America, Fusemachines provides a suite of enterprise AI offerings and specialty services that allow organizations of any size to implem…",
+    "created": "2026-03-12T16:05:09Z",
+    "longitude": -47.912034,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY2MjU3MTE0MiIsInMiOiJrcWV2WVNZODhSRzVNZEFhakFsU19BIn0.ws_m6p9JYPqwARLjeEGOCLcSVJ85JUcEY44d47Hy5pM",
+    "title": "Senior Data Engineer",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "salary_is_predicted": "0",
+    "contract_type": "contract",
+    "location": {
+      "area": [
+        "Brasil"
+      ],
+      "display_name": "Brasil",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "id": "5699366574",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Fusemachines"
+    },
+    "redirect_url": "https://www.adzuna.com.br/details/5699366574?utm_medium=api&utm_source=9fef4eac",
+    "created": "2026-04-14T17:54:56Z",
+    "description": "About Fusemachines Founded in 2013, Fusemachines is a global provider of enterprise AI products and services, on a mission to democratize AI. Leveraging proprietary AI Studio and AI Engines, the company helps drive the clients’ AI Enterprise Transformation, regardless of where they are in their Digital AI journeys. With offices in North America, Asia, and Latin America, Fusemachines provides a suite of enterprise AI offerings and specialty services that allow organizations of any size to implem…",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Vagas em Tecnologia Informática"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5OTM2NjU3NCIsInMiOiJrcWV2WVNZODhSRzVNZEFhakFsU19BIn0.GDkCEA0jaC1xQrYt19YHJxlDQ6DiqYzcwkXz-ZzkTzI",
+    "title": "Senior Data Engineer",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "location": {
+      "display_name": "Guaíba, Rio Grande do Sul",
+      "area": [
+        "Brasil",
+        "Sul",
+        "Rio Grande do Sul",
+        "Guaíba"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "id": "5700644390",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.com.br/details/5700644390?utm_medium=api&utm_source=9fef4eac",
+    "latitude": -30.11412,
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMDY0NDM5MCIsInMiOiJrcWV2WVNZODhSRzVNZEFhakFsU19BIn0.yjvHN4B5ap-7NjnSx5eakn3_wH6ZxIweUBjhHdXB-ik",
+    "title": "Senior Data Engineer",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -51.32812,
+    "created": "2026-04-15T18:36:08Z",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Outras vagas",
+      "tag": "other-general-jobs"
+    },
+    "description": "Senior Data Engineer - This role is ideal for professionals who thrive in complex data environments, working with large-scale Data Warehouses and mission-critical systems especially within financial services or similar industries. You will be responsible for designing, developing, and optimizing ETL/ELT pipelines, ensuring high standards of data quality, performance, and reliability. Key ResponsibilitiesDesign and develop ETL/ELT processes using ODIBuild and maintain scalable Data Warehouse sol…",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "category": {
+      "label": "Outras vagas",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "other-general-jobs"
+    },
+    "description": "Senior Data Engineer - This role is ideal for professionals who thrive in complex data environments, working with large-scale Data Warehouses and mission-critical systems especially within financial services or similar industries. You will be responsible for designing, developing, and optimizing ETL/ELT pipelines, ensuring high standards of data quality, performance, and reliability. Key ResponsibilitiesDesign and develop ETL/ELT processes using ODIBuild and maintain scalable Data Warehouse sol…",
+    "created": "2026-04-14T18:36:09Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia3FldllTWTg4Ukc1TWRBYWpBbFNfQSIsImkiOiI1Njk5Mzg4NDg1In0.5Nh129jX0YHwQqlq05gmqFXulJXc0d7WSLlqqRzxNvI",
+    "title": "Senior Data Engineer",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "Brasil",
+        "Nordeste",
+        "Pernambuco",
+        "Recife"
+      ],
+      "display_name": "Recife, Pernambuco",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "id": "5699388485",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.com.br/details/5699388485?utm_medium=api&utm_source=9fef4eac",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "latitude": -3.383662,
+    "salary_is_predicted": "0",
+    "id": "5700644907",
+    "location": {
+      "display_name": "Manaus, Amazonas",
+      "area": [
+        "Brasil",
+        "Norte",
+        "Amazonas",
+        "Manaus"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.com.br/details/5700644907?utm_medium=api&utm_source=9fef4eac",
+    "created": "2026-04-15T18:36:16Z",
+    "category": {
+      "tag": "other-general-jobs",
+      "label": "Outras vagas",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "description": "Senior Data Engineer - You will be responsible for both querying and analyzing large datasets within the Data Lake to support feature development, ensuring seamless data availability from ingestion through to reporting within an Agile framework. Beyond technical execution, you will act as a key contributor in data modeling, actively participating in technical discussions to help the engineering team understand underlying data patterns and quality issues. Responsibilities and Duties- Digest requ…",
+    "title": "Senior Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia3FldllTWTg4Ukc1TWRBYWpBbFNfQSIsImkiOiI1NzAwNjQ0OTA3In0.NjHtQ7p9ukv1OgBJwS8Kc2x_yc7JO5Se_FSleDAJ_4M",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -59.733686,
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "salary_is_predicted": "0",
+    "latitude": -29.16782,
+    "redirect_url": "https://www.adzuna.com.br/details/5700644540?utm_medium=api&utm_source=9fef4eac",
+    "id": "5700644540",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Caxias do Sul, Rio Grande do Sul",
+      "area": [
+        "Brasil",
+        "Sul",
+        "Rio Grande do Sul",
+        "Caxias do Sul"
+      ]
+    },
+    "created": "2026-04-15T18:36:10Z",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Outras vagas",
+      "tag": "other-general-jobs"
+    },
+    "description": "Senior Data Engineer - You will be responsible for both querying and analyzing large datasets within the Data Lake to support feature development, ensuring seamless data availability from ingestion through to reporting within an Agile framework. Beyond technical execution, you will act as a key contributor in data modeling, actively participating in technical discussions to help the engineering team understand underlying data patterns and quality issues. Responsibilities and DutiesDigest requir…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMDY0NDU0MCIsInMiOiJrcWV2WVNZODhSRzVNZEFhakFsU19BIn0.hdKL5VNj49cyx6WG5nYuJAsCnt_KhRNvn_w6nBnovNg",
+    "title": "Senior Data Engineer",
+    "longitude": -51.17938,
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Senior Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia3FldllTWTg4Ukc1TWRBYWpBbFNfQSIsImkiOiI1Njk5Mzg4NTQ3In0.pVSN5guagzYzaCNVHRljDLYAV-OcmC5zAO0juRhBR1o",
+    "longitude": -43.7855,
+    "created": "2026-04-14T18:36:09Z",
+    "description": "Senior Data Engineer - You will be responsible for both querying and analyzing large datasets within the Data Lake to support feature development, ensuring seamless data availability from ingestion through to reporting within an Agile framework. Beyond technical execution, you will act as a key contributor in data modeling, actively participating in technical discussions to help the engineering team understand underlying data patterns and quality issues. Responsibilities and DutiesDigest requir…",
+    "category": {
+      "label": "Outras vagas",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "other-general-jobs"
+    },
+    "redirect_url": "https://www.adzuna.com.br/details/5699388547?utm_medium=api&utm_source=9fef4eac",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "Brasil",
+        "Sudeste",
+        "Minas Gerais",
+        "Conselheiro Lafaiete"
+      ],
+      "display_name": "Conselheiro Lafaiete, Minas Gerais"
+    },
+    "id": "5699388547",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "0",
+    "latitude": -20.65966,
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Senior Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3ODQ4NDEwNyIsInMiOiJrcWV2WVNZODhSRzVNZEFhakFsU19BIn0.O3wOoK_KX4un7GzyqloM0VseYDruEa6vC2CUSa4HCv0",
+    "created": "2026-01-10T16:47:27Z",
+    "contract_time": "full_time",
+    "category": {
+      "tag": "unknown",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Unknown"
+    },
+    "description": "Analytics at TRACTIAN The Data Engineering team is responsible for building and maintaining the infrastructure that handles massive datasets flowing through TRACTIAN’s systems. This department ensures the availability, scalability, and performance of data pipelines, enabling seamless access and processing of real-time and historical data. The team’s core objective is to architect robust, fault-tolerant data systems that support everything from analytics to machine learning, ensuring that the ri…",
+    "redirect_url": "https://www.adzuna.com.br/details/5578484107?utm_medium=api&utm_source=9fef4eac",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "Brasil",
+        "Sudeste",
+        "Estado de São Paulo",
+        "São Paulo"
+      ],
+      "display_name": "São Paulo, Estado de São Paulo"
+    },
+    "id": "5578484107",
+    "company": {
+      "display_name": "Tractian",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "0",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "salary_is_predicted": "0",
+    "id": "5675521500",
+    "company": {
+      "display_name": "us AB InBev",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "area": [
+        "Brasil"
+      ],
+      "display_name": "Brasil",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "redirect_url": "https://www.adzuna.com.br/details/5675521500?utm_medium=api&utm_source=9fef4eac",
+    "created": "2026-03-22T17:40:59Z",
+    "category": {
+      "tag": "unknown",
+      "label": "Unknown",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "description": "About us AB InBev is the leading global brewer and one of the world’s top 5 consumer product companies. With over 500 beer brands, we’re number one or two in many of the world’s top beer markets, including North America, Latin America, Europe, Asia, and Africa. About AB InBev Growth Group Created in 2022, the Growth Group unifies our business-to-business (B2B), direct-to-consumer (DTC), Sales & Distribution, and Marketing teams. By bringing together global tech and commercial functions, the Gro…",
+    "title": "Senior Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia3FldllTWTg4Ukc1TWRBYWpBbFNfQSIsImkiOiI1Njc1NTIxNTAwIn0.zSdpsSkQiw78OBNPEv_kMNUIR26cSRDuRf5Mdm-WbQI",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Data Engineer Sr",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia3FldllTWTg4Ukc1TWRBYWpBbFNfQSIsImkiOiI1NzAzOTk1OTg1In0.NICUkpWCW8VQCCF5Bu_3ejT2wHLYrBQK6Lzeqa0AwNM",
+    "contract_time": "full_time",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Vagas em Propaganda e Marketing",
+      "tag": "pr-advertising-marketing-jobs"
+    },
+    "description": "Description Key Responsibilities As a data engineer, you will develop solutions to complex business problems which combine industry standard practices with innovation. This position offers exposure to a wide variety of analytic tools and technologies. Be ready to meet data challenges head-on as you develop and refine data processes to marry data from multiple structured and unstructured data sources which ultimately feed into the creation, evaluation, implementation, and maintenance. Partner wi…",
+    "created": "2026-04-18T17:57:57Z",
+    "redirect_url": "https://www.adzuna.com.br/details/5703995985?utm_medium=api&utm_source=9fef4eac",
+    "id": "5703995985",
+    "company": {
+      "display_name": "Chubb",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "Brasil",
+        "Sudeste",
+        "Estado de São Paulo",
+        "São Paulo"
+      ],
+      "display_name": "São Paulo, Estado de São Paulo"
+    },
+    "salary_is_predicted": "0",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "redirect_url": "https://www.adzuna.com.br/details/5701783344?utm_medium=api&utm_source=9fef4eac",
+    "company": {
+      "display_name": "DXC Technology",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5701783344",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "Brasil"
+      ],
+      "display_name": "Brasil"
+    },
+    "salary_is_predicted": "0",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMTc4MzM0NCIsInMiOiJrcWV2WVNZODhSRzVNZEFhakFsU19BIn0.gSlkq2Vz5nAc7rr_uic8Vk-vxHomRLmE5wI2N0kCVKE",
+    "title": "Data Engineer Senior",
+    "contract_time": "full_time",
+    "category": {
+      "label": "Unknown",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "unknown"
+    },
+    "description": "Job Description: A DXC Technology ajuda empresas globais a executar com seus sistemas e operações de missão crítica enquanto moderniza a TI, otimiza arquiteturas de dados e garante segurança e escalabilidade em nuvens públicas, privadas e híbridas. Com décadas de incentivo à inovação, as maiores empresas do mundo confiam na DXC para oferecer novos níveis de desempenho, competitividade e experiências para o cliente. Saiba mais sobre a história do DXC e nosso foco nas pessoas, clientes e execução…",
+    "created": "2026-04-16T17:34:52Z",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "title": "Lead Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5NzY1MzU5MSIsInMiOiJrcWV2WVNZODhSRzVNZEFhakFsU19BIn0.pONE6PmrDVnC2zug1JukgWKgPsn-C9TslThqWUYWKGY",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-04-12T17:48:14Z",
+    "category": {
+      "tag": "unknown",
+      "label": "Unknown",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "description": "Important Information Location: Brazil Job Mode: Full-time Work Mode: Work from home Job Summary We are seeking a highly experienced Data Engineer Lead to architect, develop, and deliver robust, scalable, end-to-end automation solutions. This role demands deep technical expertise across solution architecture, environment setup, deployments, observability, governance, and continuous improvement. The ideal candidate is a strong technical leader and communicator who partners closely with business …",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Encora"
+    },
+    "id": "5697653591",
+    "location": {
+      "area": [
+        "Brasil"
+      ],
+      "display_name": "Brasil",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "redirect_url": "https://www.adzuna.com.br/details/5697653591?utm_medium=api&utm_source=9fef4eac",
+    "salary_is_predicted": "0",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "category": {
+      "tag": "unknown",
+      "label": "Unknown",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "description": "Caylent is a cloud native services company that helps organizations bring the best out of their people and technology using Amazon Web Services (AWS). We provide a full-range of AWS services including workload migrations and modernization, cloud native application development, DevOps, data engineering, security and compliance, and everything in between. At Caylent, our people always come first. We are a global company and operate fully remote with employees in Canada, the United States, and Lat…",
+    "created": "2026-04-11T17:36:19Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia3FldllTWTg4Ukc1TWRBYWpBbFNfQSIsImkiOiI1Njk2OTAwNzQ2In0.BEO5id1UNCjm30QuDhH31GYxZdOV0tXE7lJ8CCaBsVw",
+    "title": "Senior Data Engineer",
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.com.br/details/5696900746?utm_medium=api&utm_source=9fef4eac",
+    "id": "5696900746",
+    "company": {
+      "display_name": "Caylent",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "Brasil"
+      ],
+      "display_name": "Brasil"
+    },
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "created": "2026-02-07T16:49:50Z",
+    "description": "About us Appnovation is a global, full-service digital partner that combines Strategy, Experience & Design, Engineering and Managed Services. We build digital solutions that deliver real impact today and serve as foundations for future growth. Bold ambition. Practical action. Endless possibilities. About the Role As a Senior Data Engineer, you will manage the \"discovery-to-scale\" pipeline, identifying recurring patterns in the field and handing off validated solutions to Platform Engineers for …",
+    "category": {
+      "tag": "unknown",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Unknown"
+    },
+    "title": "Senior Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYxOTM4MDk2MyIsInMiOiJrcWV2WVNZODhSRzVNZEFhakFsU19BIn0.psUp_3VgTEPaKNgyyNC7L3tedZzFFUR3_bicEOVl0ds",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "0",
+    "id": "5619380963",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Appnovation Technologies"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "São Paulo, Estado de São Paulo",
+      "area": [
+        "Brasil",
+        "Sudeste",
+        "Estado de São Paulo",
+        "São Paulo"
+      ]
+    },
+    "redirect_url": "https://www.adzuna.com.br/details/5619380963?utm_medium=api&utm_source=9fef4eac",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "contract_type": "permanent",
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.com.br/details/5697024498?utm_medium=api&utm_source=9fef4eac",
+    "id": "5697024498",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Kimberly-Clark Corporation"
+    },
+    "location": {
+      "area": [
+        "Brasil",
+        "Sudeste",
+        "Estado de São Paulo",
+        "São Paulo"
+      ],
+      "display_name": "São Paulo, Estado de São Paulo",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "category": {
+      "tag": "pr-advertising-marketing-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Vagas em Propaganda e Marketing"
+    },
+    "description": "Senior Data Engineer Job Description It is mandatory to apply with a Cv in English Join the team behind iconic brands like Huggies®, Kleenex®, Cottonelle®, Scott®, Kotex®, Poise®, Depend®, and Kimberly-Clark Professional® At Kimberly-Clark, it’s all here for you—innovation, growth, and the chance to make a real impact. You were made to create Better Care for a Better World: designing new technologies, diving into data, optimizing digital experiences, and constantly developing better, faster way…",
+    "created": "2026-04-11T18:30:40Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5NzAyNDQ5OCIsInMiOiJrcWV2WVNZODhSRzVNZEFhakFsU19BIn0.JUIL_pKt-aUEFFe-NrexmcmxN8HFHydlL1s0ubJ-T3E",
+    "title": "Senior Data Engineer",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "salary_is_predicted": "0",
+    "company": {
+      "display_name": "Tarmac.io",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5215014517",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "Brasil"
+      ],
+      "display_name": "Brasil"
+    },
+    "redirect_url": "https://www.adzuna.com.br/details/5215014517?utm_medium=api&utm_source=9fef4eac",
+    "created": "2025-05-24T16:41:33Z",
+    "category": {
+      "tag": "unknown",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Unknown"
+    },
+    "description": " Core Skills & Knowledge Areas Python Data manipulation: Proficiency with libraries like pandas , numpy , and pyarrow . Scripting & automation: Writing reusable, modular scripts for data ingestion and transformation. APIs: Consuming and building RESTful APIs for data exchange. Testing: Unit testing with pytest or unittest . Cloud Platforms AWS / Azure / GCP: Familiarity with services like: AWS: S3, Lambda, Glue, Redshift, EMR Azure: Data Factory, Blob Storage, Synapse GCP: BigQuery, Cloud Funct…",
+    "contract_time": "full_time",
+    "title": "BR Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTIxNTAxNDUxNyIsInMiOiJrcWV2WVNZODhSRzVNZEFhakFsU19BIn0.LZBUzlq7pVvNec2-72KCJYQQvZF9TWzxWj5QhQFbyo0",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Brasil",
+      "area": [
+        "Brasil"
+      ]
+    },
+    "id": "5623263664",
+    "company": {
+      "display_name": "Launch Potato",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.com.br/details/5623263664?utm_medium=api&utm_source=9fef4eac",
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia3FldllTWTg4Ukc1TWRBYWpBbFNfQSIsImkiOiI1NjIzMjYzNjY0In0.JdOQxIUUiZiEwgrCxF13uWESPuj6LEOcdeuE6G4tC6E",
+    "title": "Lead Data Engineer",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "tag": "unknown",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Unknown"
+    },
+    "description": "WHO ARE WE? Launch Potato is a profitable digital media company that reaches over 30M monthly visitors through brands such as FinanceBuzz , All About Cookies , and OnlyInYourState . As The Discovery and Conversion Company, our mission is to connect consumers with the world’s leading brands through data-driven content and technology. Headquartered in South Florida with a remote-first team spanning over 15 countries, we’ve built a high-growth, high-performance culture where speed, ownership, and …",
+    "created": "2026-02-10T17:28:30Z",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "redirect_url": "https://www.adzuna.com.br/details/5623244203?utm_medium=api&utm_source=9fef4eac",
+    "company": {
+      "display_name": "Launch Potato",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5623244203",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Brasil",
+      "area": [
+        "Brasil"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYyMzI0NDIwMyIsInMiOiJrcWV2WVNZODhSRzVNZEFhakFsU19BIn0.p_gh0tBIUIyctyZCBAdkoxo-fEm58qol7MpsMFl-hU0",
+    "title": "Senior Data Engineer",
+    "description": "WHO ARE WE? Launch Potato is a profitable digital media company that reaches over 30M monthly visitors through brands such as FinanceBuzz , All About Cookies , and OnlyInYourState . As The Discovery and Conversion Company, our mission is to connect consumers with the world’s leading brands through data-driven content and technology. Headquartered in South Florida with a remote-first team spanning over 15 countries, we’ve built a high-growth, high-performance culture where speed, ownership, and …",
+    "category": {
+      "label": "Unknown",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "unknown"
+    },
+    "created": "2026-02-10T17:22:45Z",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "salary_is_predicted": "0",
+    "redirect_url": "https://www.adzuna.com.br/details/5640138470?utm_medium=api&utm_source=9fef4eac",
+    "id": "5640138470",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "São Paulo, Estado de São Paulo",
+      "area": [
+        "Brasil",
+        "Sudeste",
+        "Estado de São Paulo",
+        "São Paulo"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Launch Potato"
+    },
+    "created": "2026-02-21T17:20:22Z",
+    "description": "WHO ARE WE? Launch Potato is a profitable digital media company that reaches over 30M monthly visitors through brands such as FinanceBuzz , All About Cookies , and OnlyInYourState . As The Discovery and Conversion Company, our mission is to connect consumers with the world’s leading brands through data-driven content and technology. Headquartered in South Florida with a remote-first team spanning over 15 countries, we’ve built a high-growth, high-performance culture where speed, ownership, and …",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Unknown",
+      "tag": "unknown"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Senior Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0MDEzODQ3MCIsInMiOiJrcWV2WVNZODhSRzVNZEFhakFsU19BIn0.Uv9JmAJF7_L9R3M0NuhaLvZNDlf_Xr3EKeechz-UH-4",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  },
+  {
+    "id": "5641549286",
+    "location": {
+      "area": [
+        "Brasil",
+        "Sudeste",
+        "Estado de São Paulo",
+        "São Paulo"
+      ],
+      "display_name": "São Paulo, Estado de São Paulo",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Launch Potato"
+    },
+    "redirect_url": "https://www.adzuna.com.br/details/5641549286?utm_medium=api&utm_source=9fef4eac",
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0MTU0OTI4NiIsInMiOiJrcWV2WVNZODhSRzVNZEFhakFsU19BIn0.G_wunRs04U1n_-t7XX9y23IVwmUXt0HDbLTvOAYt-Fo",
+    "title": "Lead Data Engineer",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Unknown",
+      "tag": "unknown"
+    },
+    "description": "WHO ARE WE? Launch Potato is a profitable digital media company that reaches over 30M monthly visitors through brands such as FinanceBuzz , All About Cookies , and OnlyInYourState . As The Discovery and Conversion Company, our mission is to connect consumers with the world’s leading brands through data-driven content and technology. Headquartered in South Florida with a remote-first team spanning over 15 countries, we’ve built a high-growth, high-performance culture where speed, ownership, and …",
+    "created": "2026-02-22T17:51:56Z",
+    "_ingested_at": "2026-04-19T19:25:18.483667+00:00",
+    "_country": "br",
+    "_source": "adzuna_api"
+  }
+]

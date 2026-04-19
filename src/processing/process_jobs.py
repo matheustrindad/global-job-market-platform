@@ -84,20 +84,24 @@ def normalize_columns(df: DataFrame) -> DataFrame:
     # Standardize country code to lowercase
     df = df.withColumn("country", F.lower(F.col("_country")))
 
-    # Parse ingestion timestamp
-    df = df.withColumn(
-        "ingested_at",
-        F.to_timestamp(F.col("_ingested_at"))
-    )
+    # Parse ingestion timestamp — cast aceita todos os formatos ISO 8601 no Spark 3.x
+    df = df.withColumn("ingested_at", F.col("_ingested_at").cast("timestamp"))
 
-    # Parse posted date (Adzuna: ISO string, RemoteOK: Unix timestamp string)
-    df = df.withColumn(
-        "posted_date",
-        F.coalesce(
-            F.to_date(F.col("posted_date"), "yyyy-MM-dd"),
-            F.to_date(F.from_unixtime(F.col("posted_date").cast("long")), "yyyy-MM-dd"),
-        ) if "posted_date" in df.columns else F.current_date()
-    )
+    # Parse posted date — Adzuna envia ISO 8601 completo (ex: 2026-04-18T08:00:11+00:00)
+    if "posted_date" in df.columns:
+        df = df.withColumn(
+            "posted_date",
+            F.coalesce(
+                # ISO 8601 completo com timezone — extrai só a data
+                F.to_date(F.col("posted_date").cast("timestamp")),
+                # Unix timestamp numérico (RemoteOK)
+                F.to_date(F.from_unixtime(F.col("posted_date").cast("long"))),
+                # Fallback: data de hoje
+                F.current_date()
+            )
+        )
+    else:
+        df = df.withColumn("posted_date", F.current_date())
 
     # Drop raw metadata columns
     drop_cols = [c for c in ("_country", "_ingested_at", "_source") if c in df.columns]
@@ -202,14 +206,18 @@ def run(raw_dir: str = "data/raw", trusted_dir: str = "data/trusted", quarantine
     )
     log.info("Trusted layer written → %s", trusted_path)
 
+    # Salva counts ANTES de parar a sessão Spark
+    valid_count = deduped.count()
+    quarantine_count = qdf.count()
+
     # Write quarantine
-    if qdf.count() > 0:
+    if quarantine_count > 0:
         quarantine_path = str(Path(quarantine_dir) / run_date)
         qdf.write.mode("overwrite").parquet(quarantine_path)
         log.info("Quarantine written → %s", quarantine_path)
 
     spark.stop()
-    return {"valid": deduped.count(), "quarantined": qdf.count(), "date": run_date}
+    return {"valid": valid_count, "quarantined": quarantine_count, "date": run_date}
 
 
 if __name__ == "__main__":

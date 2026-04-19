@@ -7,6 +7,9 @@ x-airflow-common: &airflow-common
     AIRFLOW__CORE__LOAD_EXAMPLES: "false"
     AIRFLOW__WEBSERVER__SECRET_KEY: ${SECRET_KEY}
     PYTHONPATH: /opt/airflow/src
+    ADZUNA_APP_ID: ${ADZUNA_APP_ID}
+    ADZUNA_APP_KEY: ${ADZUNA_APP_KEY}
+    DATABASE_URL: ${DATABASE_URL}
   volumes:
     - ./dags:/opt/airflow/dags
     - ./src:/opt/airflow/src
@@ -33,15 +36,7 @@ services:
   airflow-init:
     <<: *airflow-common
     container_name: airflow_init
-    command: >
-      bash -c "airflow db init &&
-               (airflow users create
-               --username airflow
-               --password airflow
-               --firstname Air
-               --lastname Flow
-               --role Admin
-               --email admin@example.com || true)"
+    command: bash -c "airflow db init && (airflow users create --username airflow --password airflow --firstname Air --lastname Flow --role Admin --email admin@example.com || true)"
     restart: "no"
 
   airflow-webserver:
