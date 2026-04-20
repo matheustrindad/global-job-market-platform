@@ -1,0 +1,980 @@
+[
+  {
+    "category": {
+      "label": "IT-Stellen",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "created": "2026-03-04T02:21:15Z",
+    "id": "5653156760",
+    "location": {
+      "display_name": "Leopoldstadt, Wien",
+      "area": [
+        "Österreich",
+        "Wien",
+        "Leopoldstadt"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 48.213836,
+    "contract_type": "permanent",
+    "longitude": 16.399872,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWEd1VS1Nczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NjUzMTU2NzYwIn0.PnWgLnWCgr0vbsRk-gymE0PDn6N3fFoty8YZUxa12WU",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.at/details/5653156760?utm_medium=api&utm_source=9fef4eac",
+    "salary_is_predicted": "0",
+    "salary_max": 70000,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Falkensteiner Hotels & Residences"
+    },
+    "description": "Ob 5* Hotels, Premium Camping oder neue digitale Angebote – die Falkensteiner Gruppe steht für Qualität, Innovation und gelebte Gastfreundschaft. Mit unserer BI-Initiative wollen wir datenbasierte Entscheidungen auf ein neues Niveau heben. Im Zentrum stehen smarte Dashboards, moderne Datenmodelle und eine leistungsstarke Reportinglandschaft, die operatives und strategisches Handeln unterstützt. Als Reporting Engineer (m/w/d) wirst du Teil unseres neuen BI-Teams. Du gestaltest aktiv moderne Repo…",
+    "salary_min": 63000,
+    "contract_time": "full_time",
+    "title": "(Senior) Reporting Engineer (m/w/d)",
+    "_ingested_at": "2026-04-20T15:10:36.867168+00:00",
+    "_country": "at",
+    "_source": "adzuna_api"
+  },
+  {
+    "id": "5674662384",
+    "created": "2026-03-21T22:34:39Z",
+    "category": {
+      "label": "IT-Stellen",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "location": {
+      "display_name": "Wien, Österreich",
+      "area": [
+        "Österreich",
+        "Wien"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Massar Capital"
+    },
+    "description": "FIRM OVERVIEW Massar Capital Management, LP (“Massar”) is an alternative investment management company founded in 2015. We employ a global macro trading strategy that seeks to capture investment opportunities across commodity, foreign exchange, fixed income, equity, and derivatives markets. With offices in the United States and Europe, Massar prides itself on its dynamic, entrepreneurial culture. Our investment philosophy combines fundamental understanding of individual assets with a quantitati…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY3NDY2MjM4NCIsInMiOiJYR3VVLU1zODhSRy1Hcjk5Tm1XY2JBIn0.Q_W-PnYcLTjMEz8S4rEMwRMylet6yYgMBySAB7-bR0Q",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Student Developer",
+    "redirect_url": "https://www.adzuna.at/details/5674662384?utm_medium=api&utm_source=9fef4eac",
+    "_ingested_at": "2026-04-20T15:10:36.867168+00:00",
+    "_country": "at",
+    "_source": "adzuna_api"
+  },
+  {
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "Österreich",
+      "area": [
+        "Österreich"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "category": {
+      "label": "Sonstige/Allgemeine Stellen",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "other-general-jobs"
+    },
+    "created": "2026-02-24T16:04:39Z",
+    "id": "5643677798",
+    "redirect_url": "https://www.adzuna.at/details/5643677798?utm_medium=api&utm_source=9fef4eac",
+    "title": "Senior ML Ops Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWEd1VS1Nczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NjQzNjc3Nzk4In0.kMeR0ArXBct2Af3N4jp0mOeMU0xnxrr8euqb3bZeakc",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_type": "contract",
+    "description": "Intuition Machines uses AI/ML to build enterprise security products. We apply our research to systems that serve hundreds of millions of people, with a team distributed around the world. You are probably familiar with our best-known product, the hCaptcha security suite. Our approach is simple: low overhead, small teams, and rapid iteration. As a Senior ML Data Engineer, you will help shape and expand the pipelines that power our products and research efforts. You’ll work across teams to design,…",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Intuition Machines, Inc."
+    },
+    "_ingested_at": "2026-04-20T15:10:36.867168+00:00",
+    "_country": "at",
+    "_source": "adzuna_api"
+  },
+  {
+    "description": "Job Description Only CV's in English will be considered We are looking for a talented and detail-oriented Database Developer/Data Engineer with Business Analysis capabilities (DEV/BA) is a highly technical role responsible for designing, developing, and optimizing enterprise data solutions. This role combines deep expertise in database development, data modeling, and ETL processes with strong analytical skills to interpret complex business logic and translate it into scalable, high-performance …",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "PSI CRO"
+    },
+    "title": "Database Developer",
+    "redirect_url": "https://www.adzuna.at/details/5696273649?utm_medium=api&utm_source=9fef4eac",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWEd1VS1Nczg4UkctR3I5OU5tV2NiQSIsImkiOiI1Njk2MjczNjQ5In0.bEnZROT90MAyBFO4_kyjFUcN36BUUrWAF5EzXm_HkDw",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Wien, Österreich",
+      "area": [
+        "Österreich",
+        "Wien"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "created": "2026-04-11T04:22:43Z",
+    "id": "5696273649",
+    "category": {
+      "label": "Verwaltungsstellen",
+      "tag": "admin-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "_ingested_at": "2026-04-20T15:10:36.867168+00:00",
+    "_country": "at",
+    "_source": "adzuna_api"
+  },
+  {
+    "salary_is_predicted": "0",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Österreich",
+      "area": [
+        "Österreich"
+      ]
+    },
+    "category": {
+      "label": "Unknown",
+      "tag": "unknown",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "created": "2026-03-15T08:42:12Z",
+    "id": "5666197806",
+    "description": "Als Teil der OMNINET-Unternehmensgruppe ist die OMNINET Austria GmbH der offizielle Ansprechpartner in Österreich für die Geschäftsprozessplattform OMNITRACKER. Wir sind ein erfahrener und ISO-zertifizierter Beratungs- und Umsetzungspartner in der Digitalisierung & Automatisierung von IT- und Non-IT-Services. Unsere Kompetenzen sind ITIL(R)4-zertifizierte IT- und Enterprise Servicemanagement-Software mit modellierbaren Workflows und Prozessautomatisierung sowie Business-Intelligence-Lösungen. B…",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "OMNINET Austria GmbH"
+    },
+    "redirect_url": "https://www.adzuna.at/land/ad/5666197806?se=XGuU-Ms88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=FFF38D7439E0DAF6E1E13C85CF133E6F43E012D5",
+    "title": "Business Intelligence Consultant (m/w/d)",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWEd1VS1Nczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NjY2MTk3ODA2In0.IgbmyhsBaY9kB7tMEyVpB8djq8sWbZd3z0bwU7kZQMI",
+    "_ingested_at": "2026-04-20T15:10:36.867168+00:00",
+    "_country": "at",
+    "_source": "adzuna_api"
+  },
+  {
+    "contract_time": "full_time",
+    "redirect_url": "https://www.adzuna.at/details/5547694993?utm_medium=api&utm_source=9fef4eac",
+    "title": "Data Scientist (F/M/X)",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWEd1VS1Nczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NTQ3Njk0OTkzIn0.orrU5VuNahu06i6cwbcSdkDS3Ig7FOWCD7WQEzQ7r3k",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "Acuity Analytics (the trading name of Acuity Knowledge Partners) is a global, tech-first organization helping financial institutions and corporates make better decisions through research, data, analytics and AI-enabled solutions. We combine deep financial services expertise with strong engineering, digital and AI capabilities to solve complex, real-world problems. With a team of 7,200 analysts, data specialists and technologists across 28 locations, we work with more than 800 organizations worl…",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Acuity Analytics"
+    },
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "Österreich"
+      ],
+      "display_name": "Österreich",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "category": {
+      "tag": "pr-advertising-marketing-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Stellen aus PR, Werbung & Marketing"
+    },
+    "id": "5547694993",
+    "created": "2025-12-18T20:43:51Z",
+    "_ingested_at": "2026-04-20T15:10:36.867168+00:00",
+    "_country": "at",
+    "_source": "adzuna_api"
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT-Stellen"
+    },
+    "id": "5658056958",
+    "created": "2026-03-07T22:28:16Z",
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "Österreich",
+      "area": [
+        "Österreich"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWEd1VS1Nczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NjU4MDU2OTU4In0.IUVObygSmHffG_R8RmTaQPZpTlDIjTSqvBl9STuJ0aI",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "redirect_url": "https://www.adzuna.at/details/5658056958?utm_medium=api&utm_source=9fef4eac",
+    "title": "AI Engineer (f/m/x)",
+    "company": {
+      "display_name": "Acuity Analytics",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "Welcome to an exciting opportunity where ambitious individuals are invited to join a team of inquisitive minds and supportive peers, all driven by a shared passion and diverse skills aimed at creating value for businesses through data. About Us Ascent has recently been acquired by Acuity Analytics . This is both a significant milestone for us and a tremendous opportunity for you. Acuity Analytics is a business with a strong global reputation, an impressive client base and ambitious growth plans…",
+    "_ingested_at": "2026-04-20T15:10:36.867168+00:00",
+    "_country": "at",
+    "_source": "adzuna_api"
+  },
+  {
+    "description": "Deine Aufgaben: Zur Verstärkung unseres IT-Teams suchen wir eine engagierte Persönlichkeit, die unsere KI-Services betreut, weiterentwickelt und den reibungslosen Betrieb interner KI-Systeme sicherstellt. Verwaltung, Wartung und Optimierung der unternehmensinternen KI-Services hinsichtlich Softwarekomponenten mit der Nutzung von Containertechnologien (zB Kubernetes) Sicherstellung der Systemverfügbarkeit, Performance und Sicherheit inkl. Durchführung von Troubleshootings Unterstützung bei der B…",
+    "company": {
+      "display_name": "Fronius",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.at/details/5429699133?utm_medium=api&utm_source=9fef4eac",
+    "title": "AI Operations Engineer (m/w/d)",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWEd1VS1Nczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NDI5Njk5MTMzIn0.WZoT0UaXNsNULfVzWFIBqX5P2gunkcuZ_q-VdwXypXw",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "Österreich",
+      "area": [
+        "Österreich"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "category": {
+      "tag": "unknown",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Unknown"
+    },
+    "created": "2025-10-03T19:29:07Z",
+    "id": "5429699133",
+    "_ingested_at": "2026-04-20T15:10:36.867168+00:00",
+    "_country": "at",
+    "_source": "adzuna_api"
+  },
+  {
+    "id": "5583527513",
+    "created": "2026-01-14T05:21:18Z",
+    "category": {
+      "tag": "unknown",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Unknown"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "Österreich",
+        "Wien"
+      ],
+      "display_name": "Wien, Österreich"
+    },
+    "salary_is_predicted": "0",
+    "latitude": 48.208144,
+    "company": {
+      "display_name": "VERBUND AG",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "Unser Weg in eine grüne Zukunft. Gemeinsam mit Verantwortung vorangehen. Solution Architect (w/m/d) Schwerpunkt KI Standort: Wien Tätigkeit: Vollzeit, Energiewirtschaft Gesellschaft: VERBUND Digital Power GmbH Als Österreichs führendes Energieunternehmen setzen wir wie kaum ein anderer in Europa auf die Kraft von Wasser, Wind und Sonne. Dabei bauen wir auf grünen Wasserstoff als Zukunftstechnologie. Die VERBUND Digital Power ist das digitale Kompetenzzentrum von VERBUND. Wir gestalten die Zukun…",
+    "longitude": 16.354031,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWEd1VS1Nczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NTgzNTI3NTEzIn0.LWY6LNZ9hsiORimbuqI0RmGJAqDlo7-Rz4eP4CMRl7o",
+    "title": "Solution Architect (w/m/d) Schwerpunkt KI",
+    "redirect_url": "https://www.adzuna.at/land/ad/5583527513?se=XGuU-Ms88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=56B8DC65E382DE9014604C7D204276A98BB63121",
+    "_ingested_at": "2026-04-20T15:10:36.867168+00:00",
+    "_country": "at",
+    "_source": "adzuna_api"
+  },
+  {
+    "company": {
+      "display_name": "Vienna Insurance Group AG Wiener Versicherung Gruppe",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 48.208144,
+    "longitude": 16.354031,
+    "description": "WORKING IN THE MIDDLE OF VIENNA: EXCHANGING ACROSS EUROPE Data & Analytics - Data Engineering Lead (all genders) * Vienna * full-time * hybrid * all genders * asap * experienced * Data & Analytics Your Tasks * Lead and grow a data engineering team; coordinate projects with data scientists, engineers, and product owners * Design, build, and operate scalable Databricks pipelines using Python, Declarative Pipelines, and Jobs/Workflows * Use Azure Data Factory for ingestion/orchestration; integrate…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWEd1VS1Nczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NTk5OTUwOTQ0In0.l4ta48iu7xDK-lyt0GnZWhP-QD8I_K9-YVutOhdrf4c",
+    "title": "Data & Analytics - Data Engineering Lead (all genders)",
+    "redirect_url": "https://www.adzuna.at/land/ad/5599950944?se=XGuU-Ms88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=B68801371C4E048F655F3942E77D266D41138778",
+    "id": "5599950944",
+    "created": "2026-01-25T08:19:30Z",
+    "category": {
+      "label": "Unknown",
+      "tag": "unknown",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "location": {
+      "display_name": "Wien, Österreich",
+      "area": [
+        "Österreich",
+        "Wien"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0",
+    "_ingested_at": "2026-04-20T15:10:36.867168+00:00",
+    "_country": "at",
+    "_source": "adzuna_api"
+  },
+  {
+    "category": {
+      "label": "Stellen aus PR, Werbung & Marketing",
+      "tag": "pr-advertising-marketing-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5576761786",
+    "created": "2026-01-09T21:35:09Z",
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "Österreich"
+      ],
+      "display_name": "Österreich",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_max": 43078,
+    "company": {
+      "display_name": "Avanade Österreich Company",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "Avanade ist ein führender Anbieter von digitalen und Cloud-Diensten, Business Solutions und designorientierten Anwendungen. Als Joint Venture von Microsoft und Accenture sind wir das größte Beratungsunternehmen für Microsoft-Technologien. Wir unterstützen unsere Kunden in Cloud, Modern Workplace, Business Applications, Data & AI und Security und legen Wert auf unsere PeopleFirst Mentalität. Wir legen großen Wert auf leistungsorientierte sowie wettbewerbsfähige Entlohnung und bieten dir ein Verg…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3Njc2MTc4NiIsInMiOiJYR3VVLU1zODhSRy1Hcjk5Tm1XY2JBIn0.6hwp-65MuJ89mybfare8I_v2yJUcChCZgUT-2rJXL6U",
+    "salary_min": 71,
+    "contract_time": "full_time",
+    "redirect_url": "https://www.adzuna.at/details/5576761786?utm_medium=api&utm_source=9fef4eac",
+    "title": "Analytics Solution Architect (w/m/x) – Austria",
+    "_ingested_at": "2026-04-20T15:10:36.867168+00:00",
+    "_country": "at",
+    "_source": "adzuna_api"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWEd1VS1Nczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NzAwNjcyMDU5In0.yViJitrfqZxzTGOe2Iv8OiQbg4OSP4dmFvrxF8_Oyf4",
+    "title": "Internship: Data Management and Analytics",
+    "redirect_url": "https://www.adzuna.at/details/5700672059?utm_medium=api&utm_source=9fef4eac",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "International Atomic Energy Agency"
+    },
+    "description": "Internships The IAEA accepts a limited number of interns each year. The internships are awarded to persons studying towards a university degree or who have recently received a degree (see Internship web pages for further details). The purpose of the programme is: • To provide interns with the opportunity to gain practical work experience in line with their studies or interests, and expose them to the work of the IAEA and the United National as a whole. • To benefit the IAEA's programmes through…",
+    "contract_type": "contract",
+    "id": "5700672059",
+    "created": "2026-04-16T00:00:09Z",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT-Stellen"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Österreich",
+      "area": [
+        "Österreich"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "_ingested_at": "2026-04-20T15:10:36.867168+00:00",
+    "_country": "at",
+    "_source": "adzuna_api"
+  },
+  {
+    "created": "2025-06-05T18:27:37Z",
+    "id": "5234740732",
+    "category": {
+      "label": "Unknown",
+      "tag": "unknown",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Innere Stadt, Wien",
+      "area": [
+        "Österreich",
+        "Wien",
+        "Innere Stadt"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "latitude": 48.208604,
+    "company": {
+      "display_name": "IPPEN.MEDIA",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "longitude": 16.370243,
+    "description": "Agentic AI Engineer (m/w/d) Jetzt bewerben Unser AI-Team in München sucht dich als Agentic AI Engineer (m/w/d) Bist du bereit, die Zukunft der künstlichen Intelligenz mitzugestalten? Werde Teil unseres dynamischen AI-Teams und treibe die Entwicklung innovativer KI-Agenten voran! Was dich erwartet: Du bist verantwortlich für den Entwurf , Aufbau und die Bereitstellung von KI-Agenten mit unserer Plattform, dabei arbeitest du mit Large Language Models wie GPT-4o, Claude 3.5 Sonnet, Gemini und spez…",
+    "contract_type": "permanent",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWEd1VS1Nczg4UkctR3I5OU5tV2NiQSIsImkiOiI1MjM0NzQwNzMyIn0.uIvGLrDwqApwg9l1J98541ymwMbkAy5gQSyhXIFRzv4",
+    "title": "Job in Deutschland (München): Agentic AI Engineer (m/w/d)",
+    "contract_time": "full_time",
+    "redirect_url": "https://www.adzuna.at/details/5234740732?utm_medium=api&utm_source=9fef4eac",
+    "_ingested_at": "2026-04-20T15:10:36.867168+00:00",
+    "_country": "at",
+    "_source": "adzuna_api"
+  },
+  {
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Wien, Österreich",
+      "area": [
+        "Österreich",
+        "Wien"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "created": "2025-12-19T18:29:27Z",
+    "id": "5548625816",
+    "category": {
+      "label": "IT-Stellen",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "description": "Ribbon Bio, a growth stage synthetic biology company that specializes in the synthesis of long and highly complex DNA molecules. As we scale, we’re building the next generation of internal and external data infrastructure—robust, secure, cloud-native systems that empower scientists, engineers, and partners worldwide. We are seeking a versatile Data Infrastructure Software Developer with strong experience in secure cloud deployment and operational reliability to join the growing Data Operations …",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Ribbon Bio"
+    },
+    "salary_max": 50000,
+    "title": "Software Developer, Data Infrastructure (Cloud Ops focus) - m/f/d, full-time",
+    "redirect_url": "https://www.adzuna.at/details/5548625816?utm_medium=api&utm_source=9fef4eac",
+    "salary_min": 50000,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0ODYyNTgxNiIsInMiOiJYR3VVLU1zODhSRy1Hcjk5Tm1XY2JBIn0.GsDD3nQaFvsIK8vHUDxvPrDcEtkW9zZymtwp_hE3lp0",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_ingested_at": "2026-04-20T15:10:36.867168+00:00",
+    "_country": "at",
+    "_source": "adzuna_api"
+  },
+  {
+    "location": {
+      "display_name": "Wien, Österreich",
+      "area": [
+        "Österreich",
+        "Wien"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0",
+    "created": "2026-04-01T22:08:18Z",
+    "id": "5685983063",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "accounting-finance-jobs",
+      "label": "Stellen aus Buchhaltung & Finanzwesen"
+    },
+    "title": "Quant Researcher",
+    "contract_time": "full_time",
+    "redirect_url": "https://www.adzuna.at/details/5685983063?utm_medium=api&utm_source=9fef4eac",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWEd1VS1Nczg4UkctR3I5OU5tV2NiQSIsImkiOiI1Njg1OTgzMDYzIn0.0A7yUjlS0oHDULyIES0LuZO1so9jnWB73e-e3ItRRz8",
+    "description": "We are working with a systematic hedge fund seeking a Quant Researcher to help develop their next‑generation derivatives‑driven trading platform. Based in Vienna, this is a high‑impact role where you'll join a firm building a modern, research‑centric environment for systematic strategy development across global markets. If you thrive in lean, intellectually rigorous teams, enjoy deep quantitative research, and want to build real, deployable trading strategies not just academic models, this is a…",
+    "contract_type": "permanent",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Selby Jennings London"
+    },
+    "_ingested_at": "2026-04-20T15:10:36.867168+00:00",
+    "_country": "at",
+    "_source": "adzuna_api"
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 48.208144,
+    "salary_max": 90000,
+    "description": "Für ein innovatives, wachstumsorientiertes Unternehmen im Bereich Künstliche Intelligenz und Machine Learning suchen wir einen erfahrenen AI DevOps Engineer , der die Infrastruktur für moderne KI-Systeme aufbaut, skaliert und optimiert. Sie arbeiten eng mit Data Scientists und ML Engineers zusammen und stellen sicher, dass Large Language Models (LLMs) effizient, skalierbar und sicher betrieben werden. Aufbau, Betrieb und Optimierung von Cloud-basierten ML- und LLM-Infrastrukturen Implementierun…",
+    "longitude": 16.354031,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWEd1VS1Nczg4UkctR3I5OU5tV2NiQSIsImkiOiI1Njk0MTY1MzM2In0.9GYcjfbHDRoTO4aW7AmZTqQgFobHQ4hhc-Nr7uaQ7fE",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "AI DevOps Engineer (m/w/d) - LLM and Cloud Infrastruktur",
+    "salary_min": 70000,
+    "redirect_url": "https://www.adzuna.at/details/5694165336?utm_medium=api&utm_source=9fef4eac",
+    "created": "2026-04-09T06:21:31Z",
+    "id": "5694165336",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT-Stellen"
+    },
+    "location": {
+      "area": [
+        "Österreich",
+        "Wien"
+      ],
+      "display_name": "Wien, Österreich",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0",
+    "_ingested_at": "2026-04-20T15:10:36.867168+00:00",
+    "_country": "at",
+    "_source": "adzuna_api"
+  },
+  {
+    "category": {
+      "label": "Technikerstellen",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "engineering-jobs"
+    },
+    "id": "5698157418",
+    "created": "2026-04-13T15:44:31Z",
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "Wien, Österreich",
+      "area": [
+        "Österreich",
+        "Wien"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_max": 40000,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "sequestra FlexCo"
+    },
+    "description": "Do you want to use your talent and drive to make a significant difference? sequestra builds the most advanced technology for capturing CO₂ in mineral residues. These are returned to the value chain as sustainable building products. Our processes are at the heart of a segment with the potential to reduce global CO₂ emissions by 4 Gt. At sequestra, you will help to shape a company that is committed to becoming the global frontrunner in carbonation intelligence. We are based in Vienna, the most li…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWEd1VS1Nczg4UkctR3I5OU5tV2NiQSIsImkiOiI1Njk4MTU3NDE4In0.TNih1GFry8KIr3_WRoBTUs4gS6eGy5vfsrmUIOvZnAo",
+    "redirect_url": "https://www.adzuna.at/details/5698157418?utm_medium=api&utm_source=9fef4eac",
+    "salary_min": 40000,
+    "title": "Chemical Laboratory Technician (all genders, full or part time)",
+    "_ingested_at": "2026-04-20T15:10:36.867168+00:00",
+    "_country": "at",
+    "_source": "adzuna_api"
+  },
+  {
+    "category": {
+      "label": "Unknown",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "unknown"
+    },
+    "created": "2026-04-18T10:18:20Z",
+    "id": "5703440576",
+    "salary_is_predicted": "0",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Wallern an der Trattnach, Grieskirchen",
+      "area": [
+        "Österreich",
+        "Oberösterreich",
+        "Grieskirchen",
+        "Wallern an der Trattnach"
+      ]
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWEd1VS1Nczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NzAzNDQwNTc2In0.Y_WogkjDn1P0JYqRpLWjfariYvjxVMD3kSiTLCKUwvI",
+    "redirect_url": "https://www.adzuna.at/land/ad/5703440576?se=XGuU-Ms88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=D22F98E1D0F4B3C32469B16B733C3B05565C22A8",
+    "title": "QA/QC Quality Engineer",
+    "latitude": 48.226407,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Zaunergroup"
+    },
+    "description": "QA/QC Quality Engineer Data Center Mainz oder Berlin Vollzeit Wallern an der Trattnach INTRO Zaunergroup ist internationaler Partner für Engineering, Anlagenbau und Industrieservices in den Bereichen Energie, Industrie und Infrastruktur. Für unsere Projekte im Bereich Data Center Central Europe suchen wir eine engagierte Persönlichkeit als QA/QC Quality Engineer für den Projektstandort Mainz. In dieser Rolle sind Sie verantwortlich für die Sicherstellung der Qualitätsstandards während der gesam…",
+    "longitude": 13.954398,
+    "_ingested_at": "2026-04-20T15:10:36.867168+00:00",
+    "_country": "at",
+    "_source": "adzuna_api"
+  },
+  {
+    "location": {
+      "display_name": "Österreich",
+      "area": [
+        "Österreich"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0",
+    "created": "2026-04-13T22:09:11Z",
+    "id": "5698319410",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT-Stellen"
+    },
+    "title": "Technical Product Owner",
+    "contract_time": "full_time",
+    "salary_min": 50000,
+    "redirect_url": "https://www.adzuna.at/details/5698319410?utm_medium=api&utm_source=9fef4eac",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWEd1VS1Nczg4UkctR3I5OU5tV2NiQSIsImkiOiI1Njk4MzE5NDEwIn0.mzuvIKmhMlFndyPCQaq9DLMgMxxfrITYs9q71txGPmY",
+    "description": "Technical Product Owner - Risk & Finance - Linz, Austria / Hybrid (Key skills: Product Owner, Risk & Finance Technology, Backlog Prioritisation, Cloud Data Platforms, Agile (Scrum & Kanban), Technical Product Strategy, Stakeholder Management, Data Integration, Performance Optimisation, Product Roadmapping, CI/CD, Analytics / ETL, Financial Services, Risk Reporting) Are you a technical product leader with a strong understanding of risk and financial systems who enjoys shaping and delivering high…",
+    "contract_type": "permanent",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Noir"
+    },
+    "salary_max": 75000,
+    "_ingested_at": "2026-04-20T15:10:36.867168+00:00",
+    "_country": "at",
+    "_source": "adzuna_api"
+  },
+  {
+    "created": "2025-12-25T05:13:18Z",
+    "id": "5555101476",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "unknown",
+      "label": "Unknown"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Wels, Oberösterreich",
+      "area": [
+        "Österreich",
+        "Oberösterreich",
+        "Wels"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "latitude": 48.166893,
+    "company": {
+      "display_name": "Premedia GmbH",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "Full Stack Developer (Fokus.net) (w/m/d) Vollzeit Wels/Linz/Wien/Salzburg/Homeoffice (hybrid) smart bewerben Bei uns geht das, was du willst Wir bei Premedia automatisieren Marketing-Prozesse. Seit mehr als 40 Jahren, mit 130 Mitarbeiter:innen und 4 Standorten in Wels, Salzburg, Linz und Wien, begleiten wir zahlreiche international tätige Unternehmen wie Raiffeisen, Wüstenrot, Trodat oder die XXXLutz-Gruppe dabei, ihr Marketing zu vereinfachen. Verwirkliche Qualität über den ganzen Stack: Als F…",
+    "longitude": 14.016819,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1NTEwMTQ3NiIsInMiOiJYR3VVLU1zODhSRy1Hcjk5Tm1XY2JBIn0.nDAnnsGJEQxPaaHOdItNK8pgV-snwoDQw9JBMBpAXqo",
+    "title": "Full Stack Developer (Fokus.net) (w/m/d)",
+    "redirect_url": "https://www.adzuna.at/land/ad/5555101476?se=XGuU-Ms88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=169786855F8D296F0D7C97E9EFCFEB827174712D",
+    "_ingested_at": "2026-04-20T15:10:36.867168+00:00",
+    "_country": "at",
+    "_source": "adzuna_api"
+  },
+  {
+    "company": {
+      "display_name": "Edge Sevices",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_max": 75,
+    "description": "Application Deadline: April 30, 2026 Vienna Hybrid Hourly salary: $70 - $75 Job Description The Technical Program Manager (TPM) supports the Marketing Data Science organization by leading the delivery, integration, and operationalization of data-driven and analytics-enabled marketing capabilities. This role ensures that data platforms, pipelines, models, and AI-enabled use cases are delivered in a compliant, scalable, and production-ready manner—bridging Data Science innovation with enterprise …",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwNDgwNjYyOSIsInMiOiJYR3VVLU1zODhSRy1Hcjk5Tm1XY2JBIn0.gATtQKqc4p2MwAqbVY1cD1gHFfx40FBSHeKQF5_89rk",
+    "title": "Program Manager",
+    "redirect_url": "https://www.adzuna.at/details/5704806629?utm_medium=api&utm_source=9fef4eac",
+    "salary_min": 70,
+    "id": "5704806629",
+    "created": "2026-04-20T00:11:49Z",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "unknown",
+      "label": "Unknown"
+    },
+    "location": {
+      "display_name": "Österreich",
+      "area": [
+        "Österreich"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0",
+    "_ingested_at": "2026-04-20T15:10:36.867168+00:00",
+    "_country": "at",
+    "_source": "adzuna_api"
+  },
+  {
+    "title": "Senior Frontend Engineer (f/m/d) 30-38.5h",
+    "salary_min": 3900,
+    "redirect_url": "https://www.adzuna.at/details/5680781909?utm_medium=api&utm_source=9fef4eac",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY4MDc4MTkwOSIsInMiOiJYR3VVLU1zODhSRy1Hcjk5Tm1XY2JBIn0.3D-BOD_96wcs7JiY2l81WCOYeatPknL_52pRoLSRV8Y",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "We are Formunauts – a fast-growing impact company with a clear mission: We support more than 100 charities in Europe and Latin America in achieving their goals. Our clients include Amnesty International, Doctors Without Borders, WWF and Greenpeace . Since 2014, our award-winning software has helped make fundraising campaigns more efficient, increasing the funds available for meaningful projects. Since 2020, we have been operating the world’s first marketplace for face-to-face fundraising , open…",
+    "contract_type": "permanent",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Formunauts GmbH"
+    },
+    "salary_max": 5000,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "Österreich"
+      ],
+      "display_name": "Österreich"
+    },
+    "salary_is_predicted": "0",
+    "id": "5680781909",
+    "created": "2026-03-27T23:58:13Z",
+    "category": {
+      "label": "IT-Stellen",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "_ingested_at": "2026-04-20T15:10:36.867168+00:00",
+    "_country": "at",
+    "_source": "adzuna_api"
+  },
+  {
+    "title": "Senior Infrastructure Engineer",
+    "contract_time": "full_time",
+    "redirect_url": "https://www.adzuna.at/details/5635211099?utm_medium=api&utm_source=9fef4eac",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYzNTIxMTA5OSIsInMiOiJYR3VVLU1zODhSRy1Hcjk5Tm1XY2JBIn0.ZUhsWNlsGD0X6H4jFI70rC4l5qkU3vMOr3Sgx_RvfIk",
+    "description": "About the role As our Senior Infrastructure Engineer , you will take ownership of our cloud infrastructure and make it safer, more predictable, and easier to operate. This is a hands-on role in a lean team, with real responsibility for architecture, reliability, and security. You will work closely with backend and data science teams and act as the technical authority for infrastructure decisions. Responsibilities Design, harden, and operate our AWS infrastructure with a focus on reliability, se…",
+    "company": {
+      "display_name": "Biolyz FlexCo",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Österreich",
+      "area": [
+        "Österreich"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "id": "5635211099",
+    "created": "2026-02-18T22:25:16Z",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "unknown",
+      "label": "Unknown"
+    },
+    "_ingested_at": "2026-04-20T15:10:36.867168+00:00",
+    "_country": "at",
+    "_source": "adzuna_api"
+  },
+  {
+    "category": {
+      "label": "Unknown",
+      "tag": "unknown",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5697314147",
+    "created": "2026-04-12T08:10:14Z",
+    "salary_is_predicted": "0",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Österreich",
+      "area": [
+        "Österreich"
+      ]
+    },
+    "company": {
+      "display_name": "GE HealthCare",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "Job Description Summary In this 1 year Internship you will support the development and maintenance of scalable and robust AI platforms, contributing to cutting-edge medical imaging and diagnostic solutions. At GE HealthCare, our machines, our software, our solutions, our services, and our people make a genuine difference to medical professionals and patients all over the world. That's because we never lose sight of what healthcare really needs-the human touch. Job Description Job Summary As an …",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWEd1VS1Nczg4UkctR3I5OU5tV2NiQSIsImkiOiI1Njk3MzE0MTQ3In0.W7eJPtUcgmcTkaqf1V7fkcpbbYZ2ySmXYQW1MkPE-bI",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.at/land/ad/5697314147?se=XGuU-Ms88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=FF6C258DA0837B1AEB748EBD1FD683613B582885",
+    "title": "Internship - AI Infrastructure",
+    "_ingested_at": "2026-04-20T15:10:36.867168+00:00",
+    "_country": "at",
+    "_source": "adzuna_api"
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "unknown",
+      "label": "Unknown"
+    },
+    "created": "2026-02-25T22:23:15Z",
+    "id": "5645484792",
+    "salary_is_predicted": "0",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Österreich",
+      "area": [
+        "Österreich"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "KLA"
+    },
+    "description": "Company Overview KLA is a global leader in diversified electronics for the semiconductor manufacturing ecosystem. Virtually every electronic device in the world is produced using our technologies. No laptop, smartphone, wearable device, voice-controlled gadget, flexible screen, VR device or smart car would have made it into your hands without us. KLA invents systems and solutions for the manufacturing of wafers and reticles, integrated circuits, packaging, printed circuit boards and flat panel …",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWEd1VS1Nczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NjQ1NDg0NzkyIn0.5C99-LiLzPcYiJfAeGt6-8KTEvqD5P8cKuhwl5_za8U",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "redirect_url": "https://www.adzuna.at/details/5645484792?utm_medium=api&utm_source=9fef4eac",
+    "title": "Customer Support Engineer (m/w/d)",
+    "_ingested_at": "2026-04-20T15:10:36.867168+00:00",
+    "_country": "at",
+    "_source": "adzuna_api"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWEd1VS1Nczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NTQ4NTU5Njg4In0.EoPvcXep3a6S5t7Hj7J98gavti0YUx4zcJjB7-NbGPw",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "redirect_url": "https://www.adzuna.at/details/5548559688?utm_medium=api&utm_source=9fef4eac",
+    "title": "(Staff) Full Stack Engineer | React & Python | (f/m/d)",
+    "company": {
+      "display_name": "Adverity",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "We are looking for a Staff Fullstack Engineer to drive the technical approach, work breakdown, execution, and delivery of projects in one of our Platform teams. You have the knowledge to tackle overarching strategic topics, influence the architecture, focus on performance & security, and advocate for best engineering practices. This is a full-time & remote friendly position based in Vienna / Austria. Some of the things you’ll do: In the first month: Get to know your product development team and…",
+    "category": {
+      "label": "Technikerstellen",
+      "tag": "engineering-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "created": "2025-12-19T17:25:31Z",
+    "id": "5548559688",
+    "salary_is_predicted": "0",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "Österreich",
+        "Wien"
+      ],
+      "display_name": "Wien, Österreich"
+    },
+    "_ingested_at": "2026-04-20T15:10:36.867168+00:00",
+    "_country": "at",
+    "_source": "adzuna_api"
+  },
+  {
+    "id": "5680805850",
+    "created": "2026-03-28T00:41:19Z",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "unknown",
+      "label": "Unknown"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Österreich",
+      "area": [
+        "Österreich"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Formunauts GmbH"
+    },
+    "description": "We are Formunauts - a fast-growing Impact company with a clear mission: We support more than 100 charities in Europe and Latin America in achieving their goals. Our clients include Amnesty International, Doctors Without Borders, WWF and Greenpeace. Since 2014, our award-winning software has helped make fundraising campaigns more efficient, increasing the funds available for meaningful projects. Since 2020, we have been operating the world's first marketplace for face-to-face fundraising, openin…",
+    "contract_type": "permanent",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY4MDgwNTg1MCIsInMiOiJYR3VVLU1zODhSRy1Hcjk5Tm1XY2JBIn0.egsB0cODKH0ksfyYzNDVyIxhr4pe0YUKyzcz3aGdTq8",
+    "title": "Senior Frontend Engineer (f/m/d)",
+    "contract_time": "part_time",
+    "redirect_url": "https://www.adzuna.at/land/ad/5680805850?se=XGuU-Ms88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=B2C3A8A8C775BD00E514C1FDCCA072286622D15E",
+    "_ingested_at": "2026-04-20T15:10:36.867168+00:00",
+    "_country": "at",
+    "_source": "adzuna_api"
+  },
+  {
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "Wien, Österreich",
+      "area": [
+        "Österreich",
+        "Wien"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT-Stellen"
+    },
+    "created": "2025-12-20T20:47:22Z",
+    "id": "5550417076",
+    "redirect_url": "https://www.adzuna.at/details/5550417076?utm_medium=api&utm_source=9fef4eac",
+    "contract_time": "part_time",
+    "title": "Senior Data Scientist (m/f/d) - Focus Industrial AI",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWEd1VS1Nczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NTUwNDE3MDc2In0.iLfxgzDvJ3hG53QaIj5rplMOxvsITzj7TYlDuJgjycE",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "Are you ready to have a positive impact on sustainable software & AI solutions with us? We are craftworks, a handpicked and diverse team of creative thinkers and implementers. We develop innovative products and individual software solutions for industrial companies in the fields of machine learning and big data. Leading companies like voestalpine, Verbund, ASFINAG, Fill or ENGEL are already long-standing customers who trust our high-quality standards. In doing so, we inspire and promote growth …",
+    "longitude": 16.354031,
+    "company": {
+      "display_name": "craftworks",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 48.208144,
+    "_ingested_at": "2026-04-20T15:10:36.867168+00:00",
+    "_country": "at",
+    "_source": "adzuna_api"
+  },
+  {
+    "location": {
+      "display_name": "Linz, Oberösterreich",
+      "area": [
+        "Österreich",
+        "Oberösterreich",
+        "Linz"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0",
+    "id": "5647799409",
+    "created": "2026-02-28T00:17:44Z",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "scientific-qa-jobs",
+      "label": "Stellen aus Wissenschaft & Qualitätssicherung"
+    },
+    "longitude": 14.293495,
+    "description": "(Senior) Data Scientist (all genders) Join us as a Data Scientist to frame high‑impact problems, engineer text data, build cutting‑edge models, and partner with ML teams to deliver scalable, production‑ready AI. TeamViewer provides a leading Digital Workplace platform that connects people with technology—enabling, improving and automating digital processes to make work work better. Our software solutions harness the power of AI and shape the future of digitalization. We believe that our diverse…",
+    "company": {
+      "display_name": "TeamViewer GmbH",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 48.290256,
+    "title": "(Senior) Data Scientist (all genders)",
+    "redirect_url": "https://www.adzuna.at/details/5647799409?utm_medium=api&utm_source=9fef4eac",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0Nzc5OTQwOSIsInMiOiJYR3VVLU1zODhSRy1Hcjk5Tm1XY2JBIn0.q1qC6Lkf2o4-Cuh_e_T9GetCTs-nk-ZH-_oECDmIzk8",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_ingested_at": "2026-04-20T15:10:36.867168+00:00",
+    "_country": "at",
+    "_source": "adzuna_api"
+  },
+  {
+    "redirect_url": "https://www.adzuna.at/details/5647800381?utm_medium=api&utm_source=9fef4eac",
+    "title": "(Senior) Data Scientist (all genders)",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0NzgwMDM4MSIsInMiOiJYR3VVLU1zODhSRy1Hcjk5Tm1XY2JBIn0.CGOHzfhht-PlEceH9Xnxfh-F5JVS8H8VvNOR6ilhJFY",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "(Senior) Data Scientist (all genders) Join us as a Data Scientist to frame high‑impact problems, engineer text data, build cutting‑edge models, and partner with ML teams to deliver scalable, production‑ready AI. TeamViewer provides a leading Digital Workplace platform that connects people with technology—enabling, improving and automating digital processes to make work work better. Our software solutions harness the power of AI and shape the future of digitalization. We believe that our diverse…",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "TeamViewer GmbH"
+    },
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "Österreich"
+      ],
+      "display_name": "Österreich",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "category": {
+      "label": "Stellen aus Wissenschaft & Qualitätssicherung",
+      "tag": "scientific-qa-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "created": "2026-02-28T00:18:40Z",
+    "id": "5647800381",
+    "_ingested_at": "2026-04-20T15:10:36.867168+00:00",
+    "_country": "at",
+    "_source": "adzuna_api"
+  },
+  {
+    "title": "Senior Data Analyst (f/m/d)",
+    "redirect_url": "https://www.adzuna.at/details/5702375163?utm_medium=api&utm_source=9fef4eac",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWEd1VS1Nczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NzAyMzc1MTYzIn0.9GCUdnO5kmn9gdbi3JLreWYxru9V28c9x0yraPb-QYo",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "Your Responsibilities We’re looking for a Senior Data Analyst (f/m/d) to join our data team and play a key role in turning data into actionable insights that drive business decisions. You’ll work closely with stakeholders across the company to understand their needs, analyse complex datasets, and deliver clear, impactful reporting and recommendations. In this role, you’ll be instrumental in transforming raw data into meaningful analysis, building intuitive dashboards, and enabling self-service …",
+    "longitude": 16.350023,
+    "company": {
+      "display_name": "MeisterLabs Software GmbH",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 48.194856,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "Österreich",
+        "Wien",
+        "Mariahilf"
+      ],
+      "display_name": "Mariahilf, Wien"
+    },
+    "salary_is_predicted": "0",
+    "created": "2026-04-17T10:35:07Z",
+    "id": "5702375163",
+    "category": {
+      "tag": "unknown",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Unknown"
+    },
+    "_ingested_at": "2026-04-20T15:10:36.867168+00:00",
+    "_country": "at",
+    "_source": "adzuna_api"
+  }
+]

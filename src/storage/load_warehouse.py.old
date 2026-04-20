@@ -1,0 +1,34 @@
+import pandas as pd
+import glob
+import os
+from sqlalchemy import create_engine
+import logging
+
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+log = logging.getLogger("load_warehouse")
+
+# Porta 5433 que é a padrão do seu docker-compose para o Postgres
+DB_URL = "postgresql://airflow:airflow@localhost:5433/airflow"
+
+def run_load(trusted_dir="data/trusted"):
+    engine = create_engine(DB_URL)
+    # Busca arquivos parquet de forma recursiva
+    files = glob.glob(os.path.join(trusted_dir, "**/*.parquet"), recursive=True)
+    
+    if not files:
+        log.warning("Nenhum arquivo Parquet encontrado em data/trusted!")
+        return
+
+    log.info(f"Encontrados {len(files)} arquivos para carregar.")
+
+    for file in files:
+        try:
+            df = pd.read_parquet(file)
+            # Carrega para a tabela fact_jobs
+            df.to_sql("fact_jobs", engine, if_exists="append", index=False)
+            log.info(f"Sucesso: {os.path.basename(file)} carregado ({len(df)} registros)")
+        except Exception as e:
+            log.error(f"Erro ao carregar {file}: {e}")
+
+if __name__ == "__main__":
+    run_load()

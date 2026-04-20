@@ -1,0 +1,1722 @@
+[
+  {
+    "created": "2026-03-11T12:11:56Z",
+    "title": "Senior Data Engineer",
+    "longitude": -0.139134,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "London"
+      ],
+      "display_name": "London, UK"
+    },
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5661637901?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=4CC61B28A8FFAAD15369D5269B49B0B197645863",
+    "latitude": 51.503378,
+    "salary_is_predicted": "1",
+    "id": "5661637901",
+    "salary_min": 67400.09,
+    "contract_type": "contract",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY0FkRDlNczg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NjYxNjM3OTAxIn0.7jACWFIinyRWOvD6E_SPR68K9OT50KreeKpgVxHmPAg",
+    "description": "Senior Data Engineer Inside IR35 Contract - Up to £850 per day 3 Days per Week in London 6-Month Initial Contract (2 Years Project Scope) Start Date : April 2026 We are working alongside a leading Commodities Trading Firm who are searching for a Senior Data Engineer to join the business. You'll be building pipelines to support their trading and analytics platforms! Project & Responsibilities Design and develop scalable Python-based data pipelines using Dagster to ingest, transform and integrate…",
+    "salary_max": 67400.09,
+    "contract_time": "full_time",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Hunter Bond"
+    },
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "salary_is_predicted": "1",
+    "id": "5631887512",
+    "contract_type": "contract",
+    "salary_min": 74708.69,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYzMTg4NzUxMiIsInMiOiJjQWREOU1zODhSR19ySzdKalFjd0hnIn0.3bj9X8TuPrNCjhJ67tBefqMoTJ22NDbN4kGJVKRX-a8",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "description": "Senior Software Engineer – Data Engineering Contract duration:- 6 months initially (with extension available for the right person) Location:- London EC4 Hybrid working:3 days per week in office  2 days WFH Rate: £650 inside IR35 Join our Data Engineering team at the heart of a quantitative investment firm, powering the infrastructure which drives our systematic trading strategies and cutting-edge discretionary research. You’ll help architect a multi-petabyte scale estate, processing billions of…",
+    "salary_max": 74708.69,
+    "contract_time": "full_time",
+    "company": {
+      "display_name": "McCabe & Barton",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-02-16T16:25:26Z",
+    "title": "Senior Data Engineer",
+    "longitude": -0.139134,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "London"
+      ],
+      "display_name": "London, UK"
+    },
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5631887512?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=05264E2AD86912384CD9B667627A93719F409C79",
+    "latitude": 51.503378,
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "contract_time": "full_time",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Tribus",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_max": 72850.74,
+    "description": "Relocation Opportunities - Singapore, Hong Kong, Sydney We're partnered with several leading funds that are offering relocation packages for candidates with Industry experience. Data Engineer - Quantitative Research Environment Overview An elite trading and research firm is seeking a skilled technologist to join a collaborative team supporting the data-driven backbone of a world-class quantitative investment strategy. This is a unique opportunity to design, build, and maintain critical research…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY0FkRDlNczg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NjMxODg3ODYzIn0.mHqdIc53gaaSkbVX2wjROUtFVb0zLPXMYqcBC-HvIUA",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "salary_is_predicted": "1",
+    "id": "5631887863",
+    "salary_min": 72850.74,
+    "location": {
+      "display_name": "London, UK",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "London"
+      ]
+    },
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5631887863?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=9EF42315BC6430EB43AD962E2BE122B49ED33BBD",
+    "latitude": 51.503378,
+    "longitude": -0.139134,
+    "created": "2026-02-16T16:25:30Z",
+    "title": "Data Engineer - Tribus",
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5OTM3MzIyNSIsInMiOiJjQWREOU1zODhSR19ySzdKalFjd0hnIn0.JZ7sAy5HJNWi84lwD9RN5NbQzMJqZgc8agW6rYD-zzc",
+    "salary_min": 75850.23,
+    "title": "Senior Python Data Engineer",
+    "contract_type": "permanent",
+    "salary_is_predicted": "1",
+    "created": "2026-04-14T22:19:07Z",
+    "id": "5699373225",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Morgan McKinley"
+    },
+    "contract_time": "full_time",
+    "salary_max": 75850.23,
+    "description": "Job Title: Python Data Engineer (Greenfield Build) Location: Central London (Hybrid - 3 days in office / 2 days remote) Contract: 12-month Fixed-Term Contract (with benefits  10% year-end bonus) Overview We are working with a leading financial services organisation to hire two Python-focused Data Engineers to support a major greenfield data transformation programme within its Investments and Finance functions. These roles will sit across Shared Services, working closely with senior investment l…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5699373225?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=4D2D90C03A3C8E9330F6A09107966BDD8A25D36A",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "London"
+      ],
+      "display_name": "London, UK"
+    },
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "contract_type": "permanent",
+    "title": "Senior Data Engineer - Azure, BI & Data Strategy",
+    "salary_min": 55000,
+    "salary_is_predicted": "0",
+    "created": "2026-03-26T22:12:50Z",
+    "id": "5679739404",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY3OTczOTQwNCIsInMiOiJjQWREOU1zODhSR19ySzdKalFjd0hnIn0.jDOqPyFLnq574x1yrD0XlbkutB52yrMHbMfoQaZdFEE",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "description": "Senior Data Engineer - Azure, BI & Data Strategy Location: East Yorkshire Salary: £55,000-£65,000 depending on experience Contract Type: Permanent We’re looking for a Senior Data Engineer with strong experience in Azure Data Factory, Business Intelligence and data strategy to join a forward-thinking organisation modernising its data ecosystem. This is an excellent opportunity for a Senior Data Engineer who can bridge the gap between technology and business, ensuring that data from systems such …",
+    "salary_max": 65000,
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5679739404?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=B562635FDF4FF7B1021FACF434096E5283BC10B6",
+    "location": {
+      "display_name": "UK",
+      "area": [
+        "UK"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Consortium Professional Recruitment"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "company": {
+      "display_name": "Peaple Talent",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 51.503378,
+    "description": " Databricks Data Engineer | London | £60,000 - £75,000  Peaple Talent have partnered with a specialist data consultancy delivering services across data engineering, data strategy, data migration, BI & analytics. As a trusted Microsoft Partner, my client are leaders in the industry, with a diverse portfolio of clients and projects. Due to exciting growth plans we are now looking for a Data Engineer, specialising in Databricks. We are looking for: Demonstratable data engineering/BI skills, with a…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5697215262?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=B841EC668E353E745F5217DAE0097CAF57A100B8",
+    "salary_max": 64390.63,
+    "location": {
+      "display_name": "London, UK",
+      "area": [
+        "UK",
+        "London"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY0FkRDlNczg4Ukdfcks3SmpRY3dIZyIsImkiOiI1Njk3MjE1MjYyIn0.vkj3gPLXhTHZXfHf-K45y2XwPjPKZwYhPROQ5qyexM8",
+    "longitude": -0.139134,
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "title": "Data Engineer",
+    "salary_min": 64390.63,
+    "created": "2026-04-12T04:08:54Z",
+    "salary_is_predicted": "1",
+    "id": "5697215262",
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "created": "2026-04-12T04:08:50Z",
+    "id": "5697215054",
+    "salary_is_predicted": "1",
+    "title": "Data Engineer",
+    "salary_min": 59912.64,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "longitude": -2.23438,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5NzIxNTA1NCIsInMiOiJjQWREOU1zODhSR19ySzdKalFjd0hnIn0.74c5P3hWEW3hKVid_baPAoo_Bs--j2oySG22E2TZ-qI",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "North West England",
+        "Greater Manchester",
+        "Manchester"
+      ],
+      "display_name": "Manchester, Greater Manchester"
+    },
+    "description": " Databricks Data Engineer | Manchester | £60,000 - £75,000  Peaple Talent have partnered with a specialist data consultancy delivering services across data engineering, data strategy, data migration, BI & analytics. As a trusted Microsoft Partner, my client are leaders in the industry, with a diverse portfolio of clients and projects. Due to exciting growth plans we are now looking for a Data Engineer, specialising in Databricks. We are looking for: Demonstratable data engineering/BI skills, wi…",
+    "salary_max": 59912.64,
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5697215054?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=08982A84AA614505349EAF931BA61B77FF31CF68",
+    "latitude": 53.480701,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Peaple Talent"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Peaple Talent"
+    },
+    "location": {
+      "display_name": "Edinburgh, Scotland",
+      "area": [
+        "UK",
+        "Scotland",
+        "Edinburgh"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "description": " Databricks Data Engineer | Edinburgh | £60,000 - £75,000  Peaple Talent have partnered with a specialist data consultancy delivering services across data engineering, data strategy, data migration, BI & analytics. As a trusted Microsoft Partner, my client are leaders in the industry, with a diverse portfolio of clients and projects. Due to exciting growth plans we are now looking for a Data Engineer, specialising in Databricks. We are looking for: Demonstratable data engineering/BI skills, wit…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5697215938?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=DB6F7EF524622CA337D2AABD3A2A6329188311B8",
+    "salary_max": 57939.16,
+    "latitude": 55.943116,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "longitude": -3.327942,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY0FkRDlNczg4Ukdfcks3SmpRY3dIZyIsImkiOiI1Njk3MjE1OTM4In0.McrfAKkiNweCEwGRFOZIOjnvkHKMucqjOzsh3bhEnpw",
+    "created": "2026-04-12T04:09:00Z",
+    "salary_is_predicted": "1",
+    "id": "5697215938",
+    "salary_min": 57939.16,
+    "title": "Data Engineer",
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "location": {
+      "display_name": "The City, Central London",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "London",
+        "Central London",
+        "The City"
+      ]
+    },
+    "salary_max": 65025.75,
+    "description": " Databricks Data Engineer | London | £60,000 - £75,000  Peaple Talent have partnered with a specialist data consultancy delivering services across data engineering, data strategy, data migration, BI & analytics. As a trusted Microsoft Partner, my client are leaders in the industry, with a diverse portfolio of clients and projects. Due to exciting growth plans we are now looking for a Data Engineer, specialising in Databricks. We are looking for: Demonstratable data engineering/BI skills, with a…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5697216464?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=03C15C06C0AA93834E1DE9F69190FD97B7C840AE",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Peaple Talent"
+    },
+    "id": "5697216464",
+    "created": "2026-04-12T04:09:13Z",
+    "salary_is_predicted": "1",
+    "title": "Data Engineer",
+    "salary_min": 65025.75,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY0FkRDlNczg4Ukdfcks3SmpRY3dIZyIsImkiOiI1Njk3MjE2NDY0In0.kJs9mBjYOom2fWMPYR3sNkVhlBN28cGGf4RFJgx1ZKo",
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Experis UK"
+    },
+    "description": "Data Engineer - SC Cleared / SC Eligible Location: Newcastle upon Tyne About the Role We are working with a leading organisation who are building a brand-new engineering and data function in Newcastle. They are looking to hire multiple Data Engineers across Junior, Mid-level, and Senior levels. Due to the nature of the projects, candidates must hold active SC Clearance or be eligible to obtain SC Clearance. This is an exciting opportunity to work on complex, high-impact data platforms, helping …",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5632450690?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=B97856ADE685577162097E8D846430FF6CA51448",
+    "latitude": 55.028274,
+    "salary_max": 55297.38,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "North East England",
+        "Tyne & Wear",
+        "Newcastle Upon Tyne"
+      ],
+      "display_name": "Newcastle Upon Tyne, Tyne & Wear"
+    },
+    "longitude": -1.746207,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYzMjQ1MDY5MCIsInMiOiJjQWREOU1zODhSR19ySzdKalFjd0hnIn0.akWYNiNSws28tOYRAB5b2IdhFq6xFjxKqNIqp3QMzXg",
+    "salary_min": 55297.38,
+    "title": "Data Engineer",
+    "created": "2026-02-16T23:57:37Z",
+    "salary_is_predicted": "1",
+    "id": "5632450690",
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "company": {
+      "display_name": "Haystack",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5665887904?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=88859EC646560E6022BED2A9911F8DE0E5DF9AF7",
+    "description": "Data Engineer Hybrid - 2-days per week in-office in Leeds (inside 1hr commute) / 2-days per month in-office in Leeds (outside 1hr commute) A fast-growing digital transformation consultancy is seeking a Data Engineer to play a key role in supporting the digital transformation journeys of its clients. What you’ll be doing We’re looking for someone experienced in guiding teams and supporting clients in using data to enable better decision-making. With exciting plans for our Data Capability in 2026…",
+    "salary_max": 49176.22,
+    "latitude": 53.799599,
+    "location": {
+      "display_name": "Leeds, West Yorkshire",
+      "area": [
+        "UK",
+        "Yorkshire And The Humber",
+        "West Yorkshire",
+        "Leeds"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "longitude": -1.54912,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY0FkRDlNczg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NjY1ODg3OTA0In0.qLDZ0xj_vdYER4GG4HMQFPhrdyLrAClkblZKFGO4BUo",
+    "title": "Data Engineer",
+    "salary_min": 49176.22,
+    "created": "2026-03-14T23:34:03Z",
+    "salary_is_predicted": "1",
+    "id": "5665887904",
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "title": "Data Engineer",
+    "salary_min": 58131.27,
+    "salary_is_predicted": "1",
+    "created": "2026-04-12T04:09:22Z",
+    "id": "5697216757",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5NzIxNjc1NyIsInMiOiJjQWREOU1zODhSR19ySzdKalFjd0hnIn0.Wjj5H2X7Cf_5qZdonQwBBi1Oq9Zc51Gw0_h7xx6uURY",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "longitude": -0.219628,
+    "description": "Data Engineer Hertfordshire (Hybrid, 2 days in the office) £45,000 - £55,000  benefits I’m working with a well-established travel business, who are looking to hire a Data Engineer to support their growing digital and marketing function. This is a unique opportunity to join a lean, high-impact team where you’ll play a key role in shaping how data is used across the business. You’ll work closely with marketing stakeholders to extract, transform, and automate data from multiple sources, helping dr…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5697216757?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=A29D16DF1A46228345698DE0A60C27AD837AF85F",
+    "salary_max": 58131.27,
+    "latitude": 51.841806,
+    "location": {
+      "area": [
+        "UK",
+        "Eastern England",
+        "Hertfordshire"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Hertfordshire, Eastern England"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Understanding Recruitment",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "title": "Data Engineer",
+    "salary_min": 51738.88,
+    "created": "2026-04-19T16:49:16Z",
+    "salary_is_predicted": "1",
+    "id": "5704597250",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwNDU5NzI1MCIsInMiOiJjQWREOU1zODhSR19ySzdKalFjd0hnIn0.TC2z5Nd92UNQOZX-3-oU_MgSbv4WHOzatgFFzKMbalg",
+    "longitude": -2.23438,
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5704597250?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=04EEA1F414504BFF19AA49E13F78B76FDD2D7971",
+    "description": "Our client is a growing data and insights business. They are hiring a Data Engineer to join their Manchester-based team. The company works with global brands, providing data-driven insights through a large-scale, privacy-first platform. As they continue to scale, they’re looking for a Data Engineer to play a key role in building and optimising their data pipelines and reporting capabilities. The Role You’ll be working on a large and complex data platform, developing and maintaining both real-ti…",
+    "salary_max": 51738.88,
+    "latitude": 53.480701,
+    "location": {
+      "display_name": "Manchester, Greater Manchester",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "North West England",
+        "Greater Manchester",
+        "Manchester"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "SearchWorks"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "id": "5680385355",
+    "created": "2026-03-27T14:49:00Z",
+    "salary_is_predicted": "1",
+    "title": "Data Engineer",
+    "salary_min": 51811.32,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY0FkRDlNczg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NjgwMzg1MzU1In0.f18PvDqkQhNSt5n-hR8vGURmJSS7gCVJM1jTxIiy07g",
+    "longitude": -0.139134,
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "location": {
+      "display_name": "London, UK",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "London"
+      ]
+    },
+    "description": "Data Engineer (Fintech) — Data & AI team We’re hiring an experienced Data Engineer to join a high-performing Data & AI team within a fast-scaling fintech. This is a hands-on role building modern data products end-to-end, using AI to accelerate delivery while maintaining strong engineering standards around governance, quality and scalability. Over the last 12 months the team has attracted exceptional engineering talent, creating an environment where you’ll learn quickly and ship meaningful work.…",
+    "latitude": 51.503378,
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5680385355?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=81AA8B4B87FEFBC35E0A4BA9CD8BE7DD292751D5",
+    "salary_max": 51811.32,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Siena Partnership"
+    },
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "description": "Data Engineer - SC Cleared 6 Month Contract Hybrid - 2 days per week onsite Please note: Active SC Clearance is required for this role A leading organisation within the UK financial sector is embarking on a major data transformation programme. They are looking for an experienced Data Engineer to help design and deliver a modern, cloud‑first data platform that will underpin some of the organisation’s most critical functions. Responsibilities: Design, build and deploy scalable, secure data soluti…",
+    "salary_max": 68042.11,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Lorien"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_type": "contract",
+    "salary_min": 68042.11,
+    "salary_is_predicted": "1",
+    "id": "5701121446",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY0FkRDlNczg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NzAxMTIxNDQ2In0.q--L1D8Ha0v9o5a8h01snA0-pRVvsuYbhiL7kRwNLmw",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5701121446?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=056147629B7B062C967A04CC8DF03D1B86D4E3DD",
+    "latitude": 51.503378,
+    "location": {
+      "area": [
+        "UK",
+        "London"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "London, UK"
+    },
+    "title": "Data Engineer",
+    "created": "2026-04-16T06:59:53Z",
+    "longitude": -0.139134,
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY0FkRDlNczg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NzAxMTIxNzY3In0.3woTYLob00_Z1S1s6HOQCAv04O2M32SDzKD0ywG5Db4",
+    "salary_is_predicted": "1",
+    "created": "2026-04-16T07:00:03Z",
+    "id": "5701121767",
+    "salary_min": 68713.24,
+    "title": "Data Engineer",
+    "contract_type": "contract",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Lorien",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "area": [
+        "UK",
+        "London",
+        "Central London",
+        "The City"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "The City, Central London"
+    },
+    "description": "Data Engineer - SC Cleared 6 Month Contract Hybrid - 2 days per week onsite Please note: Active SC Clearance is required for this role A leading organisation within the UK financial sector is embarking on a major data transformation programme. They are looking for an experienced Data Engineer to help design and deliver a modern, cloud‑first data platform that will underpin some of the organisation’s most critical functions. Responsibilities: Design, build and deploy scalable, secure data soluti…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5701121767?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=BAA8062B288F82AFA2FD6966377C3AC4D891EE10",
+    "salary_max": 68713.24,
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "title": "Data Engineer",
+    "salary_min": 90986.08,
+    "id": "5697214898",
+    "created": "2026-04-12T04:08:48Z",
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY0FkRDlNczg4Ukdfcks3SmpRY3dIZyIsImkiOiI1Njk3MjE0ODk4In0.VTdGAIsds5MWH8Vul-i-iS3cepFHMrFDhipdynbiLkc",
+    "longitude": -0.139134,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5697214898?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=2D579B1B1CDC45604A51AD4ED9F48F3EDCE3ACCC",
+    "description": "Method are excited to partner with a prestigious London-based Wealth Manager looking to hire a Data Engineer to join their talented team as they enjoy a sustained period of growth. This business are renowned for their outstanding reputation in the space, strong career development opportunities, and access to cutting-edge technology & innovation. What will you do? Build and maintain their Azure-based Data Lakehouse platform, including Databricks and Data Factory Design, optimise, and manage data…",
+    "salary_max": 90986.08,
+    "latitude": 51.503378,
+    "location": {
+      "display_name": "London, UK",
+      "area": [
+        "UK",
+        "London"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "display_name": "Method Resourcing",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "salary_max": 91883.44,
+    "description": "Method are excited to partner with a prestigious London-based Wealth Manager looking to hire a Data Engineer to join their talented team as they enjoy a sustained period of growth. This business are renowned for their outstanding reputation in the space, strong career development opportunities, and access to cutting-edge technology & innovation. What will you do? Build and maintain their Azure-based Data Lakehouse platform, including Databricks and Data Factory Design, optimise, and manage data…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5697214131?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=08B55BCF805C07A37BB4783D8192315D4B699E0D",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "London",
+        "Central London",
+        "The City"
+      ],
+      "display_name": "The City, Central London"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Method Resourcing",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "title": "Data Engineer",
+    "salary_min": 91883.44,
+    "created": "2026-04-12T04:08:36Z",
+    "salary_is_predicted": "1",
+    "id": "5697214131",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY0FkRDlNczg4Ukdfcks3SmpRY3dIZyIsImkiOiI1Njk3MjE0MTMxIn0.S_AqY8tFERFTFIx_TSqBsWSjyPb61qUKlyB610dGpxU",
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "location": {
+      "display_name": "UK",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK"
+      ]
+    },
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5647787971?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=001E8DCB0FAE340520522D60DEFB2A297AA4E547",
+    "description": "Data Engineer Remote UK Salary: £45,000 - £55,000 This is an exciting opportunity to step into a high-impact Data Engineering role within a fast-scaling data and machine learning environment. You will sit at the core of the engineering function, working closely with a large data science group and shaping the foundations of their internal tooling and pipelines. The Company They are a rapidly growing data and analytics organisation operating in the alternative data and machine learning space. The…",
+    "salary_max": 52619.75,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Harnham"
+    },
+    "salary_is_predicted": "1",
+    "created": "2026-02-27T23:09:45Z",
+    "id": "5647787971",
+    "salary_min": 52619.75,
+    "title": "Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY0FkRDlNczg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NjQ3Nzg3OTcxIn0.nuZLsoCny4kazZo6uD6V-1aJafEsZi5w8pLnoIOkABg",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "title": "Data Engineer",
+    "salary_min": 41474.83,
+    "salary_is_predicted": "1",
+    "created": "2026-02-23T00:32:12Z",
+    "id": "5641792464",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0MTc5MjQ2NCIsInMiOiJjQWREOU1zODhSR19ySzdKalFjd0hnIn0.ibyCUG8Va6SG-3GvvCcdGw0RFcnSZ4CzuCVbwP2S13U",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "description": "Data Engineer Hybrid: Birmingham Salary: £45000 to £50000. This is an exciting opportunity to step into a hands on Data Engineer role within an analytics team that is growing in both scope and influence. You will play a key part in stabilising and evolving a broad data environment while supporting a business that is increasing its digital footprint and analytical maturity. The Company They are an established manufacturer in the healthcare space with a strong reputation for product quality, rese…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5641792464?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=9DD3C1D40867D6509C3A2AB2EFBB3D88F88ECF55",
+    "salary_max": 41474.83,
+    "location": {
+      "area": [
+        "UK",
+        "West Midlands",
+        "Birmingham"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Birmingham, West Midlands"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Harnham"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Method Resourcing",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "display_name": "UK",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK"
+      ]
+    },
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5697215440?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=0DAABD7B6790BBE2DAC6F8BBFEA85AA6A1454E52",
+    "description": "Method Resourcing are delighted to partner with an independent fuel & oil business, who serve a range of domestic, agricultural, and enterprise sectors. They operate over 75 depots and 800 tankers. This client are looking to add a talented Data & ML Engineer to join their team as they enjoy a sustained period of growth. What you'll do: Take ownership of the Microsoft Fabric ecosystem (OneLake, Lakehouse, Data Factory, Warehouses), leading the transition from legacy platforms Design, build, and …",
+    "salary_max": 84928.38,
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5NzIxNTQ0MCIsInMiOiJjQWREOU1zODhSR19ySzdKalFjd0hnIn0.3OR-MxfznP5CiHEc7K9PPukOotgnA1TMM6t3xXExUZM",
+    "salary_is_predicted": "1",
+    "created": "2026-04-12T04:08:56Z",
+    "id": "5697215440",
+    "salary_min": 84928.38,
+    "title": "Data Engineer",
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "location": {
+      "display_name": "Stevenage, Hertfordshire",
+      "area": [
+        "UK",
+        "Eastern England",
+        "Hertfordshire",
+        "Stevenage"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5551397136?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=B64D357C80F18363C884A9DE4A58A88B562AE9A6",
+    "description": "Akkodis is a global leader in engineering, technology, and R&D, harnessing the power of connected data to drive digital transformation and innovation for a smarter, more sustainable future. As part of the Adecco Group, Akkodis combines the expertise of AKKA and Modis, with over 50,000 engineers and digital specialists across 30 countries in North America, EMEA, and APAC. Our teams bring extensive cross-sector knowledge in critical technology areas such as mobility, software services, robotics, …",
+    "latitude": 51.899799,
+    "salary_max": 56741.73,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Akkodis"
+    },
+    "id": "5551397136",
+    "created": "2025-12-21T23:56:36Z",
+    "salary_is_predicted": "1",
+    "salary_min": 56741.73,
+    "title": "Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1MTM5NzEzNiIsInMiOiJjQWREOU1zODhSR19ySzdKalFjd0hnIn0.jZoMDI6zJqV7gj6TGAFB2-RMeHgQnYu0nxHni8X-KAc",
+    "longitude": -0.202583,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "The Resource Group",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5697214991?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=B63A54A1AC8463C57783D5EE4682C9C59B2D602D",
+    "description": "About the Role We’re partnered with a growing, data-led technology business that is scaling its data capabilities and investing heavily in how data is structured, accessed and used across the organisation. We are looking for a Data Analyst with experience in Analytics Engineering & BI Development with strong SQL expertise at the core of their skillset . This role sits at the intersection of data engineering and business intelligence, combining hands-on data transformation with impactful reporti…",
+    "salary_max": 68437.98,
+    "location": {
+      "display_name": "UK",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5NzIxNDk5MSIsInMiOiJjQWREOU1zODhSR19ySzdKalFjd0hnIn0.6mVQDOrGAPXVXVo6ZmKFm7OGdeN51ndAyuwbiihWc6g",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "title": "Data Engineer",
+    "salary_min": 68437.98,
+    "created": "2026-04-12T04:08:49Z",
+    "salary_is_predicted": "1",
+    "id": "5697214991",
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "id": "5697215927",
+    "created": "2026-04-12T04:09:00Z",
+    "salary_is_predicted": "1",
+    "salary_min": 64267.5,
+    "title": "Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY0FkRDlNczg4Ukdfcks3SmpRY3dIZyIsImkiOiI1Njk3MjE1OTI3In0.jNoxYjsI2fc_lSJjplKhY0uK48v5hfNQR7ePH4g8Tew",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "London",
+        "Central London",
+        "The City"
+      ],
+      "display_name": "The City, Central London"
+    },
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5697215927?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=2297972C19C29EF416CB25C69A22D175622DA2CE",
+    "description": " Role Overview We’re hiring our first engineer dedicated to internal go-to-market and operations systems . This is a foundational role where you’ll design and build an AI-first internal stack from scratch, enabling Sales, Finance, Ops, and Customer Success to operate at maximum velocity. You’ll have end-to-end ownership across tooling, data, and automation; shaping not just systems, but how the company runs. In this role, you will: Architect and implement an AI-native internal tech stack, influ…",
+    "salary_max": 64267.5,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Mentor Talent Acquisition"
+    },
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "location": {
+      "display_name": "London, UK",
+      "area": [
+        "UK",
+        "London"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "description": " Role Overview We’re hiring our first engineer dedicated to internal go-to-market and operations systems . This is a foundational role where you’ll design and build an AI-first internal stack from scratch, enabling Sales, Finance, Ops, and Customer Success to operate at maximum velocity. You’ll have end-to-end ownership across tooling, data, and automation; shaping not just systems, but how the company runs. In this role, you will: Architect and implement an AI-native internal tech stack, influ…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5697216236?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=743F7E8757D046DD09FAB11A653A4AA23EE1A553",
+    "latitude": 51.503378,
+    "salary_max": 63639.79,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Mentor Talent Acquisition"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5697216236",
+    "created": "2026-04-12T04:09:11Z",
+    "salary_is_predicted": "1",
+    "title": "Data Engineer",
+    "salary_min": 63639.79,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5NzIxNjIzNiIsInMiOiJjQWREOU1zODhSR19ySzdKalFjd0hnIn0.m-H3g1EJ9a_zaTl2wBPPH3nliFlsGt5lrmDx6vgP96M",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "longitude": -0.139134,
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "latitude": 51.236401,
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5700243127?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=2C11966E81F2A828EE2DABBA695C00D100329AF5",
+    "location": {
+      "display_name": "Guildford, Surrey",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South East England",
+        "Surrey",
+        "Guildford"
+      ]
+    },
+    "longitude": -0.570291,
+    "title": "Fabric Data Engineer - Space Agency",
+    "created": "2026-04-15T14:35:27Z",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Standard 8"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "Mid-level Microsoft Fabric BI Developer – Contract £450 per day | Inside IR35 | Hybrid The role You’ll be joining a specialist engineering organisation working at the forefront of the space sector, supporting systems and programmes that quite literally operate beyond Earth. They’re investing heavily in their data platform and need someone hands-on with Microsoft Fabric and Power BI to help bring structure, reliability, and clarity to how data is used across the business. This isn’t a theory-hea…",
+    "salary_max": 124800,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY0FkRDlNczg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NzAwMjQzMTI3In0.eu30nHjVMMgQGCx46SQeAiKZgmXuyKWlgV5NCuzbYwk",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "contract_type": "contract",
+    "salary_min": 117000,
+    "salary_is_predicted": "0",
+    "id": "5700243127",
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5NDYzMDIwMiIsInMiOiJjQWREOU1zODhSR19ySzdKalFjd0hnIn0.97f7mPNBvcDukd84ITrRTPvi9TdMXUyx9XPXsGwKB9U",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "contract_type": "contract",
+    "salary_min": 136500,
+    "title": "AWS Data Engineer - Snowflake Cortex (Contract)",
+    "id": "5694630202",
+    "created": "2026-04-09T18:26:01Z",
+    "salary_is_predicted": "0",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Opus Recruitment Solutions Ltd"
+    },
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5694630202?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=1FA56AD4B20A61B6D6C5E362A3522E6AEEC2EFD3",
+    "description": "AWS Data Engineer - Snowflake Cortex London (Hybrid) - £550/day - Outside IR35 | Retail 6-month contract (extendable) working on a cutting-edge Snowflake Cortex / GenAI data platform for a major retail organisation. What you’ll be doing: Building data pipelines on AWS Developing high-performance Snowflake data models Delivering Snowflake Cortex AI/LLM use cases Working with large-scale retail data (sales, customer, inventory) You’ll need: Strong AWS Data Engineering background Hands-on Snowflak…",
+    "salary_max": 143000,
+    "location": {
+      "display_name": "London, UK",
+      "area": [
+        "UK",
+        "London"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "salary_min": 162500,
+    "title": "Data Engineer (Spark/ Kubernetes) (Financial Services)",
+    "contract_type": "permanent",
+    "created": "2026-04-16T12:22:01Z",
+    "salary_is_predicted": "0",
+    "id": "5701349403",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY0FkRDlNczg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NzAxMzQ5NDAzIn0.R8Ci_7IhSU-7TZpvGvNvNbtN1xNqc7yUMYq1Qk34_Lg",
+    "salary_max": 193700,
+    "description": "Your new company Working for a renowned financial services organisation Your new role We are seeking a Data Engineer to support the replacement of a legacy ETL tool with a modern Apache Spark based data platform. This is a hands-on engineering role focused on building and supporting Spark jobs, with an emphasis on performance, reliability, and scalability.The role sits within a small Agile delivery team of four engineers (two onshore and two in Shenzhen), working closely with a Senior Data Engi…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5701349403?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=28F924FFF64659367B324A9ED06EEBA6CB744A6C",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "London"
+      ],
+      "display_name": "London, UK"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Hays Specialist Recruitment Limited"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "salary_is_predicted": "0",
+    "created": "2026-04-15T18:36:35Z",
+    "id": "5700335824",
+    "contract_type": "permanent",
+    "salary_min": 143000,
+    "title": "Data Engineer (Apache Spark) - (Financial Services)",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY0FkRDlNczg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NzAwMzM1ODI0In0.7oeEeUO2gZf_TTxPLqA96vqxJGIZzVb2WitokoNXxo8",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "London"
+      ],
+      "display_name": "London, UK"
+    },
+    "description": "Your new company Working for a renowned financial services organisation Your new role We are seeking a Data Engineer to support the replacement of a legacy ETL tool with a modern Apache Spark based data platform. This is a hands-on engineering role focused on building and supporting Spark jobs, with an emphasis on performance, reliability, and scalability.The role is focused on building nonperformance Apache Spark jobs, with a strong emphasis on performance optimisation. It is primarily Java-ba…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5700335824?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=A0D74387F97719C78259588465DB115F9A51543B",
+    "salary_max": 182000,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Hays Specialist Recruitment Limited",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "description": "Your new company Working for a renowned financial services organisation Your new role We are seeking a Data Engineer to support the replacement of a legacy ETL tool with a modern Apache Spark based data platform. This is a hands-on engineering role focused on building and supporting Spark jobs, with an emphasis on performance, reliability, and scalability.The role is focused on building nonperformance Apache Spark jobs, with a strong emphasis on performance optimisation. You shall be running Sp…",
+    "salary_max": 182000,
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5701351075?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=17315CBC5F8877ADECA465CA839D8E608D14C2C6",
+    "location": {
+      "display_name": "London, UK",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "London"
+      ]
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Hays Specialist Recruitment Limited"
+    },
+    "title": "Data Engineer (Spark/ Kubernetes) (Financial Services)",
+    "salary_min": 143000,
+    "contract_type": "permanent",
+    "id": "5701351075",
+    "created": "2026-04-16T12:27:48Z",
+    "salary_is_predicted": "0",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY0FkRDlNczg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NzAxMzUxMDc1In0.ha9HpMruYLOTNTgCOOM1kqxXKmSPkxxxNOIrBooNk1o",
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "salary_is_predicted": "0",
+    "created": "2026-04-16T00:27:32Z",
+    "id": "5700702943",
+    "contract_type": "permanent",
+    "title": "Senior Data Engineering Manager - London - £110k",
+    "salary_min": 90000,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY0FkRDlNczg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NzAwNzAyOTQzIn0.6Bi7eVh8WYpOz-4iSS3umfLgrlcj0J9oOkBXRF2CSq4",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "location": {
+      "display_name": "London, UK",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "London"
+      ]
+    },
+    "salary_max": 110000,
+    "description": "Senior Data Engineering Manager - London - £110k Please note - this is a London based role which will require you to work three days per week in the London office. To be eligible for this role you must be UK based with the unrestricted right to work in the UK - this organisation does not offer sponsorship. My client is a global organisation operating across multiple regions, with a strong focus on using digital technology and data to improve how the business operates. The role sits within a cen…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5700702943?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=24EA1AC4559948B9CED2F6FDFAE0FE628E25FC46",
+    "contract_time": "full_time",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Tenth Revolution Group"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "company": {
+      "display_name": "Hays Specialist Recruitment Limited",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "area": [
+        "UK",
+        "London"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "London, UK"
+    },
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5699374974?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=2AB15ABA3A60854DA9EB978670B5709D5D2DE07C",
+    "description": "Your new company Working for a renowned financial services organisation Your new role We're looking for a Data Engineer to design and deliver scalable on prem, high-quality data solutions for low/ high-level data platforms that power analytical and business insights. This is a hands-on role suited to someone with strong data engineering and big data expertise, ideally gained within financial services.Using , Big Data tools and Spark development you will ensure data quality through automated val…",
+    "salary_max": 182000,
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY0FkRDlNczg4Ukdfcks3SmpRY3dIZyIsImkiOiI1Njk5Mzc0OTc0In0.4ykpLbAwc7viUKfUnjMR4_o-vUIsSUmEpFyHOEegtr4",
+    "salary_is_predicted": "0",
+    "created": "2026-04-14T22:26:36Z",
+    "id": "5699374974",
+    "title": "Data Engineer (Big Data/ Hadoop/ Spark Dev)",
+    "salary_min": 143000,
+    "contract_type": "permanent",
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Harvey Nash"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5701351074?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=EE4A048289F1DF692D6ABD703145C1EFDC0F3EC1",
+    "description": "Microsoft Fabric Engineer - London Hybrid working - London Salary upto £90,000 A leading client in London seeks a Microsoft Fabric Engineer to design and deliver data and AI solutions on the Microsoft Fabric platform. As Technical Lead for a small team, you'll oversee end-to-end architecture, develop scalable analytics solutions, and stay hands-on. Responsibilities include delivering Fabric solutions (OneLake, Lakehouse, Warehouses, Power BI), leading architecture and performance optimisation, …",
+    "salary_max": 90000,
+    "location": {
+      "display_name": "London, UK",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "London"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY0FkRDlNczg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NzAxMzUxMDc0In0.-Cnxjiz2QpthCvqwD2EBAETCQRtkruKKakon7p39dL4",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "contract_type": "permanent",
+    "salary_min": 80000,
+    "title": "Senior Data Engineer - Microsoft Fabric",
+    "created": "2026-04-16T12:27:46Z",
+    "id": "5701351074",
+    "salary_is_predicted": "0",
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "description": "About the Business Quilter plc is a leading wealth management business, helping to enable brighter financial futures for every generation. Quilter oversees £141.2 billion in customer investments (as of December 2025). It has an adviser and customer offering spanning financial advice, investment platforms, multi-asset investment solutions, and discretionary fund management. The business is comprised of two segments: Affluent and High Net Worth. Affluent encompasses the financial planning busines…",
+    "salary_max": 50411.73,
+    "contract_time": "full_time",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Quilter"
+    },
+    "id": "5687570994",
+    "salary_is_predicted": "1",
+    "contract_type": "permanent",
+    "salary_min": 50411.73,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY0FkRDlNczg4Ukdfcks3SmpRY3dIZyIsImkiOiI1Njg3NTcwOTk0In0.mapx4GRCoxUgKCpVldz8knzjjOIY0-cvu2m-JFqgG54",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South East England",
+        "Hampshire",
+        "Southampton"
+      ],
+      "display_name": "Southampton, Hampshire"
+    },
+    "latitude": 50.904999,
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5687570994?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=8C24CF7B1FAE9A33DDE19418DB354FABAACCAAB0",
+    "created": "2026-04-02T15:36:29Z",
+    "title": "Data Engineering Manager - Quilter",
+    "longitude": -1.40323,
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "longitude": -4.25596,
+    "title": "Data Integration Engineer",
+    "created": "2026-04-17T06:27:08Z",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5702241603?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=B5E0F8E71EF537ED1157E9E1C1CFF5C4820240A7",
+    "latitude": 55.86026,
+    "location": {
+      "display_name": "Glasgow, Scotland",
+      "area": [
+        "UK",
+        "Scotland",
+        "Glasgow"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY0FkRDlNczg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NzAyMjQxNjAzIn0.s2fHoD-B9TwdRJitXC3eDkGMKbkmN0D0Bk2VADNa6gM",
+    "salary_min": 104000,
+    "contract_type": "contract",
+    "id": "5702241603",
+    "salary_is_predicted": "0",
+    "company": {
+      "display_name": "Henderson Scott",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 119600,
+    "description": "Data Integration Engineer - Databricks - Snowflake - 12 month contract - Glasgow (Hybrid 3 days onsite) Are you an experienced Data Engineer with experience of Data Integration in Production Environments? I am working with an internationally renowned client who is looking for someone to help integrate diverse internal and external data sources into enterprise analytics platforms to support AI and analytical workloads. The role exists to translate business and user needs into robust data structu…",
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY0FkRDlNczg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NzAxNTY0MDY3In0.0wzQWLJME9wAyWKf475xTYb93IrgIGFYRMrn4PR8HRs",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "salary_min": 104000,
+    "title": "Contract Data Engineer & Analyst - £400/pd",
+    "created": "2026-04-16T18:46:35Z",
+    "id": "5701564067",
+    "salary_is_predicted": "0",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Tenth Revolution Group"
+    },
+    "description": "Contract Data Engineer & Analyst - £400/pd Please note - this role will require you to be based in the North East and able to attend the Newcastle office 2-3 days per week. This organisation is not able to offer sponsorship. We are seeking an experienced Data Engineer / Data Analyst contractor to provide hybrid support across data engineering and analysis during a team refresh. This engagement is initially for 3 months, with a strong focus on maintaining business-as-usual reporting and deliveri…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5701564067?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=1A731BC2FB832BC3DD24DF197527DE67C1305353",
+    "salary_max": 104000,
+    "location": {
+      "display_name": "Newcastle Upon Tyne, Tyne & Wear",
+      "area": [
+        "UK",
+        "North East England",
+        "Tyne & Wear",
+        "Newcastle Upon Tyne"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Tenth Revolution Group"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5701568647?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=4DBB5FAC8E18E7E894B00E0E159F4AC8546C74A5",
+    "description": "Data Engineer & Analyst - Outside IR35 - Hybrid Overview We are looking for a highly capable and self-sufficient Data Engineer & Analyst to support our data and reporting environment during a transitional period. This role requires someone who is comfortable working independently, can quickly understand existing systems, and is confident making recommendations to improve processes and outputs. The ideal candidate thrives in environments with limited documentation, can navigate existing data res…",
+    "salary_max": 104000,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "North East England",
+        "Tyne & Wear",
+        "Newcastle Upon Tyne"
+      ],
+      "display_name": "Newcastle Upon Tyne, Tyne & Wear"
+    },
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY0FkRDlNczg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NzAxNTY4NjQ3In0.zChAlUItTQ2Ky0y-_UYkQfhIzB4_A4MyT4h5g69f6n8",
+    "salary_min": 91000,
+    "title": "Data Engineer & Analyst - Outside IR35 - Hybrid",
+    "contract_type": "contract",
+    "salary_is_predicted": "0",
+    "created": "2026-04-16T18:52:24Z",
+    "id": "5701568647",
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "salary_max": 54080,
+    "description": "Data Cable Engineer – Boston, Lincolnshire – £26 per hour We are currently recruiting experienced Data Cable Engineers for a project based in Boston, Lincolnshire. This role is available immediately and is expected to run through to the end of April. The work will involve the installation, termination and testing of data cabling on site. Candidates must have previous experience working with structured cabling systems and be confident working independently while maintaining high installation sta…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "ARC  Limited"
+    },
+    "salary_is_predicted": "0",
+    "id": "5664916278",
+    "contract_type": "contract",
+    "salary_min": 54080,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY2NDkxNjI3OCIsInMiOiJjQWREOU1zODhSR19ySzdKalFjd0hnIn0.RS-rQyagp1Y5X0AsJCwXZavTX3ngsi5oEdOY5uGk07Y",
+    "category": {
+      "tag": "trade-construction-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Trade & Construction Jobs"
+    },
+    "location": {
+      "display_name": "Witham Town, Boston",
+      "area": [
+        "UK",
+        "East Midlands",
+        "Lincolnshire",
+        "Boston",
+        "Witham Town"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 52.976019,
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5664916278?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=B4ED1950173B5EAB3583CD8CAEE18E2DB80A85CB",
+    "created": "2026-03-14T07:21:14Z",
+    "title": "Data Cable Engineer",
+    "longitude": -0.025482,
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "XACT PLACEMENTS LIMITED"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "description": "?? Cabling Engineer ?? Location: Candidate will be based locally Milton Keynes ?? Job Type: Full-Time, Permanent ?? Salary: £26,000-£29,000  Overtime Opportunities Are you a Cabling Engineer based in Milton Keynes? This is a fantastic opportunity to join a professional and motivated team delivering high-quality structured cabling and network solutions across the UK. ? What Youll Do Install and terminate data/network cabling across multiple categories Perform cable pulls and installations to ind…",
+    "salary_max": 28000,
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5697400088?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=25168CBA238FF94E211AF89DC567A3F725118610",
+    "location": {
+      "display_name": "Milton Keynes, Buckinghamshire",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South East England",
+        "Buckinghamshire",
+        "Milton Keynes"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY0FkRDlNczg4Ukdfcks3SmpRY3dIZyIsImkiOiI1Njk3NDAwMDg4In0.azzWgPBDhlv9b29ckoJlv2otyZaNQbSZL8MkIgtWN2g",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "contract_type": "permanent",
+    "title": "Data Cabling Engineer",
+    "salary_min": 28000,
+    "id": "5697400088",
+    "created": "2026-04-12T10:32:16Z",
+    "salary_is_predicted": "0",
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY0FkRDlNczg4Ukdfcks3SmpRY3dIZyIsImkiOiI1Njk1NjU5MTMxIn0.mIjYxkiF20aOfhMXZcbhvmTsxWs1-IAiExxc2v7UWhY",
+    "created": "2026-04-10T13:57:21Z",
+    "salary_is_predicted": "0",
+    "id": "5695659131",
+    "salary_min": 117000,
+    "title": "Data Engineer - Shared Platform Services - SC Contract",
+    "contract_type": "contract",
+    "company": {
+      "display_name": "Searchability NS&D",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "display_name": "Telford, Shropshire",
+      "area": [
+        "UK",
+        "West Midlands",
+        "Shropshire",
+        "Telford"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_max": 130000,
+    "description": "Telford location - 2 days on site p/week Active SC required Up to £500/d inside ir35 6-month duration Experience required in SAS, Git, ETL tools, data virtualisation, Agile, DevOps tools Role Opportunity This project will consolidate the RSDD APIs, TXR002 and ADE, into a single central calculations service for all consumers, reducing complexity, simplifying change management and delivering cost efficiencies. The role will join a new Scrum team within the Minerva Platform to develop and deliver …",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5695659131?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=E65B7EAA0381B4609D5F126D8DBD6A05797A1E83",
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "description": "Senior Data Engineer, London, £90,000 • Senior Data Engineer • £80,000 - £100,000  Bonus • London | Hybrid (2–3 days office) Our client is looking for a Senior Data Engineer to join a brand new engineering team, that is building a new data-driven analytics platform as part of a major growth initiative. This role is to shape the future of how their data products are developed, with full ownership and influence from day one. You’ll join a small, high-calibre team focused on delivering a scalable,…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5690395808?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=DCE873E7CE6B65C5FC17A5956F5DF42D00CE75B3",
+    "salary_max": 118192.61,
+    "latitude": 51.503378,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "London"
+      ],
+      "display_name": "London, UK"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "NearTech Search"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Senior Data Engineer",
+    "salary_min": 118192.61,
+    "id": "5690395808",
+    "created": "2026-04-05T04:49:50Z",
+    "salary_is_predicted": "1",
+    "longitude": -0.139134,
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY0FkRDlNczg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NjkwMzk1ODA4In0.pYBaystBnKbq3M6PW1Ucx8FdkkSURpKWAtqDXaQddtk",
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY0FkRDlNczg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NjkwNDIxNjI4In0.MC-9p57nMmwR_KvdleW7luwfaBIa2YCyXgvQNn9JrTY",
+    "salary_min": 119358.64,
+    "title": "Senior Data Engineer",
+    "id": "5690421628",
+    "created": "2026-04-05T05:50:34Z",
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "NearTech Search"
+    },
+    "description": "Senior Data Engineer, London, £90,000 • Senior Data Engineer • £80,000 - £100,000  Bonus • London | Hybrid (2–3 days office) Our client is looking for a Senior Data Engineer to join a brand new engineering team, that is building a new data-driven analytics platform as part of a major growth initiative. This role is to shape the future of how their data products are developed, with full ownership and influence from day one. You’ll join a small, high-calibre team focused on delivering a scalable,…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5690421628?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=897963CF6478216FA3688DF88A0CE4BE704E95DF",
+    "salary_max": 119358.64,
+    "location": {
+      "area": [
+        "UK",
+        "London",
+        "Central London",
+        "The City"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "The City, Central London"
+    },
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "description": "GCP Data Engineer Job Summary: We are seeking a highly motivated and experienced GCP Data Engineer to join our growing team. The ideal candidate will be responsible for designing, developing, and maintaining scalable and robust data pipelines and architectures on Google Cloud Platform. You will work closely with data scientists, analysts, and other stakeholders to ensure data availability, quality, and usability, contributing to our data-driven initiatives. Required Qualifications: Bachelor's d…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5699815390?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=FBAADDCB6AE214FEC7CE61875459780AFCF42DF5",
+    "salary_max": 79823.62,
+    "latitude": 51.503378,
+    "location": {
+      "display_name": "London, UK",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "London"
+      ]
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "HCLTech",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_min": 79823.62,
+    "title": "GCP Data Engineer",
+    "created": "2026-04-15T06:48:35Z",
+    "salary_is_predicted": "1",
+    "id": "5699815390",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "longitude": -0.139134,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY0FkRDlNczg4Ukdfcks3SmpRY3dIZyIsImkiOiI1Njk5ODE1MzkwIn0.z-7zTmdoe_BWTqjgEGP4tzoYadqX_ZwtDyVf9FeWCmU",
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5OTgxNjA4OCIsInMiOiJjQWREOU1zODhSR19ySzdKalFjd0hnIn0.FG_qfuExJDtMxHGxA1bFDno-UoVzJ9H10oCM2B2meY0",
+    "id": "5699816088",
+    "created": "2026-04-15T06:49:26Z",
+    "salary_is_predicted": "1",
+    "title": "GCP Data Engineer",
+    "salary_min": 80610.89,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "HCLTech",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "London",
+        "Central London",
+        "The City"
+      ],
+      "display_name": "The City, Central London"
+    },
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5699816088?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=E1FE82880F14CFA723EA1844F2FA8AA1AF2CF3AB",
+    "description": "GCP Data Engineer Job Summary: We are seeking a highly motivated and experienced GCP Data Engineer to join our growing team. The ideal candidate will be responsible for designing, developing, and maintaining scalable and robust data pipelines and architectures on Google Cloud Platform. You will work closely with data scientists, analysts, and other stakeholders to ensure data availability, quality, and usability, contributing to our data-driven initiatives. Required Qualifications: Bachelor's d…",
+    "salary_max": 80610.89,
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Lumora Solutions"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "London"
+      ],
+      "display_name": "London, UK"
+    },
+    "description": "Job Title: Senior GCP Data Engineer Location: London (2 days per week onsite) Salary: £90,000 - £110,000 Our client is VC-based early stage GCP Partner growing 40% YoY, and they are looking for a Senior Data Engineer to join their engineering team. This is a highly customer-facing, project-based role where you will work across complex transformation programmes, partnering closely with stakeholders and cross-functional teams to deliver end-to-end data solutions. You will take full lifecycle owne…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5703708757?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=F646D161D519CDF14E042DEFD92E6710C1E1CDC1",
+    "salary_max": 72072.77,
+    "latitude": 51.503378,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY0FkRDlNczg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NzAzNzA4NzU3In0.ARZvVacow1DDWEaXeADtIHtFu1__RqyxEtpiNkO9RAQ",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "longitude": -0.139134,
+    "created": "2026-04-18T16:16:41Z",
+    "id": "5703708757",
+    "salary_is_predicted": "1",
+    "salary_min": 72072.77,
+    "title": "Senior Data Engineer",
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMzcwOTU4MSIsInMiOiJjQWREOU1zODhSR19ySzdKalFjd0hnIn0.iwDNHoy2h_9Yj4a-evRarhp9Y5YUO6nxH2lvtLtlQao",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "title": "Senior Data Engineer",
+    "salary_min": 72783.73,
+    "salary_is_predicted": "1",
+    "created": "2026-04-18T16:18:24Z",
+    "id": "5703709581",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Lumora Solutions"
+    },
+    "description": "Job Title: Senior GCP Data Engineer Location: London (2 days per week onsite) Salary: £90,000 - £110,000 Our client is VC-based early stage GCP Partner growing 40% YoY, and they are looking for a Senior Data Engineer to join their engineering team. This is a highly customer-facing, project-based role where you will work across complex transformation programmes, partnering closely with stakeholders and cross-functional teams to deliver end-to-end data solutions. You will take full lifecycle owne…",
+    "salary_max": 72783.73,
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5703709581?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=1AC0CC2816DF833D8F268A873F3062A2E23B4D7F",
+    "location": {
+      "display_name": "The City, Central London",
+      "area": [
+        "UK",
+        "London",
+        "Central London",
+        "The City"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "created": "2026-04-19T16:48:46Z",
+    "salary_is_predicted": "1",
+    "id": "5704596929",
+    "title": "Lead Data Engineer",
+    "salary_min": 61493.73,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwNDU5NjkyOSIsInMiOiJjQWREOU1zODhSR19ySzdKalFjd0hnIn0.is-mJmwhKnoXCBftqmvF1jLnYnHW7NkhfBwLevvSX9M",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "longitude": -2.5919,
+    "location": {
+      "display_name": "Bristol, South West England",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South West England",
+        "Bristol"
+      ]
+    },
+    "description": "We’re looking for a highly skilled Lead Data Engineer to provide technical leadership across data engineering, delivery execution and project governance. This role ensures development standards are upheld while delivering high‑quality, reliable solutions on time and within budget. It’s suited to someone highly organised, confident and an excellent communicator, with the ability to engage stakeholders at all levels across Development and IT Change. As Lead Data Engineer, you’ll interpret detaile…",
+    "latitude": 51.455299,
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5704596929?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=384DB11BB1DD1DCF5076AAA631DB736051B5A7CB",
+    "salary_max": 61493.73,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Zebra People | B Corp™"
+    },
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "salary_min": 65499.07,
+    "title": "Staff Data Engineer",
+    "created": "2026-04-12T04:08:42Z",
+    "id": "5697214487",
+    "salary_is_predicted": "1",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY0FkRDlNczg4Ukdfcks3SmpRY3dIZyIsImkiOiI1Njk3MjE0NDg3In0.MwLJajjMWO2SromyIY9p8-8G_BjONNL5uD9XUfTp0i0",
+    "description": "Staff Data Engineer | SQL, Python, AI-Ready Systems | Up to £150k, Remote We’re hiring a Staff Data Engineer to work directly with senior stakeholders of a company building one of the world’s largest data platforms. This role is focused on solving complex, real-world data problems not dashboards or standard analytics. This is a high-impact IC role with real ownership over core data systems. You’ll be working with messy, multi-source data (global company and ownership data), and will own how tha…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5697214487?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=A6233324FA17192C63DBA1A9B02C3DBBD3EBDDAF",
+    "salary_max": 65499.07,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK"
+      ],
+      "display_name": "UK"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "TechShack"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "salary_min": 67433.26,
+    "title": "Senior Data Engineer",
+    "contract_type": "permanent",
+    "id": "5704595655",
+    "created": "2026-04-19T16:46:49Z",
+    "salary_is_predicted": "1",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwNDU5NTY1NSIsInMiOiJjQWREOU1zODhSR19ySzdKalFjd0hnIn0.E5FJ16jazkTLNH3ofVNQ1srTK3VyIeHxGJWssIIUGLg",
+    "salary_max": 67433.26,
+    "description": "Senior Data Engineer London Permanent – Hybrid Up to £140,000 A top tier trading environment where data drives real money decisions is hiring for a Senior Data Engineer. Engineers have trust, ownership, and real influence here working in a fast paced and performance led environment What you’ll have the Opportunity to do: As a Senior Data Engineer, you will have the following responsibilities: Build and maintain data solutions that support pricing decisions Work hands on with SQL, Postgres, and …",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5704595655?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=E2593507D70BDC5D759789ED94AC30ADE33C720E",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "London",
+        "Central London",
+        "The City"
+      ],
+      "display_name": "The City, Central London"
+    },
+    "company": {
+      "display_name": "Anson McCade",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  },
+  {
+    "longitude": -0.139134,
+    "title": "Lead Data Engineer",
+    "created": "2026-04-19T16:47:02Z",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5704595829?se=cAdD9Ms88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=E8A8BC420EF6EFC8C2E6280A449DAD97C9642D05",
+    "latitude": 51.503378,
+    "location": {
+      "display_name": "London, UK",
+      "area": [
+        "UK",
+        "London"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwNDU5NTgyOSIsInMiOiJjQWREOU1zODhSR19ySzdKalFjd0hnIn0.ARblGxUStUkTFaxdRGw9z_2w_uHpflsNqNA7PihwOOA",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "contract_type": "permanent",
+    "salary_min": 96476.21,
+    "salary_is_predicted": "1",
+    "id": "5704595829",
+    "company": {
+      "display_name": "Anson McCade",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "Lead Data Engineer London Permanent – Hybrid Up to £175,000 A top tier trading environment where data drives real money decisions is hiring for a Senior Data Engineer. Engineers have trust, ownership, and real influence here working in a fast paced and performance led environment What you’ll have the Opportunity to do: As a Lead Data Engineer, you will have the following responsibilities: Own and steer pricing critical data systems from a technical standpoint Remain highly hands on with SQL, Po…",
+    "salary_max": 96476.21,
+    "_ingested_at": "2026-04-20T15:10:29.883140+00:00",
+    "_country": "gb",
+    "_source": "adzuna_api"
+  }
+]

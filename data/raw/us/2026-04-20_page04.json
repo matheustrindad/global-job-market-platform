@@ -1,0 +1,1800 @@
+[
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwNDExNTQ4NSIsInMiOiIyRVFaOGNzODhSRy1Hcjk5Tm1XY2JBIn0.3qufDW42LlLb-gD0FNjEZH7FNicoY4S_6veyw7dB5yQ",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 125169.12,
+    "redirect_url": "https://www.adzuna.com/land/ad/5704115485?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=5BC49FB3800296EFD4A6C3721B992ECD62D2D3E6",
+    "title": "Data Engineer",
+    "salary_max": 125169.12,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "CVS Health"
+    },
+    "latitude": 38.89969,
+    "longitude": -77.02717,
+    "description": "We're building a world of health around every individual - shaping a more connected, convenient and compassionate health experience. At CVS Health®, you'll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger - helping to simplify health care one person, one family and one community at a time. Position Summary If you're eager to make a real impact i…",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "id": "5704115485",
+    "created": "2026-04-18T21:46:45Z",
+    "salary_is_predicted": "1",
+    "location": {
+      "display_name": "Washington, D.C., US",
+      "area": [
+        "US",
+        "Washington, D.C."
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "longitude": -75.566083,
+    "description": "We're building a world of health around every individual - shaping a more connected, convenient and compassionate health experience. At CVS Health®, you'll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger - helping to simplify health care one person, one family and one community at a time. Position Summary If you're eager to make a real impact i…",
+    "salary_max": 154916.81,
+    "company": {
+      "display_name": "CVS Health",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 39.165778,
+    "redirect_url": "https://www.adzuna.com/land/ad/5704115340?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=9D715E83041E9697AF9F5D9BFFF405854CC27F3C",
+    "salary_min": 154916.81,
+    "title": "Data Engineer",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMkVRWjhjczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NzA0MTE1MzQwIn0._cK9SffPVxrSbM-JxEKLUsJwTam8DL78QUNtrrqJFyU",
+    "salary_is_predicted": "1",
+    "location": {
+      "area": [
+        "US",
+        "Delaware",
+        "Kent County",
+        "Wyoming"
+      ],
+      "display_name": "Wyoming, Kent County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "created": "2026-04-18T21:46:39Z",
+    "id": "5704115340",
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "id": "5704188164",
+    "created": "2026-04-18T23:14:58Z",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "location": {
+      "display_name": "Montpelier, Washington County",
+      "area": [
+        "US",
+        "Vermont",
+        "Washington County",
+        "Montpelier"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "1",
+    "company": {
+      "display_name": "CVS Health",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 44.26173,
+    "salary_max": 120328.05,
+    "longitude": -72.58082,
+    "description": "We're building a world of health around every individual - shaping a more connected, convenient and compassionate health experience. At CVS Health®, you'll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger - helping to simplify health care one person, one family and one community at a time. Position Summary If you're eager to make a real impact i…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwNDE4ODE2NCIsInMiOiIyRVFaOGNzODhSRy1Hcjk5Tm1XY2JBIn0.qW2X3NU3S8bnMozknAwX9VEwcRjiTUQ7WWPhOgiLCFk",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Data Engineer",
+    "salary_min": 120328.05,
+    "redirect_url": "https://www.adzuna.com/land/ad/5704188164?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=00BA9988C3E956FB33EAF52A2904E50AC8D9F00E",
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "salary_max": 120409.33,
+    "company": {
+      "display_name": "CVS Health",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 44.94452,
+    "longitude": -93.09298,
+    "description": "We're building a world of health around every individual - shaping a more connected, convenient and compassionate health experience. At CVS Health®, you'll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger - helping to simplify health care one person, one family and one community at a time. Position Summary If you're eager to make a real impact i…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMkVRWjhjczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NzA0MDk3MTg5In0.BORST9PVim93spk9b6L6SqUs_8BAmkQpySQXfIzAgG0",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 120409.33,
+    "redirect_url": "https://www.adzuna.com/land/ad/5704097189?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=FE96AD20803403D3EA40856C24C7564F1495E23B",
+    "title": "Data Engineer",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "id": "5704097189",
+    "created": "2026-04-18T21:32:34Z",
+    "salary_is_predicted": "1",
+    "location": {
+      "display_name": "Saint Paul, Ramsey County",
+      "area": [
+        "US",
+        "Minnesota",
+        "Ramsey County",
+        "Saint Paul"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMkVRWjhjczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NzA0MDk2OTY3In0.X-gMWvK8Gh5k7ur6aYucOgtrtxALo3fnDkU0GAv6Zdc",
+    "salary_min": 132782.77,
+    "redirect_url": "https://www.adzuna.com/land/ad/5704096967?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=09A842588243CE10BDBFC93620E9D5EABA9FF009",
+    "title": "Data Engineer",
+    "salary_max": 132782.77,
+    "latitude": 41.7657,
+    "company": {
+      "display_name": "CVS Health",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "longitude": -72.683866,
+    "description": "We're building a world of health around every individual - shaping a more connected, convenient and compassionate health experience. At CVS Health®, you'll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger - helping to simplify health care one person, one family and one community at a time. Position Summary If you're eager to make a real impact i…",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "created": "2026-04-18T21:32:30Z",
+    "id": "5704096967",
+    "salary_is_predicted": "1",
+    "location": {
+      "area": [
+        "US",
+        "Connecticut",
+        "Hartford County",
+        "Talcott Village"
+      ],
+      "display_name": "Talcott Village, Hartford County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "id": "5704083568",
+    "created": "2026-04-18T21:03:39Z",
+    "salary_is_predicted": "1",
+    "location": {
+      "display_name": "Augusta, Kennebec County",
+      "area": [
+        "US",
+        "Maine",
+        "Kennebec County",
+        "Augusta"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_max": 164937.97,
+    "latitude": 44.33616,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "CVS Health"
+    },
+    "longitude": -69.7445,
+    "description": "We're building a world of health around every individual - shaping a more connected, convenient and compassionate health experience. At CVS Health®, you'll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger - helping to simplify health care one person, one family and one community at a time. Position Summary If you're eager to make a real impact i…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMkVRWjhjczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NzA0MDgzNTY4In0.P_ha_wWgJw-qK9giEygrIaol_3LFXXIfjX4xG3OAwdA",
+    "salary_min": 164937.97,
+    "redirect_url": "https://www.adzuna.com/land/ad/5704083568?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=5936F42AAE702A80B3C38F8A1CCC33EF21758715",
+    "title": "Data Engineer",
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5NzY4ODc2NyIsInMiOiIyRVFaOGNzODhSRy1Hcjk5Tm1XY2JBIn0.zJ7WB4b48qAZ6gSWYeHnjYvv0edJEP89De2CLrh8D3Y",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.com/land/ad/5697688767?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=E4C03853C70678EC93DC67D9AA8847CE43036424",
+    "salary_min": 184121.67,
+    "title": "Data Engineer",
+    "salary_max": 184121.67,
+    "company": {
+      "display_name": "Amazon",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 37.773969,
+    "longitude": -122.410448,
+    "description": "About Us Twitch is the world's biggest live streaming service, with global communities built around gaming, entertainment, music, sports, cooking, and more. It is where thousands of communities come together for whatever, every day. We're about community, inside and out. You'll find coworkers who are eager to team up, collaborate, and smash (or elegantly solve) problems together. We're on a quest to empower live communities, so if this sounds good to you, see what we're up to on LinkedIn (https…",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5697688767",
+    "created": "2026-04-12T18:11:49Z",
+    "salary_is_predicted": "1",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "California",
+        "San Francisco",
+        "SoMa"
+      ],
+      "display_name": "SoMa, San Francisco"
+    },
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "created": "2026-03-13T21:39:17Z",
+    "id": "5664551482",
+    "salary_is_predicted": "1",
+    "location": {
+      "display_name": "Atlanta, Fulton County",
+      "area": [
+        "US",
+        "Georgia",
+        "Fulton County",
+        "Atlanta"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_max": 177058.95,
+    "company": {
+      "display_name": "Guidehouse",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 33.795821,
+    "description": "Job Family : Database Administration Travel Required : Up to 25% Clearance Required : None What You Will Do :  Design, develop, and maintain robust data pipelines and ETL/ELT processes to ingest, transform, and load data from diverse structured and unstructured sources.  Build and optimize data models and data architectures to support analytics, reporting, and operational use cases.  Implement and maintain CI/CD pipelines for data engineering workflows, including data pipelines and scheduled jo…",
+    "longitude": -84.38763,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMkVRWjhjczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NjY0NTUxNDgyIn0.Pj_VfuaUdStmCfHCDDqjl6RnCi72lcjkuXcVebS-mcA",
+    "redirect_url": "https://www.adzuna.com/land/ad/5664551482?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=A042A054330A68FD40B06D1DB60987B4AAD6F5E1",
+    "salary_min": 177058.95,
+    "title": "Data Engineer",
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "created": "2026-04-14T18:02:53Z",
+    "id": "5699418074",
+    "category": {
+      "tag": "engineering-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Engineering Jobs"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "California",
+        "San Mateo County",
+        "Belmont"
+      ],
+      "display_name": "Belmont, San Mateo County"
+    },
+    "salary_is_predicted": "1",
+    "latitude": 37.55292,
+    "company": {
+      "display_name": "ManpowerGroup",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_max": 274666.66,
+    "description": "Our client, a leader in the autonomous vehicle industry, is seeking a Data Engineer to join their team. As a Data Engineer, you will be part of the Repair & Overhaul Department supporting engineering and shop floor operations. The ideal candidate will demonstrate meticulous attention to detail, problem-solving skills, and a proactive mindset, which will align successfully in the organization. Job Title: Technical Service Data Engineer Location: Foster City, CA Pay Range: $72/h  Benefits What's …",
+    "longitude": -122.26992,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5OTQxODA3NCIsInMiOiIyRVFaOGNzODhSRy1Hcjk5Tm1XY2JBIn0.9GJu52HIzwWQjlSP5-aG97WhbTXC73Z-HU653aYRktA",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Data Engineer",
+    "redirect_url": "https://www.adzuna.com/land/ad/5699418074?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=E2E17B67EB340FC260A7D7068A3BD162E7AD8ABF",
+    "salary_min": 274666.66,
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "id": "5694045057",
+    "created": "2026-04-08T21:58:41Z",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "location": {
+      "display_name": "Newburgh Heights, Cuyahoga County",
+      "area": [
+        "US",
+        "Ohio",
+        "Cuyahoga County",
+        "Newburgh Heights"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5NDA0NTA1NyIsInMiOiIyRVFaOGNzODhSRy1Hcjk5Tm1XY2JBIn0.2j1X8QOp0vRg4mPCYiSGEukSEhfFez9GVrGfPzWNQyU",
+    "title": "Data Engineer",
+    "salary_min": 115998.23,
+    "redirect_url": "https://www.adzuna.com/land/ad/5694045057?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=E785CD4F7AE8C0A3299DE918220A4E36F14CFF0A",
+    "latitude": 41.49307,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Robert Half"
+    },
+    "salary_max": 115998.23,
+    "longitude": -81.66832,
+    "description": "Description We are looking for an experienced Data Engineer to join our team in Cleveland, Ohio. In this role, you will design, implement, and optimize data solutions that support business intelligence and analytics needs. If you have a passion for working with cutting-edge technologies and thrive in a fast-paced environment, this opportunity is for you. Responsibilities: - Develop and refine data models to ensure optimal performance and scalability. - Design and implement data warehouse soluti…",
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "redirect_url": "https://www.adzuna.com/land/ad/5355535980?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=09019A12F2052616B266FD1E01254F6B3692E608",
+    "salary_min": 101438.44,
+    "title": "Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM1NTUzNTk4MCIsInMiOiIyRVFaOGNzODhSRy1Hcjk5Tm1XY2JBIn0.3-toT-0ytHd9XGHl0GYUbfFzIT3c7PiUsX-t_bifIvw",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "Job Description Insight Global is looking for a Data Engineer to support a large healthcare client in a remote capacity. The Data Engineer will be responsible for developing and maintaining new and existing data ETL pipelines and data source marts for internal use under general supervision. Additionally, they will provide support on development projects, participate in the full development life cycle including requirements analysis. We are a company committed to creating inclusive environments …",
+    "longitude": -86.1587,
+    "salary_max": 101438.44,
+    "company": {
+      "display_name": "Insight Global",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 39.7878,
+    "salary_is_predicted": "1",
+    "location": {
+      "display_name": "Uptown, Marion County",
+      "area": [
+        "US",
+        "Indiana",
+        "Marion County",
+        "Uptown"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "id": "5355535980",
+    "created": "2025-08-16T16:34:34Z",
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMkVRWjhjczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NTk5NjQ2NTgyIn0.VcoBZMxBF259zOC7EzlNdMm65EB2lecZxOuqpMFjm68",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Data Engineer",
+    "redirect_url": "https://www.adzuna.com/land/ad/5599646582?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=C46510FC8518637334DFB50603F2AFCF38A1585F",
+    "salary_min": 119649.37,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Insight Global"
+    },
+    "latitude": 36.3645,
+    "salary_max": 119649.37,
+    "longitude": -94.221751,
+    "description": "Job Description One of our largest national clients is seeking a Data Engineer to join their growing team. This person will utilize Google data products & Spark to create data pipelines in order to appropriately target marketing media to the customer. They will be helping with the design, solutioning, prototyping, and data visualization. We are a company committed to creating diverse and inclusive environments where people can bring their full, authentic selves to work every day. We are an equa…",
+    "created": "2026-01-24T20:14:24Z",
+    "id": "5599646582",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "location": {
+      "display_name": "Bentonville, Benton County",
+      "area": [
+        "US",
+        "Arkansas",
+        "Benton County",
+        "Bentonville"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "1",
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "longitude": -97.3837,
+    "description": "Job Description Insight Global is seeking a Databricks Engineer to join the team of one of their fastest growing clients. This individual will be joining a team as a direct hire employee where they will be assisting in challenging data engineering, data management, and data analytics projects. This person will need to be passionate about building and scaling Data Analytics as a Service. There will be opportunity to collaborate with data scientists as well as other individuals within the IT team…",
+    "salary_max": 118250.11,
+    "latitude": 35.465497,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Insight Global"
+    },
+    "salary_min": 118250.11,
+    "redirect_url": "https://www.adzuna.com/land/ad/5654504748?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=36022E5287FA604881E5293D802999CC357BBE3A",
+    "title": "Data Engineer",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY1NDUwNDc0OCIsInMiOiIyRVFaOGNzODhSRy1Hcjk5Tm1XY2JBIn0.Af7D1CsLTTxAAzAIez5ubLe1T47t7di5nqo8il5sCcs",
+    "salary_is_predicted": "1",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Midwest City, Oklahoma County",
+      "area": [
+        "US",
+        "Oklahoma",
+        "Oklahoma County",
+        "Midwest City"
+      ]
+    },
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "id": "5654504748",
+    "created": "2026-03-04T20:15:37Z",
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "created": "2026-03-25T21:11:04Z",
+    "id": "5678722931",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "North Carolina",
+        "Mecklenburg County",
+        "Charlotte"
+      ],
+      "display_name": "Charlotte, Mecklenburg County"
+    },
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMkVRWjhjczg4UkctR3I5OU5tV2NiQSIsImkiOiI1Njc4NzIyOTMxIn0.mQRTFlMFbgJBfp82ABCAnkfssh3oojXACERG2R_tBRg",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Data Engineer",
+    "redirect_url": "https://www.adzuna.com/land/ad/5678722931?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=32D31B5A4E5A4278F3B401C409CD3683DAC719BA",
+    "salary_min": 80725.59,
+    "latitude": 35.21514,
+    "company": {
+      "display_name": "SMBC",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_max": 80725.59,
+    "description": "SMBC Group is a top-tier global financial group. Headquartered in Tokyo and with a 400-year history, SMBC Group offers a diverse range of financial services, including banking, leasing, securities, credit cards, and consumer finance. The Group has more than 130 offices and 80,000 employees worldwide in nearly 40 countries. Sumitomo Mitsui Financial Group, Inc. (SMFG) is the holding company of SMBC Group, which is one of the three largest banking groups in Japan. SMFG's shares trade on the Tokyo…",
+    "longitude": -80.82779,
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5MDg4MjE4OSIsInMiOiIyRVFaOGNzODhSRy1Hcjk5Tm1XY2JBIn0.43t9U_IvTUNg6QrTWymPzx9zkBxcZINeKPhxmM8_3h4",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.com/land/ad/5690882189?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=BD6B2267D7030BE2BD707C63E4C51F1AA3812172",
+    "salary_min": 144313.27,
+    "title": "Data Engineer",
+    "salary_max": 144313.27,
+    "company": {
+      "display_name": "Robert Half",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 34.1697,
+    "description": "Description Data Engineer - CRM Integration (Hybrid in San Fernando Valley) Location: San Fernando Valley (Hybrid - 3x per week onsite) Compensation: $140K-$170K annual base salary Job Type: Full Time, Permanent Overview: Join our growing technology team as a Data Engineer with a focus on CRM data integration. This permanent role will play a key part in supporting analytics and business intelligence across our organization. The position offers a collaborative hybrid environment and highly compe…",
+    "longitude": -118.60758,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "id": "5690882189",
+    "created": "2026-04-05T17:54:40Z",
+    "salary_is_predicted": "1",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Woodland Hills, Los Angeles County",
+      "area": [
+        "US",
+        "California",
+        "Los Angeles County",
+        "Woodland Hills"
+      ]
+    },
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "created": "2025-08-22T08:29:48Z",
+    "id": "5363487926",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Woodland Hills, Los Angeles County",
+      "area": [
+        "US",
+        "California",
+        "Los Angeles County",
+        "Woodland Hills"
+      ]
+    },
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMkVRWjhjczg4UkctR3I5OU5tV2NiQSIsImkiOiI1MzYzNDg3OTI2In0.FG1xbna6P9tUEgTUtvJp0P2av62IpivB2JE-N9xI3U0",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Data Engineer",
+    "salary_min": 238272.5,
+    "redirect_url": "https://www.adzuna.com/land/ad/5363487926?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=2BFFBB27CF7EFA851C357BB6ED78EEF62CAEF1A7",
+    "company": {
+      "display_name": "Robert Half",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 34.1697,
+    "salary_max": 238272.5,
+    "description": "Description Data Engineer (Hybrid, Los Angeles) Location: Los Angeles, California Compensation: $140,000 - $175,000 per year Work Environment: Hybrid, with onsite requirements Are you passionate about crafting highly-scalable and performant data systems? Do you have expertise in Azure Databricks, Spark SQL, and real-time data pipelines? We are searching for a talented and motivated Data Engineer to join our team in Los Angeles. You'll work in a hybrid environment that combines onsite collaborat…",
+    "longitude": -118.60758,
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMkVRWjhjczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NTA5ODIwMDE4In0.d8ZCeYP1GhUJadM4wjqFxwHqb8tYso_5rqDdHRKm1Mo",
+    "title": "Data Engineer",
+    "salary_min": 172888.78,
+    "redirect_url": "https://www.adzuna.com/land/ad/5509820018?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=B2287877F5DFA4EB5A92971AB000558E2C41C3F3",
+    "latitude": 34.67435,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "SOS International LLC"
+    },
+    "salary_max": 172888.78,
+    "description": "Redstone Arsenal, AL, USA Full-time Clearance Requirement: Top Secret/SCI Company Description Founded in 1989, SOSi is among the largest private, founder-owned technology and services integrators in the defense and government services industry. We deliver tailored solutions, tested leadership, and trusted results to enable national security missions worldwide. Job Description Overview SOS International LLC (SOSi) is seeking Data Engineers to join our analytics team working on an innovative MLOp…",
+    "longitude": -86.61484,
+    "id": "5509820018",
+    "created": "2025-11-22T16:27:45Z",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "location": {
+      "display_name": "Redstone Arsenal, Madison County",
+      "area": [
+        "US",
+        "Alabama",
+        "Madison County",
+        "Redstone Arsenal"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "1",
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "salary_is_predicted": "1",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Glendale, Denver",
+      "area": [
+        "US",
+        "Colorado",
+        "Denver",
+        "Glendale"
+      ]
+    },
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5577016611",
+    "created": "2026-01-09T19:27:13Z",
+    "redirect_url": "https://www.adzuna.com/land/ad/5577016611?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=005CE0F5E258B36AC1E0D1DAD403373BD97C20C6",
+    "salary_min": 133626.14,
+    "title": "Data Engineer",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMkVRWjhjczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NTc3MDE2NjExIn0.0G0Y90RWDPHo6ZFifbzpbCkNaR7t8mF4cx6BrYV6DBA",
+    "longitude": -104.984167,
+    "description": "Position Overview We are seeking a motivated Data Engineer to join our Data Engineering team. The ideal candidate will have exposure in Python, and SQL, and will be responsible for designing, developing, and maintaining robust data pipelines for structured, semi-structured, and unstructured data. This role is ideal for someone passionate about building scalable data solutions and enabling advanced analytics across the organization. Key Responsibilities  Design, develop, and optimize data pipeli…",
+    "salary_max": 133626.14,
+    "latitude": 39.739167,
+    "company": {
+      "display_name": "Cognizant",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "created": "2026-01-09T19:26:07Z",
+    "id": "5577009295",
+    "salary_is_predicted": "1",
+    "location": {
+      "area": [
+        "US",
+        "Indiana",
+        "Marion County",
+        "Uptown"
+      ],
+      "display_name": "Uptown, Marion County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMkVRWjhjczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NTc3MDA5Mjk1In0.-yz3gAQOtHCQ4RZQvRspNU3ElWX71GzuDer2d8q_BZ8",
+    "salary_min": 139224.3,
+    "redirect_url": "https://www.adzuna.com/land/ad/5577009295?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=BAD60ADC57DCAF1F006D7FAF9DAE78964B9FF989",
+    "title": "Data Engineer",
+    "salary_max": 139224.3,
+    "company": {
+      "display_name": "Cognizant",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 39.7878,
+    "description": "Position Overview We are seeking a motivated Data Engineer to join our Data Engineering team. The ideal candidate will have exposure in Python, and SQL, and will be responsible for designing, developing, and maintaining robust data pipelines for structured, semi-structured, and unstructured data. This role is ideal for someone passionate about building scalable data solutions and enabling advanced analytics across the organization. Key Responsibilities  Design, develop, and optimize data pipeli…",
+    "longitude": -86.1587,
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "company": {
+      "display_name": "Cognizant",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 34.02978,
+    "salary_max": 112896.83,
+    "longitude": -81.0075,
+    "description": "Position Overview We are seeking a motivated Data Engineer to join our Data Engineering team. The ideal candidate will have exposure in Python, and SQL, and will be responsible for designing, developing, and maintaining robust data pipelines for structured, semi-structured, and unstructured data. This role is ideal for someone passionate about building scalable data solutions and enabling advanced analytics across the organization. Key Responsibilities  Design, develop, and optimize data pipeli…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3Njk5Nzc2MiIsInMiOiIyRVFaOGNzODhSRy1Hcjk5Tm1XY2JBIn0.6lMv9XU--kO3p-BmD6mIV1ub1SNz0AE2h4KxrOcR32E",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Data Engineer",
+    "redirect_url": "https://www.adzuna.com/land/ad/5576997762?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=B7B1E6C1179618B35FEBF28F9304372DEBC0820D",
+    "salary_min": 112896.83,
+    "created": "2026-01-09T19:19:56Z",
+    "id": "5576997762",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "South Carolina",
+        "Richland County",
+        "Edgewood"
+      ],
+      "display_name": "Edgewood, Richland County"
+    },
+    "salary_is_predicted": "1",
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "salary_min": 128083.78,
+    "redirect_url": "https://www.adzuna.com/land/ad/5577009269?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=B82D0C18E2B9AFE285F2DD6CD2C9213B82411BDC",
+    "title": "Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzAwOTI2OSIsInMiOiIyRVFaOGNzODhSRy1Hcjk5Tm1XY2JBIn0.EaiHl1CVoGMG8QgmdfdkXBh69Va9y9w4zKrfqSbS1I8",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -94.221751,
+    "description": "Position Overview We are seeking a motivated Data Engineer to join our Data Engineering team. The ideal candidate will have exposure in Python, and SQL, and will be responsible for designing, developing, and maintaining robust data pipelines for structured, semi-structured, and unstructured data. This role is ideal for someone passionate about building scalable data solutions and enabling advanced analytics across the organization. Key Responsibilities  Design, develop, and optimize data pipeli…",
+    "salary_max": 128083.78,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Cognizant"
+    },
+    "latitude": 36.3645,
+    "salary_is_predicted": "1",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Arkansas",
+        "Benton County",
+        "Bentonville"
+      ],
+      "display_name": "Bentonville, Benton County"
+    },
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "created": "2026-01-09T19:26:07Z",
+    "id": "5577009269",
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "longitude": -78.646597,
+    "description": "Position Overview We are seeking a motivated Data Engineer to join our Data Engineering team. The ideal candidate will have exposure in Python, and SQL, and will be responsible for designing, developing, and maintaining robust data pipelines for structured, semi-structured, and unstructured data. This role is ideal for someone passionate about building scalable data solutions and enabling advanced analytics across the organization. Key Responsibilities  Design, develop, and optimize data pipeli…",
+    "salary_max": 126863.97,
+    "latitude": 35.807915,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Cognizant"
+    },
+    "salary_min": 126863.97,
+    "redirect_url": "https://www.adzuna.com/land/ad/5577022475?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=6D3FF71BF4C268B4CBAFF423781F8A1E04C83374",
+    "title": "Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMkVRWjhjczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NTc3MDIyNDc1In0.8wvvSiIzm9zy102Kpq2xPEO22XfrihmiECvJlKCrunI",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "location": {
+      "display_name": "Five Points, Wake County",
+      "area": [
+        "US",
+        "North Carolina",
+        "Wake County",
+        "Five Points"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "id": "5577022475",
+    "created": "2026-01-09T19:28:08Z",
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "latitude": 38.982355,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Cognizant"
+    },
+    "salary_max": 139512.19,
+    "longitude": -76.533695,
+    "description": "Position Overview We are seeking a motivated Data Engineer to join our Data Engineering team. The ideal candidate will have exposure in Python, and SQL, and will be responsible for designing, developing, and maintaining robust data pipelines for structured, semi-structured, and unstructured data. This role is ideal for someone passionate about building scalable data solutions and enabling advanced analytics across the organization. Key Responsibilities  Design, develop, and optimize data pipeli…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMkVRWjhjczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NTc2NzY0MTA1In0.DuGoPUjka9lGtk_8tL-s2omdDQT6oWUjKnfi-Ic0L4s",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Data Engineer",
+    "redirect_url": "https://www.adzuna.com/land/ad/5576764105?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=2FB18D6A10D4702496EA3961E2809CBD2139F85F",
+    "salary_min": 139512.19,
+    "id": "5576764105",
+    "created": "2026-01-09T15:36:05Z",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Maryland",
+        "Anne Arundel County",
+        "Annapolis"
+      ],
+      "display_name": "Annapolis, Anne Arundel County"
+    },
+    "salary_is_predicted": "1",
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMkVRWjhjczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NTc3MzE4NTE2In0.Yo8eaB_5KbVfwSkT76f4OLleCfjIL0JmZeApSeG83TM",
+    "redirect_url": "https://www.adzuna.com/land/ad/5577318516?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=BFA0E1CEB24B999578E474A225CFBD492CD9084B",
+    "salary_min": 116770.3,
+    "title": "Data Engineer",
+    "salary_max": 116770.3,
+    "latitude": 40.72693,
+    "company": {
+      "display_name": "Cognizant",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "Position Overview We are seeking a motivated Data Engineer to join our Data Engineering team. The ideal candidate will have exposure in Python, and SQL, and will be responsible for designing, developing, and maintaining robust data pipelines for structured, semi-structured, and unstructured data. This role is ideal for someone passionate about building scalable data solutions and enabling advanced analytics across the organization. Key Responsibilities  Design, develop, and optimize data pipeli…",
+    "longitude": -111.88763,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "id": "5577318516",
+    "created": "2026-01-09T22:34:56Z",
+    "salary_is_predicted": "1",
+    "location": {
+      "area": [
+        "US",
+        "Utah",
+        "Utah County",
+        "Bonnie"
+      ],
+      "display_name": "Bonnie, Utah County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "created": "2026-01-09T19:27:36Z",
+    "id": "5577019190",
+    "salary_is_predicted": "1",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "New Hampshire",
+        "Merrimack County",
+        "Concord"
+      ],
+      "display_name": "Concord, Merrimack County"
+    },
+    "salary_max": 167755.03,
+    "latitude": 43.231594,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Cognizant"
+    },
+    "description": "Position Overview We are seeking a motivated Data Engineer to join our Data Engineering team. The ideal candidate will have exposure in Python, and SQL, and will be responsible for designing, developing, and maintaining robust data pipelines for structured, semi-structured, and unstructured data. This role is ideal for someone passionate about building scalable data solutions and enabling advanced analytics across the organization. Key Responsibilities  Design, develop, and optimize data pipeli…",
+    "longitude": -71.560077,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzAxOTE5MCIsInMiOiIyRVFaOGNzODhSRy1Hcjk5Tm1XY2JBIn0.TLxwBAGUcrfpzJK0jMsH2TeKfuL08Bs--sVmmwWiEY0",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 167755.03,
+    "redirect_url": "https://www.adzuna.com/land/ad/5577019190?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=432F44D04732E24F776952ADB754C66D2333567C",
+    "title": "Data Engineer",
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "salary_max": 111214.38,
+    "latitude": 44.94452,
+    "company": {
+      "display_name": "Cognizant",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "Position Overview We are seeking a motivated Data Engineer to join our Data Engineering team. The ideal candidate will have exposure in Python, and SQL, and will be responsible for designing, developing, and maintaining robust data pipelines for structured, semi-structured, and unstructured data. This role is ideal for someone passionate about building scalable data solutions and enabling advanced analytics across the organization. Key Responsibilities  Design, develop, and optimize data pipeli…",
+    "longitude": -93.09298,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzAxOTY4OCIsInMiOiIyRVFaOGNzODhSRy1Hcjk5Tm1XY2JBIn0.IuQDhDZ8_oE6t1JpDQKLWEi-j4hTAoKGyAYk_GKljcs",
+    "salary_min": 111214.38,
+    "redirect_url": "https://www.adzuna.com/land/ad/5577019688?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=E05130C383324A16C406183447FD48254CC507B6",
+    "title": "Data Engineer",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "created": "2026-01-09T19:27:40Z",
+    "id": "5577019688",
+    "salary_is_predicted": "1",
+    "location": {
+      "area": [
+        "US",
+        "Minnesota",
+        "Ramsey County",
+        "Saint Paul"
+      ],
+      "display_name": "Saint Paul, Ramsey County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "longitude": -86.78903,
+    "description": "Position Overview We are seeking a motivated Data Engineer to join our Data Engineering team. The ideal candidate will have exposure in Python, and SQL, and will be responsible for designing, developing, and maintaining robust data pipelines for structured, semi-structured, and unstructured data. This role is ideal for someone passionate about building scalable data solutions and enabling advanced analytics across the organization. Key Responsibilities  Design, develop, and optimize data pipeli…",
+    "salary_max": 117515.1,
+    "latitude": 36.14946,
+    "company": {
+      "display_name": "Cognizant",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_min": 117515.1,
+    "redirect_url": "https://www.adzuna.com/land/ad/5577022480?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=97036557E75E527581DDC2F7BDC1CC8CF90D3CE0",
+    "title": "Data Engineer",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMkVRWjhjczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NTc3MDIyNDgwIn0.fLdHPh7xfyLZ4f7Ail_1Ze1gg_7js2AHUCX-ykWVcyI",
+    "salary_is_predicted": "1",
+    "location": {
+      "area": [
+        "US",
+        "Tennessee",
+        "Davidson County",
+        "Nashville"
+      ],
+      "display_name": "Nashville, Davidson County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "id": "5577022480",
+    "created": "2026-01-09T19:28:08Z",
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Boston, Suffolk County",
+      "area": [
+        "US",
+        "Massachusetts",
+        "Suffolk County",
+        "Boston"
+      ]
+    },
+    "salary_is_predicted": "1",
+    "id": "5577018997",
+    "created": "2026-01-09T19:27:34Z",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "title": "Data Engineer",
+    "redirect_url": "https://www.adzuna.com/land/ad/5577018997?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=4B3A02D78A1CDCC50C3005E3019E1BFC28F21520",
+    "salary_min": 106997.29,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzAxODk5NyIsInMiOiIyRVFaOGNzODhSRy1Hcjk5Tm1XY2JBIn0.0k2_36DFNBjoXw4D8AKjx_qYh4l1k__7M90Hvw8gzCM",
+    "longitude": -71.065917,
+    "description": "Position Overview We are seeking a motivated Data Engineer to join our Data Engineering team. The ideal candidate will have exposure in Python, and SQL, and will be responsible for designing, developing, and maintaining robust data pipelines for structured, semi-structured, and unstructured data. This role is ideal for someone passionate about building scalable data solutions and enabling advanced analytics across the organization. Key Responsibilities  Design, develop, and optimize data pipeli…",
+    "latitude": 42.356644,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Cognizant"
+    },
+    "salary_max": 106997.29,
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "created": "2026-01-09T23:13:13Z",
+    "id": "5577338287",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Wisconsin",
+        "Dane County",
+        "Madison"
+      ],
+      "display_name": "Madison, Dane County"
+    },
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMkVRWjhjczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NTc3MzM4Mjg3In0.146knCep6cgHub05e4ZE-09dFCXcNCkQWAnTPKREL2U",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Data Engineer",
+    "redirect_url": "https://www.adzuna.com/land/ad/5577338287?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=92D36DF93BE25A79B6E3344DB4170017F824C7CE",
+    "salary_min": 115755.45,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Cognizant"
+    },
+    "latitude": 43.07611,
+    "salary_max": 115755.45,
+    "longitude": -89.3816,
+    "description": "Position Overview We are seeking a motivated Data Engineer to join our Data Engineering team. The ideal candidate will have exposure in Python, and SQL, and will be responsible for designing, developing, and maintaining robust data pipelines for structured, semi-structured, and unstructured data. This role is ideal for someone passionate about building scalable data solutions and enabling advanced analytics across the organization. Key Responsibilities  Design, develop, and optimize data pipeli…",
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "title": "Data Engineer",
+    "redirect_url": "https://www.adzuna.com/land/ad/5577015333?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=400C2AC6582CC0BAC3443CECBB363800A1DAFEF1",
+    "salary_min": 119286.04,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzAxNTMzMyIsInMiOiIyRVFaOGNzODhSRy1Hcjk5Tm1XY2JBIn0.lqhNBZGj_N8V1x1oWO28aesGZ0SqnQxiuF5G-JOwLdA",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "Position Overview We are seeking a motivated Data Engineer to join our Data Engineering team. The ideal candidate will have exposure in Python, and SQL, and will be responsible for designing, developing, and maintaining robust data pipelines for structured, semi-structured, and unstructured data. This role is ideal for someone passionate about building scalable data solutions and enabling advanced analytics across the organization. Key Responsibilities  Design, develop, and optimize data pipeli…",
+    "longitude": -84.570821,
+    "latitude": 42.738827,
+    "company": {
+      "display_name": "Cognizant",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_max": 119286.04,
+    "location": {
+      "display_name": "Lansing, Ingham County",
+      "area": [
+        "US",
+        "Michigan",
+        "Ingham County",
+        "Lansing"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "1",
+    "created": "2026-01-09T19:27:03Z",
+    "id": "5577015333",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "salary_max": 140290.28,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Cognizant"
+    },
+    "latitude": 39.991073,
+    "longitude": -83.000202,
+    "description": "Position Overview We are seeking a motivated Data Engineer to join our Data Engineering team. The ideal candidate will have exposure in Python, and SQL, and will be responsible for designing, developing, and maintaining robust data pipelines for structured, semi-structured, and unstructured data. This role is ideal for someone passionate about building scalable data solutions and enabling advanced analytics across the organization. Key Responsibilities  Design, develop, and optimize data pipeli…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMkVRWjhjczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NTc3MDI1NDM2In0.xzj0Pj99JoRMfEuBuA5qvge9pbsZtnNB-AoqLMZtShw",
+    "salary_min": 140290.28,
+    "redirect_url": "https://www.adzuna.com/land/ad/5577025436?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=96E5D72682EBEA5D943834829C10CFF72F93F86D",
+    "title": "Data Engineer",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "id": "5577025436",
+    "created": "2026-01-09T19:28:35Z",
+    "salary_is_predicted": "1",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Ohio",
+        "Franklin County",
+        "Grandview Heights"
+      ],
+      "display_name": "Grandview Heights, Franklin County"
+    },
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "New York",
+        "Albany County",
+        "Ny State Campus"
+      ],
+      "display_name": "Ny State Campus, Albany County"
+    },
+    "salary_is_predicted": "1",
+    "id": "5577043941",
+    "created": "2026-01-09T19:30:47Z",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "description": "Position Overview We are seeking a motivated Data Engineer to join our Data Engineering team. The ideal candidate will have exposure in Python, and SQL, and will be responsible for designing, developing, and maintaining robust data pipelines for structured, semi-structured, and unstructured data. This role is ideal for someone passionate about building scalable data solutions and enabling advanced analytics across the organization. Key Responsibilities  Design, develop, and optimize data pipeli…",
+    "longitude": -73.77562,
+    "company": {
+      "display_name": "Cognizant",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 42.67264,
+    "salary_max": 127353.09,
+    "title": "Data Engineer",
+    "redirect_url": "https://www.adzuna.com/land/ad/5577043941?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=8B2E9E70B58B537667CB344618D94CBB194E65CD",
+    "salary_min": 127353.09,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMkVRWjhjczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NTc3MDQzOTQxIn0.9FWeuCEwOSQlulEjf5lCglSHzvbupyRcmPlU3eXU4Jc",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "id": "5577025286",
+    "created": "2026-01-09T19:28:34Z",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "location": {
+      "area": [
+        "US",
+        "Georgia",
+        "Fulton County",
+        "Atlanta"
+      ],
+      "display_name": "Atlanta, Fulton County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "1",
+    "latitude": 33.795821,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Cognizant"
+    },
+    "salary_max": 159635.45,
+    "longitude": -84.38763,
+    "description": "Position Overview We are seeking a motivated Data Engineer to join our Data Engineering team. The ideal candidate will have exposure in Python, and SQL, and will be responsible for designing, developing, and maintaining robust data pipelines for structured, semi-structured, and unstructured data. This role is ideal for someone passionate about building scalable data solutions and enabling advanced analytics across the organization. Key Responsibilities  Design, develop, and optimize data pipeli…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzAyNTI4NiIsInMiOiIyRVFaOGNzODhSRy1Hcjk5Tm1XY2JBIn0.TXxJCTekJ7df6OWnqX6sQgFhxg8cSi09JaoNmy5KiBY",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Data Engineer",
+    "salary_min": 159635.45,
+    "redirect_url": "https://www.adzuna.com/land/ad/5577025286?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=F8D54B38183D8E931C0AE192523CAA897E2912D3",
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "salary_max": 143086.88,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Cognizant"
+    },
+    "latitude": 39.165778,
+    "longitude": -75.566083,
+    "description": "Position Overview We are seeking a motivated Data Engineer to join our Data Engineering team. The ideal candidate will have exposure in Python, and SQL, and will be responsible for designing, developing, and maintaining robust data pipelines for structured, semi-structured, and unstructured data. This role is ideal for someone passionate about building scalable data solutions and enabling advanced analytics across the organization. Key Responsibilities  Design, develop, and optimize data pipeli…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMkVRWjhjczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NTc3MDY1OTA3In0.cYf9bYaJclDsR0QdjmekLkC0sFzuECp9KDQ2Uv3RmVA",
+    "salary_min": 143086.88,
+    "redirect_url": "https://www.adzuna.com/land/ad/5577065907?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=C85EB72C7C433494C82AD6459429BC6FEE20091C",
+    "title": "Data Engineer",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5577065907",
+    "created": "2026-01-09T19:35:10Z",
+    "salary_is_predicted": "1",
+    "location": {
+      "area": [
+        "US",
+        "Delaware",
+        "Kent County",
+        "Wyoming"
+      ],
+      "display_name": "Wyoming, Kent County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "id": "5577015383",
+    "created": "2026-01-09T19:27:03Z",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Jackson, Hinds County",
+      "area": [
+        "US",
+        "Mississippi",
+        "Hinds County",
+        "Jackson"
+      ]
+    },
+    "salary_is_predicted": "1",
+    "latitude": 32.307985,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Cognizant"
+    },
+    "salary_max": 103997.3,
+    "description": "Position Overview We are seeking a motivated Data Engineer to join our Data Engineering team. The ideal candidate will have exposure in Python, and SQL, and will be responsible for designing, developing, and maintaining robust data pipelines for structured, semi-structured, and unstructured data. This role is ideal for someone passionate about building scalable data solutions and enabling advanced analytics across the organization. Key Responsibilities  Design, develop, and optimize data pipeli…",
+    "longitude": -90.200343,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzAxNTM4MyIsInMiOiIyRVFaOGNzODhSRy1Hcjk5Tm1XY2JBIn0.6b6GuK7_RAooNms2iNGx98UfNKA6YWTmuIJOuqfnRys",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Data Engineer",
+    "redirect_url": "https://www.adzuna.com/land/ad/5577015383?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=DF96ADD123A8F1103865F5699AA68EDE99753F82",
+    "salary_min": 103997.3,
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "created": "2026-01-09T15:35:35Z",
+    "id": "5576762783",
+    "salary_is_predicted": "1",
+    "location": {
+      "display_name": "La Cienga, Santa Fe County",
+      "area": [
+        "US",
+        "New Mexico",
+        "Santa Fe County",
+        "La Cienga"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMkVRWjhjczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NTc2NzYyNzgzIn0.ozqvGyXERSlsKqonHbSWKRERjukJXApe5ugQgzOX-xQ",
+    "salary_min": 156023.47,
+    "redirect_url": "https://www.adzuna.com/land/ad/5576762783?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=FE0E0C072D89FE8685D8C5312C6BFBCF22CC3C37",
+    "title": "Data Engineer",
+    "salary_max": 156023.47,
+    "latitude": 35.691854,
+    "company": {
+      "display_name": "Cognizant",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "longitude": -105.942534,
+    "description": "Position Overview We are seeking a motivated Data Engineer to join our Data Engineering team. The ideal candidate will have exposure in Python, and SQL, and will be responsible for designing, developing, and maintaining robust data pipelines for structured, semi-structured, and unstructured data. This role is ideal for someone passionate about building scalable data solutions and enabling advanced analytics across the organization. Key Responsibilities  Design, develop, and optimize data pipeli…",
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Cognizant"
+    },
+    "latitude": 41.187702,
+    "salary_max": 131325.31,
+    "longitude": -104.80953,
+    "description": "Position Overview We are seeking a motivated Data Engineer to join our Data Engineering team. The ideal candidate will have exposure in Python, and SQL, and will be responsible for designing, developing, and maintaining robust data pipelines for structured, semi-structured, and unstructured data. This role is ideal for someone passionate about building scalable data solutions and enabling advanced analytics across the organization. Key Responsibilities  Design, develop, and optimize data pipeli…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMkVRWjhjczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NTc3MDQxMTIxIn0.4MSUSfC8s32C2FCG5eZrGQJ-1YCTpJXrGcXIJ7T5_Hw",
+    "title": "Data Engineer",
+    "redirect_url": "https://www.adzuna.com/land/ad/5577041121?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=4102679D300F93F71FEBA58BBA14294641375E28",
+    "salary_min": 131325.31,
+    "id": "5577041121",
+    "created": "2026-01-09T19:30:31Z",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Archer, Laramie County",
+      "area": [
+        "US",
+        "Wyoming",
+        "Laramie County",
+        "Archer"
+      ]
+    },
+    "salary_is_predicted": "1",
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "latitude": 38.57717,
+    "company": {
+      "display_name": "Cognizant",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_max": 120823.2,
+    "longitude": -92.17271,
+    "description": "Position Overview We are seeking a motivated Data Engineer to join our Data Engineering team. The ideal candidate will have exposure in Python, and SQL, and will be responsible for designing, developing, and maintaining robust data pipelines for structured, semi-structured, and unstructured data. This role is ideal for someone passionate about building scalable data solutions and enabling advanced analytics across the organization. Key Responsibilities  Design, develop, and optimize data pipeli…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzAyMDQyMiIsInMiOiIyRVFaOGNzODhSRy1Hcjk5Tm1XY2JBIn0.F9d8W2ZZvnwfnXRvpUkw5WMcgpGK5Ww-UHC12ltNwUg",
+    "title": "Data Engineer",
+    "redirect_url": "https://www.adzuna.com/land/ad/5577020422?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=C376627EA11C34AD272532357592090C40B1F14A",
+    "salary_min": 120823.2,
+    "id": "5577020422",
+    "created": "2026-01-09T19:27:50Z",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Missouri",
+        "Cole County",
+        "Cedar"
+      ],
+      "display_name": "Cedar, Cole County"
+    },
+    "salary_is_predicted": "1",
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "description": "Position Overview We are seeking a motivated Data Engineer to join our Data Engineering team. The ideal candidate will have exposure in Python, and SQL, and will be responsible for designing, developing, and maintaining robust data pipelines for structured, semi-structured, and unstructured data. This role is ideal for someone passionate about building scalable data solutions and enabling advanced analytics across the organization. Key Responsibilities  Design, develop, and optimize data pipeli…",
+    "longitude": -157.8465,
+    "latitude": 21.3072,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Cognizant"
+    },
+    "salary_max": 104937.78,
+    "title": "Data Engineer",
+    "salary_min": 104937.78,
+    "redirect_url": "https://www.adzuna.com/land/ad/5576992688?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=A10A1CB64A1BCB0F978D52362259D9997224DCA5",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3Njk5MjY4OCIsInMiOiIyRVFaOGNzODhSRy1Hcjk5Tm1XY2JBIn0.2qtsOUiQJq6w_RtlJc4C06P9eWYF47HMdQ4f7_w7y2o",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Wake Island, Honolulu",
+      "area": [
+        "US",
+        "Hawaii",
+        "Honolulu",
+        "Wake Island"
+      ]
+    },
+    "salary_is_predicted": "1",
+    "created": "2026-01-09T19:16:50Z",
+    "id": "5576992688",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "latitude": 35.432646,
+    "company": {
+      "display_name": "Cognizant",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_max": 111686.94,
+    "longitude": -97.524283,
+    "description": "Position Overview We are seeking a motivated Data Engineer to join our Data Engineering team. The ideal candidate will have exposure in Python, and SQL, and will be responsible for designing, developing, and maintaining robust data pipelines for structured, semi-structured, and unstructured data. This role is ideal for someone passionate about building scalable data solutions and enabling advanced analytics across the organization. Key Responsibilities  Design, develop, and optimize data pipeli…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzAxMjExNiIsInMiOiIyRVFaOGNzODhSRy1Hcjk5Tm1XY2JBIn0.J6bHmhs0nU0ZWNGh-szYCmWxAEov7djV340JpEZlCLY",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Data Engineer",
+    "salary_min": 111686.94,
+    "redirect_url": "https://www.adzuna.com/land/ad/5577012116?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=1524C2D733665C6876CC3E7B7F864432A8B3697A",
+    "created": "2026-01-09T19:26:38Z",
+    "id": "5577012116",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Oklahoma City, Oklahoma County",
+      "area": [
+        "US",
+        "Oklahoma",
+        "Oklahoma County",
+        "Oklahoma City"
+      ]
+    },
+    "salary_is_predicted": "1",
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "title": "Data Engineer",
+    "redirect_url": "https://www.adzuna.com/land/ad/5577011543?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=62039B263C4F2DDBE9E9475DDAB0B0959AEBF30B",
+    "salary_min": 110691.14,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NzAxMTU0MyIsInMiOiIyRVFaOGNzODhSRy1Hcjk5Tm1XY2JBIn0.W5fAm2u-VJKEqLa2LtETrJQTs9bUXFaPKrLpGXKBU0Y",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "Position Overview We are seeking a motivated Data Engineer to join our Data Engineering team. The ideal candidate will have exposure in Python, and SQL, and will be responsible for designing, developing, and maintaining robust data pipelines for structured, semi-structured, and unstructured data. This role is ideal for someone passionate about building scalable data solutions and enabling advanced analytics across the organization. Key Responsibilities  Design, develop, and optimize data pipeli…",
+    "longitude": -91.130243,
+    "company": {
+      "display_name": "Cognizant",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 30.446919,
+    "salary_max": 110691.14,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Baton Rouge, East Baton Rouge Parish",
+      "area": [
+        "US",
+        "Louisiana",
+        "East Baton Rouge Parish",
+        "Baton Rouge"
+      ]
+    },
+    "salary_is_predicted": "1",
+    "id": "5577011543",
+    "created": "2026-01-09T19:26:32Z",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "created": "2026-01-09T19:26:38Z",
+    "id": "5577012093",
+    "salary_is_predicted": "1",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Strathmoor Manor, Jefferson County",
+      "area": [
+        "US",
+        "Kentucky",
+        "Jefferson County",
+        "Strathmoor Manor"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMkVRWjhjczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NTc3MDEyMDkzIn0.DVaWECNp_s1YS7OuV7Txbs7DGtevAKo8J5adAaB74SY",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 112440.6,
+    "redirect_url": "https://www.adzuna.com/land/ad/5577012093?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=D20BB02354276F6581930FFA621D70B4EF7AD3AF",
+    "title": "Data Engineer",
+    "salary_max": 112440.6,
+    "latitude": 38.22485,
+    "company": {
+      "display_name": "Cognizant",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "longitude": -85.68453,
+    "description": "Position Overview We are seeking a motivated Data Engineer to join our Data Engineering team. The ideal candidate will have exposure in Python, and SQL, and will be responsible for designing, developing, and maintaining robust data pipelines for structured, semi-structured, and unstructured data. This role is ideal for someone passionate about building scalable data solutions and enabling advanced analytics across the organization. Key Responsibilities  Design, develop, and optimize data pipeli…",
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "id": "5576992802",
+    "created": "2026-01-09T19:16:52Z",
+    "salary_is_predicted": "1",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Augusta, Kennebec County",
+      "area": [
+        "US",
+        "Maine",
+        "Kennebec County",
+        "Augusta"
+      ]
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMkVRWjhjczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NTc2OTkyODAyIn0.CiViiZw8D93CCluDkdXpIIuvz6g5YVvtknOLbhPBGxg",
+    "salary_min": 152342.94,
+    "redirect_url": "https://www.adzuna.com/land/ad/5576992802?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=1D3DDA91AD9F4EB3DCDA169F113D219A91580BA2",
+    "title": "Data Engineer",
+    "salary_max": 152342.94,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Cognizant"
+    },
+    "latitude": 44.33616,
+    "description": "Position Overview We are seeking a motivated Data Engineer to join our Data Engineering team. The ideal candidate will have exposure in Python, and SQL, and will be responsible for designing, developing, and maintaining robust data pipelines for structured, semi-structured, and unstructured data. This role is ideal for someone passionate about building scalable data solutions and enabling advanced analytics across the organization. Key Responsibilities  Design, develop, and optimize data pipeli…",
+    "longitude": -69.7445,
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "created": "2026-04-12T22:07:41Z",
+    "id": "5697790079",
+    "salary_is_predicted": "1",
+    "location": {
+      "area": [
+        "US",
+        "Georgia",
+        "Fulton County",
+        "Atlanta"
+      ],
+      "display_name": "Atlanta, Fulton County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMkVRWjhjczg4UkctR3I5OU5tV2NiQSIsImkiOiI1Njk3NzkwMDc5In0.o7yAYKSGIVtS3xecY1B-0250N81XenxuQYRy5p299G8",
+    "redirect_url": "https://www.adzuna.com/land/ad/5697790079?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=87C638200D7535EDC58C3183AAD00B2C65958ED0",
+    "salary_min": 95360.51,
+    "title": "Data Engineer",
+    "salary_max": 95360.51,
+    "latitude": 33.795821,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Cargill"
+    },
+    "description": "Cargill's size and scale allows us to make a positive impact in the world. Our purpose is to nourish the world in a safe, responsible and sustainable way. We are a family company providing food, ingredients, agricultural solutions and industrial products that are vital for living. We connect farmers with markets so they can prosper. We connect customers with ingredients so they can make meals people love. And we connect families with daily essentials - from eggs to edible oils, salt to skincare…",
+    "longitude": -84.38763,
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "salary_max": 101840.7,
+    "latitude": 39.04853,
+    "company": {
+      "display_name": "Cadmus",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "Overview What You'll Be Doing Cadmus is seeking a Data Engineer to support one of our commercial customers in the media space. This team supports vital Ads engineering and data needs for a major auto advertising platform using big data technologies. They are looking for an engineer to work with their team who enjoys building and supporting a future vision of demystifying advertisement performance data. The current program involves a migration of ETL from their Google cloud platform to an AWS pl…",
+    "longitude": -95.68007,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMkVRWjhjczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NjQ5MjIxODg3In0.8_RF7d080L6lRoITSw6H4asShiGGNbz2hOQbo5cFS9I",
+    "salary_min": 101840.7,
+    "redirect_url": "https://www.adzuna.com/land/ad/5649221887?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=37065E31610F7E255194BFF0919305F2B6D18394",
+    "title": "Data Engineer",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5649221887",
+    "created": "2026-02-28T19:53:03Z",
+    "salary_is_predicted": "1",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Kansas",
+        "Shawnee County",
+        "Topeka"
+      ],
+      "display_name": "Topeka, Shawnee County"
+    },
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "id": "5649228892",
+    "created": "2026-02-28T19:54:14Z",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Ohio",
+        "Franklin County",
+        "Grandview Heights"
+      ],
+      "display_name": "Grandview Heights, Franklin County"
+    },
+    "salary_is_predicted": "1",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Cadmus"
+    },
+    "latitude": 39.991073,
+    "salary_max": 123492.08,
+    "description": "Overview What You'll Be Doing Cadmus is seeking a Data Engineer to support one of our commercial customers in the media space. This team supports vital Ads engineering and data needs for a major auto advertising platform using big data technologies. They are looking for an engineer to work with their team who enjoys building and supporting a future vision of demystifying advertisement performance data. The current program involves a migration of ETL from their Google cloud platform to an AWS pl…",
+    "longitude": -83.000202,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0OTIyODg5MiIsInMiOiIyRVFaOGNzODhSRy1Hcjk5Tm1XY2JBIn0.nnOfsnNrCS0kXhFDcvvZAIxfQUfNPTynx5i2d26pBKs",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Data Engineer",
+    "salary_min": 123492.08,
+    "redirect_url": "https://www.adzuna.com/land/ad/5649228892?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=4D5D4190746C2B843722A83EBD089E6CF4953786",
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "salary_is_predicted": "1",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Uptown, Marion County",
+      "area": [
+        "US",
+        "Indiana",
+        "Marion County",
+        "Uptown"
+      ]
+    },
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "created": "2026-02-28T19:51:35Z",
+    "id": "5649212454",
+    "salary_min": 122553.73,
+    "redirect_url": "https://www.adzuna.com/land/ad/5649212454?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=C83D71E9F46321A49CBB47B18A9750E1529A6B56",
+    "title": "Data Engineer",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0OTIxMjQ1NCIsInMiOiIyRVFaOGNzODhSRy1Hcjk5Tm1XY2JBIn0.eNP70AjeOCMsFK4uf5-jx96hPtF58iTNn1Kip7X4-Z8",
+    "description": "Overview What You'll Be Doing Cadmus is seeking a Data Engineer to support one of our commercial customers in the media space. This team supports vital Ads engineering and data needs for a major auto advertising platform using big data technologies. They are looking for an engineer to work with their team who enjoys building and supporting a future vision of demystifying advertisement performance data. The current program involves a migration of ETL from their Google cloud platform to an AWS pl…",
+    "longitude": -86.1587,
+    "salary_max": 122553.73,
+    "company": {
+      "display_name": "Cadmus",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 39.7878,
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "salary_max": 134101.67,
+    "company": {
+      "display_name": "Cadmus",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 44.33616,
+    "longitude": -69.7445,
+    "description": "Overview What You'll Be Doing Cadmus is seeking a Data Engineer to support one of our commercial customers in the media space. This team supports vital Ads engineering and data needs for a major auto advertising platform using big data technologies. They are looking for an engineer to work with their team who enjoys building and supporting a future vision of demystifying advertisement performance data. The current program involves a migration of ETL from their Google cloud platform to an AWS pl…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0OTE4NzQwNSIsInMiOiIyRVFaOGNzODhSRy1Hcjk5Tm1XY2JBIn0.KNfiTFe7FQ8IbOy5m4gUg2uojVNsUi11LGG10A4LNg0",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 134101.67,
+    "redirect_url": "https://www.adzuna.com/land/ad/5649187405?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=C3CAA20AA262B9C1616867790E6C058AB2A3BD31",
+    "title": "Data Engineer",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5649187405",
+    "created": "2026-02-28T19:37:59Z",
+    "salary_is_predicted": "1",
+    "location": {
+      "display_name": "Augusta, Kennebec County",
+      "area": [
+        "US",
+        "Maine",
+        "Kennebec County",
+        "Augusta"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "location": {
+      "area": [
+        "US",
+        "Iowa",
+        "Polk County",
+        "Des Moines"
+      ],
+      "display_name": "Des Moines, Polk County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "1",
+    "created": "2026-02-28T19:42:15Z",
+    "id": "5649189035",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "title": "Data Engineer",
+    "redirect_url": "https://www.adzuna.com/land/ad/5649189035?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=D8BC9147CE4B1F50504739A9BEFD953EA9D9B51B",
+    "salary_min": 96944.09,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0OTE4OTAzNSIsInMiOiIyRVFaOGNzODhSRy1Hcjk5Tm1XY2JBIn0.EWo2b67ggAFgQKr_9LzCbl7TryHEBWIVIG4R8vsUR-o",
+    "description": "Overview What You'll Be Doing Cadmus is seeking a Data Engineer to support one of our commercial customers in the media space. This team supports vital Ads engineering and data needs for a major auto advertising platform using big data technologies. They are looking for an engineer to work with their team who enjoys building and supporting a future vision of demystifying advertisement performance data. The current program involves a migration of ETL from their Google cloud platform to an AWS pl…",
+    "longitude": -93.63911,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Cadmus"
+    },
+    "latitude": 41.58345,
+    "salary_max": 96944.09,
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  },
+  {
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "created": "2026-02-28T19:42:34Z",
+    "id": "5649189281",
+    "salary_is_predicted": "1",
+    "location": {
+      "area": [
+        "US",
+        "South Carolina",
+        "Richland County",
+        "Edgewood"
+      ],
+      "display_name": "Edgewood, Richland County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_max": 99378.87,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Cadmus"
+    },
+    "latitude": 34.02978,
+    "longitude": -81.0075,
+    "description": "Overview What You'll Be Doing Cadmus is seeking a Data Engineer to support one of our commercial customers in the media space. This team supports vital Ads engineering and data needs for a major auto advertising platform using big data technologies. They are looking for an engineer to work with their team who enjoys building and supporting a future vision of demystifying advertisement performance data. The current program involves a migration of ETL from their Google cloud platform to an AWS pl…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMkVRWjhjczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NjQ5MTg5MjgxIn0.1v-LUnH6iLjj0L5U1v7Ln2VotV05DY0jfToRUNoyjAg",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.com/land/ad/5649189281?se=2EQZ8cs88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=1EAFEA87645CB67E17D6A335E31D3E637E256F24",
+    "salary_min": 99378.87,
+    "title": "Data Engineer",
+    "_ingested_at": "2026-04-20T15:10:24.738417+00:00",
+    "_country": "us",
+    "_source": "adzuna_api"
+  }
+]
