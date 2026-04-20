@@ -70,6 +70,15 @@ def fetch_country(country: str, params: dict, raw_dir: Path, run_date: str) -> i
             job["_ingested_at"] = ingestion_ts
             job["_country"]     = country
             job["_source"]      = "adzuna_api"
+            # Flatten nested Adzuna objects → extract display_name
+            if isinstance(job.get("company"), dict):
+                job["company"] = job["company"].get("display_name", "")
+            if isinstance(job.get("location"), dict):
+                loc = job["location"]
+                job["location"] = loc.get("display_name", "")
+                # Extract city from area array if available
+                area = loc.get("area", [])
+                job["city"] = area[-1] if area else loc.get("display_name", "")
 
         out_file = out_dir / f"{run_date}_page{page:02d}.json"
         with open(out_file, "w", encoding="utf-8") as fh:

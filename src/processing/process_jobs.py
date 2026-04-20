@@ -81,7 +81,7 @@ def normalize_columns(df: DataFrame) -> DataFrame:
         else:
             df = df.withColumn(col, F.lit(None).cast(DoubleType()))
 
-    # Standardize country code to lowercase
+    # Standardize country code to lowercase — keep as regular column AND partition key
     df = df.withColumn("country", F.lower(F.col("_country")))
 
     # Parse ingestion timestamp — cast aceita todos os formatos ISO 8601 no Spark 3.x

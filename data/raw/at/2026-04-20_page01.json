@@ -1,332 +1,197 @@
 [
   {
-    "category": {
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "tag": "it-jobs",
-      "label": "IT-Stellen"
-    },
-    "id": "5692773233",
-    "created": "2026-04-08T05:53:09Z",
     "salary_is_predicted": "0",
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "Österreich",
-        "Wien"
-      ],
-      "display_name": "Wien, Österreich"
-    },
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5Mjc3MzIzMyIsInMiOiIwclpEOXNzODhSRy1Hcjk5Tm1XY2JBIn0.LuxjsPXxK0WQ12juea32nWGdNwV_TXdoRHDJ1u9BYBo",
-    "redirect_url": "https://www.adzuna.at/land/ad/5692773233?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=96F2D351823B0167FA414FD59025AEE771097D5A",
-    "title": "Data Engineer",
-    "latitude": 48.208144,
-    "company": {
-      "display_name": "ISG Personalmanagement GmbH",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "description": "Data Engineer (m/w/d) Bei A1 entwickelst du gemeinsam mit einem erfahrenen Team moderne Analytics- und Datenintegrationslösungen - von der Konzeption über die Umsetzung bis zum stabilen Betrieb - und gestaltest die Weiterentwicklung unserer Datenplattform aktiv mit. Engineering | Datenintegration | Apache Spark & Airflow | Kubernetes | Python, SQL, Shell | ETL & CI/CD | Telekommunikation Stellenbeschreibung Data Engineer Deine Aufgaben Du verantwortest die Migration, Modernisierung und Weiteren…",
-    "longitude": 16.354031,
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
-    "_country": "at",
-    "_source": "adzuna_api"
-  },
-  {
+    "location": "Wien, Österreich",
     "category": {
       "label": "IT-Stellen",
       "__CLASS__": "Adzuna::API::Response::Category",
       "tag": "it-jobs"
     },
-    "id": "5698169563",
-    "created": "2026-04-13T16:12:23Z",
-    "salary_is_predicted": "0",
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "Österreich"
-      ],
-      "display_name": "Österreich"
-    },
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHJaRDlzczg4UkctR3I5OU5tV2NiQSIsImkiOiI1Njk4MTY5NTYzIn0.SFrycOnUCVMOyeuPtBk5p4DdTbA7aUB6aur1iXFtu7s",
+    "id": "5692773233",
+    "created": "2026-04-08T05:53:09Z",
+    "longitude": 16.354031,
+    "description": "Data Engineer (m/w/d) Bei A1 entwickelst du gemeinsam mit einem erfahrenen Team moderne Analytics- und Datenintegrationslösungen - von der Konzeption über die Umsetzung bis zum stabilen Betrieb - und gestaltest die Weiterentwicklung unserer Datenplattform aktiv mit. Engineering | Datenintegration | Apache Spark & Airflow | Kubernetes | Python, SQL, Shell | ETL & CI/CD | Telekommunikation Stellenbeschreibung Data Engineer Deine Aufgaben Du verantwortest die Migration, Modernisierung und Weiteren…",
+    "company": "ISG Personalmanagement GmbH",
+    "latitude": 48.208144,
+    "redirect_url": "https://www.adzuna.at/land/ad/5692773233?se=uNtfswA98RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=96F2D351823B0167FA414FD59025AEE771097D5A",
+    "title": "Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5Mjc3MzIzMyIsInMiOiJ1TnRmc3dBOThSRy1Hcjk5Tm1XY2JBIn0.eDgGZzh9Q__PW6kQqRpZnlyZpTw0X-5kGswjDWx_KmA",
     "__CLASS__": "Adzuna::API::Response::Job",
-    "redirect_url": "https://www.adzuna.at/land/ad/5698169563?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=ACE5F93C58012689F01A2840CF6E1ECF9C255171",
-    "title": "Lead Data Engineer (all genders)",
-    "company": {
-      "display_name": "adesso Austria GmbH",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "description": "adesso Austria gehört zu den Top-Technologie- und Beratungsunternehmen in Österreich mit Geschäftsstellen in Wien und Graz und ist Teil der adesso Gruppe. Gemeinsam und auf Augenhöhe mit unseren Kunden setzen wir agile Digitalisierungsprojekte um. Unseren Erfolg aber erreichen wir nur durch eins: die Menschen bei adesso! Wir legen in gleichem Maße großen Wert auf die persönliche Situation jedes adessi, auf die Zusammenarbeit in den Teams und auf unsere Identität als adesso Austria. Was uns verb…",
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
     "_country": "at",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Wien"
   },
   {
+    "salary_is_predicted": "0",
+    "location": "Österreich",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT-Stellen"
+    },
+    "id": "5698169563",
+    "created": "2026-04-13T16:12:23Z",
+    "description": "adesso Austria gehört zu den Top-Technologie- und Beratungsunternehmen in Österreich mit Geschäftsstellen in Wien und Graz und ist Teil der adesso Gruppe. Gemeinsam und auf Augenhöhe mit unseren Kunden setzen wir agile Digitalisierungsprojekte um. Unseren Erfolg aber erreichen wir nur durch eins: die Menschen bei adesso! Wir legen in gleichem Maße großen Wert auf die persönliche Situation jedes adessi, auf die Zusammenarbeit in den Teams und auf unsere Identität als adesso Austria. Was uns verb…",
+    "company": "adesso Austria GmbH",
+    "redirect_url": "https://www.adzuna.at/land/ad/5698169563?se=uNtfswA98RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=ACE5F93C58012689F01A2840CF6E1ECF9C255171",
+    "title": "Lead Data Engineer (all genders)",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidU50ZnN3QTk4UkctR3I5OU5tV2NiQSIsImkiOiI1Njk4MTY5NTYzIn0.hEm9obQ9MLUR4Ne3zWBYPkYkcgv4oTyRuyaDudqmq0s",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
+    "_country": "at",
+    "_source": "adzuna_api",
+    "city": "Österreich"
+  },
+  {
+    "latitude": 48.208144,
+    "company": "adesso Austria GmbH",
+    "longitude": 16.354031,
+    "description": "adesso Austria gehört zu den Top-Technologie- und Beratungsunternehmen in Österreich mit Geschäftsstellen in Wien und Graz und ist Teil der adesso Gruppe. Gemeinsam und auf Augenhöhe mit unseren Kunden setzen wir agile Digitalisierungsprojekte um. Unseren Erfolg aber erreichen wir nur durch eins: die Menschen bei adesso! Wir legen in gleichem Maße großen Wert auf die persönliche Situation jedes adessi, auf die Zusammenarbeit in den Teams und auf unsere Identität als adesso Austria. Was uns verb…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5ODE2OTU2NiIsInMiOiJ1TnRmc3dBOThSRy1Hcjk5Tm1XY2JBIn0.KxanKE-ig0xkdCovZ-eqjRMYSgXNGBOgue93DyoAMaQ",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Lead Data Engineer (all genders)",
+    "redirect_url": "https://www.adzuna.at/land/ad/5698169566?se=uNtfswA98RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=D4D88766F01A77CC6BB75AD8A35096C27738666B",
     "id": "5698169566",
     "created": "2026-04-13T16:12:23Z",
     "category": {
+      "label": "IT-Stellen",
       "tag": "it-jobs",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "label": "IT-Stellen"
+      "__CLASS__": "Adzuna::API::Response::Category"
     },
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "Österreich",
-        "Wien"
-      ],
-      "display_name": "Wien, Österreich"
-    },
+    "location": "Wien, Österreich",
     "salary_is_predicted": "0",
-    "company": {
-      "display_name": "adesso Austria GmbH",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "latitude": 48.208144,
-    "longitude": 16.354031,
-    "description": "adesso Austria gehört zu den Top-Technologie- und Beratungsunternehmen in Österreich mit Geschäftsstellen in Wien und Graz und ist Teil der adesso Gruppe. Gemeinsam und auf Augenhöhe mit unseren Kunden setzen wir agile Digitalisierungsprojekte um. Unseren Erfolg aber erreichen wir nur durch eins: die Menschen bei adesso! Wir legen in gleichem Maße großen Wert auf die persönliche Situation jedes adessi, auf die Zusammenarbeit in den Teams und auf unsere Identität als adesso Austria. Was uns verb…",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5ODE2OTU2NiIsInMiOiIwclpEOXNzODhSRy1Hcjk5Tm1XY2JBIn0.ifPrAM4hTIG9hfWSSWwgIuO7jfyWKmk5wEn28bAlFm8",
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "title": "Lead Data Engineer (all genders)",
-    "redirect_url": "https://www.adzuna.at/land/ad/5698169566?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=D4D88766F01A77CC6BB75AD8A35096C27738666B",
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
     "_country": "at",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Wien"
   },
   {
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "Österreich",
-        "Steiermark",
-        "Graz"
-      ],
-      "display_name": "Graz, Steiermark"
-    },
-    "salary_is_predicted": "0",
-    "created": "2026-04-13T16:12:23Z",
-    "id": "5698169565",
-    "category": {
-      "tag": "it-jobs",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "label": "IT-Stellen"
-    },
-    "title": "Lead Data Engineer (all genders)",
-    "redirect_url": "https://www.adzuna.at/land/ad/5698169565?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=519EC65BD8D24DB39921843722CCB728C44C4900",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5ODE2OTU2NSIsInMiOiIwclpEOXNzODhSRy1Hcjk5Tm1XY2JBIn0.1aEI_HJgijOyrqzAkEb3cuf-HIL6hkgoCjrqoYOjR_k",
     "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidU50ZnN3QTk4UkctR3I5OU5tV2NiQSIsImkiOiI1Njk4MTY5NTY1In0.hT1-cK_-rSTFV0R2b1TW4gwPB6grbRrlENzQz1h_pxg",
+    "redirect_url": "https://www.adzuna.at/land/ad/5698169565?se=uNtfswA98RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=519EC65BD8D24DB39921843722CCB728C44C4900",
+    "title": "Lead Data Engineer (all genders)",
+    "latitude": 47.070503,
+    "company": "adesso Austria GmbH",
     "description": "adesso Austria gehört zu den Top-Technologie- und Beratungsunternehmen in Österreich mit Geschäftsstellen in Wien und Graz und ist Teil der adesso Gruppe. Gemeinsam und auf Augenhöhe mit unseren Kunden setzen wir agile Digitalisierungsprojekte um. Unseren Erfolg aber erreichen wir nur durch eins: die Menschen bei adesso! Wir legen in gleichem Maße großen Wert auf die persönliche Situation jedes adessi, auf die Zusammenarbeit in den Teams und auf unsere Identität als adesso Austria. Was uns verb…",
     "longitude": 15.439358,
-    "company": {
-      "display_name": "adesso Austria GmbH",
-      "__CLASS__": "Adzuna::API::Response::Company"
+    "category": {
+      "label": "IT-Stellen",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
     },
-    "latitude": 47.070503,
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
+    "id": "5698169565",
+    "created": "2026-04-13T16:12:23Z",
+    "salary_is_predicted": "0",
+    "location": "Graz, Steiermark",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
     "_country": "at",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Graz"
   },
   {
-    "id": "5564607250",
-    "created": "2026-01-02T16:26:20Z",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "unknown",
+      "label": "Unknown"
+    },
+    "id": "5704539764",
+    "created": "2026-04-19T16:45:22Z",
+    "salary_is_predicted": "0",
+    "location": "Wien, Österreich",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwNDUzOTc2NCIsInMiOiJ1TnRmc3dBOThSRy1Hcjk5Tm1XY2JBIn0.KLISmQK_95plwtyKbBrsi4dNeZcVs-KRt3zBvow5w18",
+    "redirect_url": "https://www.adzuna.at/land/ad/5704539764?se=uNtfswA98RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=0EB326E10F710A14E498DA1AEFCBBB931F1748BB",
+    "title": "Data Engineer - AWS (f/m/d)",
+    "latitude": 48.208144,
+    "company": "Siemens Personaldienstleistungen GmbH",
+    "longitude": 16.354031,
+    "description": "At SIEMENS Personaldienstleisungen GmbH (SPDL), a subsidiary of Siemens AG Austria, an exciting work environment backed by over 25 years of experience awaits you. We offer challenging opportunities within the diverse Siemens Group and with our well-known clients across Austria. We believe in equal opportunities, cultural diversity, and shared success. For an exciting assignment with our customer, Siemens Smart Infrastructure, we are looking for a Data Engineer (f/m/d) who is passionate about de…",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
+    "_country": "at",
+    "_source": "adzuna_api",
+    "city": "Wien"
+  },
+  {
+    "salary_is_predicted": "0",
+    "location": "Wien, Österreich",
+    "category": {
+      "label": "Unknown",
+      "tag": "unknown",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "created": "2026-04-16T16:13:21Z",
+    "id": "5701497624",
+    "longitude": 16.354031,
+    "description": "We develop & operate entertainment software. As the technology arm of the ADMIRAL Group, we are passionate about creating an innovative product experience for our customers and becoming one of the leading technology providers in the sports betting sector, both nationally and internationally. Working at ADMIRAL Technologies means being part of an internationally successful group and still experiencing the flexibility and spirit of a start-up. Develop yourself and with us the software solutions o…",
+    "latitude": 48.208144,
+    "company": "ADMIRAL Technologies",
+    "redirect_url": "https://www.adzuna.at/land/ad/5701497624?se=uNtfswA98RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=1CEAEE87D557ABD7AABAA2D268CC41A5AC2C8A43",
+    "title": "Data Engineer - Focus Apache Flink (m/f/x)",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMTQ5NzYyNCIsInMiOiJ1TnRmc3dBOThSRy1Hcjk5Tm1XY2JBIn0.k9-Bg2DETRXNmQF1JQSrriHzBDGiGYjqwsDS1IkisfU",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
+    "_country": "at",
+    "_source": "adzuna_api",
+    "city": "Wien"
+  },
+  {
+    "latitude": 48.208144,
+    "company": "Finanzmarktaufsicht ",
+    "description": "Data Engineer (all genders) FMA. Kompetenz schafft Vertrauen. Wir können es nicht allen recht machen. Das wollen wir auch gar nicht. Unser Auftrag ist es, über den Finanzmarkt zu wachen und auf die Einhaltung des Gesetzes zu achten. Wenn Sie sich dieser Aufgabe gewachsen sehen und die nötige Objektivität und Integrität mitbringen, freuen wir uns darauf, Sie näher kennenzulernen. Was Sie erwartet * Aktive Mitgestaltung bei der Implementierung von Data-Engineering Lösungen mit Schwerpunkt Cloud-D…",
+    "longitude": 16.354031,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidU50ZnN3QTk4UkctR3I5OU5tV2NiQSIsImkiOiI1Njg4MzU4MjMxIn0.lUWKU9eEJAm56rgZHNYo5lGpCc4ti0X-erUvubchA0g",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.at/details/5688358231?utm_medium=api&utm_source=9fef4eac",
+    "title": "Data Engineer (all genders)",
     "category": {
       "label": "Unknown",
       "__CLASS__": "Adzuna::API::Response::Category",
       "tag": "unknown"
     },
-    "location": {
-      "display_name": "Elsbethen, Salzburg-Umgebung",
-      "area": [
-        "Österreich",
-        "Salzburg",
-        "Salzburg-Umgebung",
-        "Elsbethen"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
-    "salary_is_predicted": "0",
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU2NDYwNzI1MCIsInMiOiIwclpEOXNzODhSRy1Hcjk5Tm1XY2JBIn0.JL-U1S3H7m5Uiz8ueI0L5q_fcCmKkwBdnFzc7rc4skg",
-    "title": "Senior Data Engineer",
-    "redirect_url": "https://www.adzuna.at/land/ad/5564607250?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=4DC9EB7572040486D9DCE7B717CEA8CC67C4D580",
-    "company": {
-      "display_name": "Red Bull",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "latitude": 47.761106,
-    "description": "Vollzeit Senior Data Engineer Elsbethen, Österreich Apply now At the heart of Red Bull's global sports universe is the Sports Data Platform (SDP), the technical foundation that turns data into a competitive advantage. We are seeking a Senior Data Engineer to play a central role in building and shaping this platform. This is a unique opportunity to own and evolve a critical data system that serves Red Bull's sports and athletes worldwide. As the lead technical expert for the platform, your role …",
-    "longitude": 13.083054,
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
-    "_country": "at",
-    "_source": "adzuna_api"
-  },
-  {
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwNDUzOTc2NCIsInMiOiIwclpEOXNzODhSRy1Hcjk5Tm1XY2JBIn0.pIF-TjVtkcqUzhk2306jozHvjQporgHNQiStHaz-iTw",
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "redirect_url": "https://www.adzuna.at/land/ad/5704539764?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=0EB326E10F710A14E498DA1AEFCBBB931F1748BB",
-    "title": "Data Engineer - AWS (f/m/d)",
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "Siemens Personaldienstleistungen GmbH"
-    },
-    "latitude": 48.208144,
-    "longitude": 16.354031,
-    "description": "At SIEMENS Personaldienstleisungen GmbH (SPDL), a subsidiary of Siemens AG Austria, an exciting work environment backed by over 25 years of experience awaits you. We offer challenging opportunities within the diverse Siemens Group and with our well-known clients across Austria. We believe in equal opportunities, cultural diversity, and shared success. For an exciting assignment with our customer, Siemens Smart Infrastructure, we are looking for a Data Engineer (f/m/d) who is passionate about de…",
-    "category": {
-      "label": "Unknown",
-      "tag": "unknown",
-      "__CLASS__": "Adzuna::API::Response::Category"
-    },
-    "created": "2026-04-19T16:45:22Z",
-    "id": "5704539764",
-    "salary_is_predicted": "0",
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "display_name": "Wien, Österreich",
-      "area": [
-        "Österreich",
-        "Wien"
-      ]
-    },
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
-    "_country": "at",
-    "_source": "adzuna_api"
-  },
-  {
-    "title": "Data Engineer (gn*)",
-    "redirect_url": "https://www.adzuna.at/land/ad/5678012062?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=FF8385542956EC72A6CD16C638AC3263D581CE96",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY3ODAxMjA2MiIsInMiOiIwclpEOXNzODhSRy1Hcjk5Tm1XY2JBIn0.LLDOyJ_ggy-raBIydo7hTSonKSZp7awMulrIOiQheHw",
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "description": "4.000 People. 35 Countries. LivingTheFuture. TÜV AUSTRIA - Das unabhängige, österreichische Unternehmen für Testing, Inspection und Certification, Training & Consulting. Wir liefern unseren Kunden den entscheidenden Mehrwert für nachhaltige und flexible Lösungen durch technische Sicherheit - in Österreich und in mehr als 35 Ländern der Welt. Wenn auch Sie die Welt ein Stück sicherer machen wollen, bewerben Sie sich als Data Engineer (gn*) (Jn. 265359) Bringen Sie KI-Innovationen von der Idee in…",
-    "company": {
-      "display_name": "TÜV AUSTRIA",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "location": {
-      "area": [
-        "Österreich"
-      ],
-      "display_name": "Österreich",
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
-    "salary_is_predicted": "0",
-    "id": "5678012062",
-    "created": "2026-03-25T12:34:00Z",
-    "category": {
-      "label": "Unknown",
-      "tag": "unknown",
-      "__CLASS__": "Adzuna::API::Response::Category"
-    },
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
-    "_country": "at",
-    "_source": "adzuna_api"
-  },
-  {
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHJaRDlzczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NjQ4MTg3NDUwIn0.2HsXhp7HBJ2EgmohTELeHvGEWmCne38gA_x4JYQXQGA",
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "title": "Data Engineer (Data Quality & Operations)",
-    "redirect_url": "https://www.adzuna.at/land/ad/5648187450?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=9EE6812A545E6741807A1E7A7BD425128A12276A",
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "Institut AllergoSan Pharma GmbH"
-    },
-    "latitude": 47.070503,
-    "longitude": 15.439358,
-    "description": "Data Engineer (Data Quality & Operations) m/w/d Vollzeit Graz Schwerpunkte * Verantwortung für die operative Datenbereinigung sowie die Sicherstellung der Datenqualität im Rahmen von Datenprojekten * Konzeption und Aufbau einer belastbaren, skalierbaren Datenstruktur als Grundlage für zukünftige Automatisierungen und datengetriebene Auswertungen * Fundierte Erfahrung im Umgang mit komplexen Datensätzen sowie in der Gestaltung und Optimierung von Datenverarbeitungsprozessen * Ganzheitliche End-t…",
-    "created": "2026-02-28T04:30:33Z",
-    "id": "5648187450",
-    "category": {
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "tag": "unknown",
-      "label": "Unknown"
-    },
-    "location": {
-      "display_name": "Graz, Steiermark",
-      "area": [
-        "Österreich",
-        "Steiermark",
-        "Graz"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
-    "salary_is_predicted": "0",
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
-    "_country": "at",
-    "_source": "adzuna_api"
-  },
-  {
-    "longitude": 16.354031,
-    "description": "We develop & operate entertainment software. As the technology arm of the ADMIRAL Group, we are passionate about creating an innovative product experience for our customers and becoming one of the leading technology providers in the sports betting sector, both nationally and internationally. Working at ADMIRAL Technologies means being part of an internationally successful group and still experiencing the flexibility and spirit of a start-up. Develop yourself and with us the software solutions o…",
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "ADMIRAL Technologies"
-    },
-    "latitude": 48.208144,
-    "title": "Data Engineer - Focus Apache Flink (m/f/x)",
-    "redirect_url": "https://www.adzuna.at/land/ad/5701497624?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=1CEAEE87D557ABD7AABAA2D268CC41A5AC2C8A43",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMTQ5NzYyNCIsInMiOiIwclpEOXNzODhSRy1Hcjk5Tm1XY2JBIn0.xalL1fnKN6taDD7rlG8VUUBVRaJL2DFedm6mxEClvbs",
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "location": {
-      "display_name": "Wien, Österreich",
-      "area": [
-        "Österreich",
-        "Wien"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
-    "salary_is_predicted": "0",
-    "id": "5701497624",
-    "created": "2026-04-16T16:13:21Z",
-    "category": {
-      "label": "Unknown",
-      "tag": "unknown",
-      "__CLASS__": "Adzuna::API::Response::Category"
-    },
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
-    "_country": "at",
-    "_source": "adzuna_api"
-  },
-  {
     "id": "5688358231",
     "created": "2026-04-03T08:31:08Z",
-    "category": {
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "tag": "unknown",
-      "label": "Unknown"
-    },
-    "location": {
-      "area": [
-        "Österreich",
-        "Wien"
-      ],
-      "display_name": "Wien, Österreich",
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
     "salary_is_predicted": "0",
-    "latitude": 48.208144,
-    "company": {
-      "display_name": "Finanzmarktaufsicht ",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "longitude": 16.354031,
-    "description": "Data Engineer (all genders) FMA. Kompetenz schafft Vertrauen. Wir können es nicht allen recht machen. Das wollen wir auch gar nicht. Unser Auftrag ist es, über den Finanzmarkt zu wachen und auf die Einhaltung des Gesetzes zu achten. Wenn Sie sich dieser Aufgabe gewachsen sehen und die nötige Objektivität und Integrität mitbringen, freuen wir uns darauf, Sie näher kennenzulernen. Was Sie erwartet * Aktive Mitgestaltung bei der Implementierung von Data-Engineering Lösungen mit Schwerpunkt Cloud-D…",
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY4ODM1ODIzMSIsInMiOiIwclpEOXNzODhSRy1Hcjk5Tm1XY2JBIn0.2F1p3zsmJNssrrkwZizfc1pSlQ5yuPaRuV-7h9wee0o",
-    "title": "Data Engineer (all genders)",
-    "redirect_url": "https://www.adzuna.at/land/ad/5688358231?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=504435C7B41A7B00E7A89CC0A6F079D6B093466D",
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
+    "location": "Wien, Österreich",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
     "_country": "at",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Wien"
   },
   {
     "salary_is_predicted": "0",
-    "location": {
-      "area": [
-        "Österreich",
-        "Wien"
-      ],
-      "display_name": "Wien, Österreich",
-      "__CLASS__": "Adzuna::API::Response::Location"
+    "location": "Stegersbach, Güssing",
+    "category": {
+      "label": "Unknown",
+      "tag": "unknown",
+      "__CLASS__": "Adzuna::API::Response::Category"
     },
+    "created": "2026-02-20T15:59:33Z",
+    "id": "5637939961",
+    "redirect_url": "https://www.adzuna.at/details/5637939961?utm_medium=api&utm_source=9fef4eac",
+    "title": "Energy Data Engineer (w/m/d)",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYzNzkzOTk2MSIsInMiOiJ1TnRmc3dBOThSRy1Hcjk5Tm1XY2JBIn0.2lHPJxkYEKly4s3gWa6ru1f5yLH_wdTrVHA_ZbaNqXU",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": 16.164333,
+    "description": "Energy Data Engineer (w/m/d) Stegersbach, Anstellungsart: Vollzeit Die Enlion Service GmbH ist ein führendes Unternehmen in der Entwicklung nachhaltiger Energielösungen. Mit ihrem Fokus auf Innovation und Technologie gestalten wir zukunftsweisende Energiedienstleistungen, die zur Energiewende und Klimaneutralität beitragen. Im Rahmen unseres Energie-Ökosystems schaffen wir digitale Plattformen, die Benutzerfreundlichkeit, Interoperabilität und zukunftsorientiertes Energiemanagement vereinen. Zu…",
+    "company": "Raiffeisen Niederösterreich-Wien",
+    "latitude": 47.159959,
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
+    "_country": "at",
+    "_source": "adzuna_api",
+    "city": "Stegersbach"
+  },
+  {
+    "redirect_url": "https://www.adzuna.at/details/5663507791?utm_medium=api&utm_source=9fef4eac",
+    "title": "(Senior) Data Engineer (w/m/d)",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidU50ZnN3QTk4UkctR3I5OU5tV2NiQSIsImkiOiI1NjYzNTA3NzkxIn0.UA_-yVFVyjMyxDRCJFlmt-23ED5DRJBEDKwzJKar0Cw",
+    "longitude": 16.354031,
+    "description": "Wir suchen: (Senior) Data Engineer (w/m/d) Tieto Tech Consulting ist ein globaler Marktführer in den Bereichen AI, Daten, Design und Softwaredienstleistungen. Durch die Kombination lokaler Expertise mit der Kraft von 8.000 globalen Teammitgliedern entwickeln wir maßgeschneiderte digitale Lösungen, die perfekt auf die Geschäftsziele unserer Kunden abgestimmt sind und ihren Mehrwert steigern. Gemeinsam gestalten wir die digitale Welt von morgen. Tieto in Österreich Mit einem Team von rund 280 hoc…",
+    "latitude": 48.208144,
+    "company": "Tieto Austria",
+    "salary_is_predicted": "0",
+    "location": "Wien, Österreich",
     "category": {
       "label": "Unknown",
       "__CLASS__": "Adzuna::API::Response::Category",
@@ -334,619 +199,404 @@
     },
     "created": "2026-03-13T14:29:39Z",
     "id": "5663507791",
-    "redirect_url": "https://www.adzuna.at/land/ad/5663507791?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=B6BF8B5DACE74831628ADF0A28507E5EC984CEE0",
-    "title": "(Senior) Data Engineer (w/m/d)",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY2MzUwNzc5MSIsInMiOiIwclpEOXNzODhSRy1Hcjk5Tm1XY2JBIn0.EFmHqj5-dUFg4g5aXVJVWsUtFJI98SPg8iIKgI-RcvU",
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "description": "Wir suchen: (Senior) Data Engineer (w/m/d) Tieto Tech Consulting ist ein globaler Marktführer in den Bereichen AI, Daten, Design und Softwaredienstleistungen. Durch die Kombination lokaler Expertise mit der Kraft von 8.000 globalen Teammitgliedern entwickeln wir maßgeschneiderte digitale Lösungen, die perfekt auf die Geschäftsziele unserer Kunden abgestimmt sind und ihren Mehrwert steigern. Gemeinsam gestalten wir die digitale Welt von morgen. Tieto in Österreich Mit einem Team von rund 280 hoc…",
-    "longitude": 16.354031,
-    "latitude": 48.208144,
-    "company": {
-      "display_name": "Tieto Austria",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
     "_country": "at",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Wien"
   },
   {
+    "location": "Bergheim, Salzburg-Umgebung",
+    "salary_is_predicted": "0",
+    "created": "2026-04-12T07:31:23Z",
+    "id": "5697289460",
     "category": {
-      "tag": "unknown",
       "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "unknown",
       "label": "Unknown"
     },
-    "id": "5697289460",
-    "created": "2026-04-12T07:31:23Z",
-    "salary_is_predicted": "0",
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "display_name": "Bergheim, Salzburg-Umgebung",
-      "area": [
-        "Österreich",
-        "Salzburg",
-        "Salzburg-Umgebung",
-        "Bergheim"
-      ]
-    },
-    "company": {
-      "display_name": "PALFINGER",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "latitude": 47.8436,
-    "description": "At PALFINGER, we have been lifting goods to a new level for over 90 years - with a pioneering and passionate spirit. As a global technology and engineering company, we are the world's leading manufacturer and supplier of innovative crane and lifting solutions. Our success is based on the tireless efforts of our approximately 12,350 employees, who contribute their ideas and energy to our vision. With us, you can expect a dynamic working environment full of opportunities for personal and professi…",
-    "longitude": 13.02863,
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHJaRDlzczg4UkctR3I5OU5tV2NiQSIsImkiOiI1Njk3Mjg5NDYwIn0._uG-ty_fGb3c4821_s4whn7Y4qbK8tWMJi7krlDUbc8",
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "redirect_url": "https://www.adzuna.at/land/ad/5697289460?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=EB60E7469227C58C20C9C2AC92124D4BBBE20C7B",
     "title": "Data Engineer (f/m/d)",
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
+    "redirect_url": "https://www.adzuna.at/details/5697289460?utm_medium=api&utm_source=9fef4eac",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5NzI4OTQ2MCIsInMiOiJ1TnRmc3dBOThSRy1Hcjk5Tm1XY2JBIn0.NRPPCAiZ5cN7RS3kTLDcitO79ZcBm9OvKMklB_pUy-c",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": 13.02863,
+    "description": "At PALFINGER, we have been lifting goods to a new level for over 90 years - with a pioneering and passionate spirit. As a global technology and engineering company, we are the world's leading manufacturer and supplier of innovative crane and lifting solutions. Our success is based on the tireless efforts of our approximately 12,350 employees, who contribute their ideas and energy to our vision. With us, you can expect a dynamic working environment full of opportunities for personal and professi…",
+    "latitude": 47.8436,
+    "company": "PALFINGER",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
     "_country": "at",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Bergheim"
   },
   {
-    "location": {
-      "display_name": "Wien, Österreich",
-      "area": [
-        "Österreich",
-        "Wien"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
-    "salary_is_predicted": "0",
-    "created": "2026-03-06T20:00:45Z",
-    "id": "5656488646",
+    "company": "KNAPP",
+    "latitude": 47.072427,
+    "longitude": 15.515751,
+    "description": "Data Engineer (m/w/d) Hart bei Graz yourmisson * Du spielst eine entscheidende Rolle bei der Umsetzung unserer KILösungen, indem du sicherstellst, dass hochwertige und verlässliche Daten nahtlos durch unser gesamtes Ökosystem fließen. * Du modellierst Daten professionell und stellst eine hohe Data Quality über den gesamten Datenlebenszyklus sicher. * Du bereitest Daten für moderne KIAnwendungen auf - inklusive RAGDatenaufbereitung (Chunking, Indexing) und Feature-Engineering. * Du recherchierst…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidU50ZnN3QTk4UkctR3I5OU5tV2NiQSIsImkiOiI1NjkzMTk5MzQ3In0.gMs67giv2jGu_8Z7RQuMMdF0MYylOsthPS0e-iLVGmw",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.at/details/5693199347?utm_medium=api&utm_source=9fef4eac",
+    "title": "Data Engineer (m/w/d)",
     "category": {
       "label": "Unknown",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "tag": "unknown"
+      "tag": "unknown",
+      "__CLASS__": "Adzuna::API::Response::Category"
     },
-    "title": "Data Engineer (m/w/x)",
-    "redirect_url": "https://www.adzuna.at/land/ad/5656488646?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=866486E9DDB0989E87CA6C8274AFF851043A842A",
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHJaRDlzczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NjU2NDg4NjQ2In0.6Gm-nozMkBHd4LgS1cQaxyqGHVQCqH_o4yYZF7SPyaw",
-    "longitude": 16.354031,
-    "description": "Die Styria Digital Services treibt die digitale Transformation der Styria Media Group AG voran - und Daten spielen dabei eine Schlüsselrolle. Du möchtest als Data Engineer (m/w/x) moderne Datenpipelines entwickeln, Plattformen optimieren und die technische Grundlage für die Medienwelt von morgen schaffen? Dann komm zu uns ins Team. Data Engineer (m/w/x) Wien, Vollzeit (38,5 Stunden/Gleitzeit) Was diesen Job ausmacht Du entwirfst, optimierst und wartest Datenpipelines, die BI-Berichte und intern…",
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "Styria Digital Services GmbH"
-    },
-    "latitude": 48.208144,
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
-    "_country": "at",
-    "_source": "adzuna_api"
-  },
-  {
-    "title": "Data Engineer (m/w/d)",
-    "redirect_url": "https://www.adzuna.at/land/ad/5693199347?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=4DDD08D4F9177AA1FF7249C3D68CE7270B775451",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5MzE5OTM0NyIsInMiOiIwclpEOXNzODhSRy1Hcjk5Tm1XY2JBIn0.-kGOrkeOG4wGbaM7RA_WLvZ1NquwQFINTH0tik4gECk",
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "description": "Data Engineer (m/w/d) Hart bei Graz yourmisson * Du spielst eine entscheidende Rolle bei der Umsetzung unserer KILösungen, indem du sicherstellst, dass hochwertige und verlässliche Daten nahtlos durch unser gesamtes Ökosystem fließen. * Du modellierst Daten professionell und stellst eine hohe Data Quality über den gesamten Datenlebenszyklus sicher. * Du bereitest Daten für moderne KIAnwendungen auf - inklusive RAGDatenaufbereitung (Chunking, Indexing) und Feature-Engineering. * Du recherchierst…",
-    "longitude": 15.515751,
-    "latitude": 47.072427,
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "KNAPP"
-    },
-    "location": {
-      "area": [
-        "Österreich",
-        "Steiermark",
-        "Graz-Umgebung",
-        "Hart bei Graz"
-      ],
-      "display_name": "Hart bei Graz, Graz-Umgebung",
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
-    "salary_is_predicted": "0",
     "created": "2026-04-08T15:13:57Z",
     "id": "5693199347",
+    "salary_is_predicted": "0",
+    "location": "Hart bei Graz, Graz-Umgebung",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
+    "_country": "at",
+    "_source": "adzuna_api",
+    "city": "Hart bei Graz"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidU50ZnN3QTk4UkctR3I5OU5tV2NiQSIsImkiOiI1Njc5MzQ4MzkzIn0.Xjxh3o3Ji2KXWjHCSGtRCfbpgEEDzQ-p5T_jLj6zdXQ",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.at/details/5679348393?utm_medium=api&utm_source=9fef4eac",
+    "title": "Data Engineer (m/w/d)*",
+    "company": "TGW Logistics",
+    "latitude": 48.166893,
+    "longitude": 14.016819,
+    "description": "Data Engineer (M/W/D)* Bei TGW entwickeln wir Intralogistiklösungen, die weltweit Maßstäbe setzen. Doch echte Innovation entsteht erst, wenn Daten intelligent genutzt werden. Genau hier kommst du ins Spiel: Werde Teil unseres Data-Engineering-Teams und baue die zentrale Datenplattform, die das digitale Rückgrat unserer Automatisierungs- und Logistiksysteme bildet. Gemeinsam verwandeln wir Maschinendaten, Sensorstreams und komplexe Systeminformationen in wertvolle Datenprodukte - und schaffen da…",
     "category": {
       "label": "Unknown",
       "tag": "unknown",
       "__CLASS__": "Adzuna::API::Response::Category"
     },
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
-    "_country": "at",
-    "_source": "adzuna_api"
-  },
-  {
-    "category": {
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "tag": "unknown",
-      "label": "Unknown"
-    },
-    "id": "5679348393",
     "created": "2026-03-26T18:34:24Z",
+    "id": "5679348393",
     "salary_is_predicted": "0",
-    "location": {
-      "area": [
-        "Österreich",
-        "Oberösterreich",
-        "Wels"
-      ],
-      "display_name": "Wels, Oberösterreich",
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHJaRDlzczg4UkctR3I5OU5tV2NiQSIsImkiOiI1Njc5MzQ4MzkzIn0.cfoCZ7IYDHn8fAfmd-SI9VO46CZOfNMjGXNklVhnxtQ",
-    "redirect_url": "https://www.adzuna.at/land/ad/5679348393?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=949F863336CCCFC61EE43BDAEE8ED11FD63AF456",
-    "title": "Data Engineer (m/w/d)*",
-    "company": {
-      "display_name": "TGW Logistics",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "latitude": 48.166893,
-    "description": "Data Engineer (M/W/D)* Bei TGW entwickeln wir Intralogistiklösungen, die weltweit Maßstäbe setzen. Doch echte Innovation entsteht erst, wenn Daten intelligent genutzt werden. Genau hier kommst du ins Spiel: Werde Teil unseres Data-Engineering-Teams und baue die zentrale Datenplattform, die das digitale Rückgrat unserer Automatisierungs- und Logistiksysteme bildet. Gemeinsam verwandeln wir Maschinendaten, Sensorstreams und komplexe Systeminformationen in wertvolle Datenprodukte - und schaffen da…",
-    "longitude": 14.016819,
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
+    "location": "Wels, Oberösterreich",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
     "_country": "at",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Wels"
   },
   {
-    "created": "2026-03-02T04:42:04Z",
-    "id": "5650822875",
-    "category": {
-      "tag": "unknown",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "label": "Unknown"
-    },
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "Österreich",
-        "Wien"
-      ],
-      "display_name": "Wien, Österreich"
-    },
-    "salary_is_predicted": "0",
-    "latitude": 48.208144,
-    "company": {
-      "display_name": "WienIT GmbH",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "description": "Data Engineer (w/m/d) Vollzeit, unbefristet Jetzt bewerben WienIT ist der digitale Backbone der Wiener Stadtwerke-Gruppe. Ob IT-Pionierarbeit, Personalprozesse oder Print-Jobs: Wir digitalisieren die, die Wien zur l(i)ebenswertesten Stadt der Welt machen. Mit smarten Services halten wir die Dinge im Hintergrund am Laufen - und sind lowkey da für Wien, lowkey da für dich. Das erwartet dich * Integration und Transformation von Energiedaten aus diversen Quellen sowie Sicherstellung von Datenqualit…",
-    "longitude": 16.354031,
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY1MDgyMjg3NSIsInMiOiIwclpEOXNzODhSRy1Hcjk5Tm1XY2JBIn0._EqriwKzEBqr3YVcJmaojQyy8l08dA89dXjxdtDxCXk",
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "title": "Data Engineer (w/m/d)",
-    "redirect_url": "https://www.adzuna.at/land/ad/5650822875?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=6F41376A938116C41B2F4BE895B7F333B4DFFABE",
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
-    "_country": "at",
-    "_source": "adzuna_api"
-  },
-  {
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY1MzQ4NTE5NiIsInMiOiIwclpEOXNzODhSRy1Hcjk5Tm1XY2JBIn0.8SAJPPHGv9A48GlyIwtBzYXJyvTK2G6J1UK0hOulruU",
-    "title": "Data Engineer (w/m/d)",
-    "redirect_url": "https://www.adzuna.at/land/ad/5653485196?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=DD5B55F1413FBF0DD7BCB001BD92A28AEFECC3EB",
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "KERN engineering careers GmbH"
-    },
-    "latitude": 48.208144,
-    "description": "Data Engineer (w/m/d) Turning Data Into Value 30.03.2026 Job-Nr.: 216314 Jetzt Bewerben Du jonglierst gerne mit Daten, statt mit Buzzwords? In einem international aufgestellten IT-Consulting-Umfeld baust du skalierbare Datenplattformen, bringst Ordnung ins Datenchaos und verwandelst Rohdaten in echten Business-Mehrwert Kleiner Spoiler: Viele Firmen nehmen DICH mit Handkuss. Wien Data Science, BI & DWH Aufgabengebiet * Du entwirfst und entwickelst skalierbare Datenplattformen, damit Entscheidung…",
-    "longitude": 16.354031,
-    "created": "2026-03-04T10:51:15Z",
-    "id": "5653485196",
+    "created": "2026-04-11T07:28:55Z",
+    "id": "5696401421",
     "category": {
       "label": "Unknown",
       "__CLASS__": "Adzuna::API::Response::Category",
       "tag": "unknown"
     },
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "display_name": "Wien, Österreich",
-      "area": [
-        "Österreich",
-        "Wien"
-      ]
-    },
+    "location": "Wien, Österreich",
     "salary_is_predicted": "0",
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
-    "_country": "at",
-    "_source": "adzuna_api"
-  },
-  {
+    "company": "Vienna Insurance Group AG Wiener Versicherung Gruppe",
     "latitude": 48.208144,
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "Vienna Insurance Group AG Wiener Versicherung Gruppe"
-    },
     "longitude": 16.354031,
     "description": "WORKING IN THE MIDDLE OF VIENNA: EXCHANGING ACROSS EUROPE BI Data Engineer (all genders) - Data & Analytics * Vienna * full-time * hybrid * all genders * asap * experienced * Data & Analytics Your Tasks * Collaborate with cross-functional data teams to deliver reliable, maintainable reporting solutions and curated data products * Design build and maintain Power BI semantic models including KPIs, measures, hierarchies, and access concepts * Build performant Power BI reports and dashboards and en…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidU50ZnN3QTk4UkctR3I5OU5tV2NiQSIsImkiOiI1Njk2NDAxNDIxIn0.rEBhiK6Unp_3I3Z4NKx3IjR6no218mMa7mMwMBtInBE",
     "__CLASS__": "Adzuna::API::Response::Job",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHJaRDlzczg4UkctR3I5OU5tV2NiQSIsImkiOiI1Njk2NDAxNDIxIn0.8WNqByFQmUXERyspulWQRowunJJ5uQFKgRKCQilXW20",
-    "redirect_url": "https://www.adzuna.at/land/ad/5696401421?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=7252627D7C6BEA49AFF9BE563A453C02D6F23362",
     "title": "BI Data Engineer (all genders) - Data & Analytics",
+    "redirect_url": "https://www.adzuna.at/details/5696401421?utm_medium=api&utm_source=9fef4eac",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
+    "_country": "at",
+    "_source": "adzuna_api",
+    "city": "Wien"
+  },
+  {
     "category": {
       "tag": "unknown",
       "__CLASS__": "Adzuna::API::Response::Category",
       "label": "Unknown"
     },
-    "id": "5696401421",
-    "created": "2026-04-11T07:28:55Z",
+    "created": "2026-04-20T16:42:19Z",
+    "id": "5705280420",
     "salary_is_predicted": "0",
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "display_name": "Wien, Österreich",
-      "area": [
-        "Österreich",
-        "Wien"
-      ]
-    },
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
+    "location": "Wien, Österreich",
+    "latitude": 48.208144,
+    "company": "Siemens Personaldienstleistungen GmbH",
+    "description": "Data Engineer - AWS (f/m/d) 1010 Wien - Job-ID: dngch7yz, AWScloudengineeringSMLOps At SIEMENS Personaldienstleisungen GmbH (SPDL), a subsidiary of Siemens AG Austria, an exciting work environment backed by over 25 years of experience awaits you. We offer challenging opportunities within the diverse Siemens Group and with our well-known clients across Austria. We believe in equal opportunities, cultural diversity, and shared success. For an exciting assignment with our customer, Siemens Smart I…",
+    "longitude": 16.354031,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidU50ZnN3QTk4UkctR3I5OU5tV2NiQSIsImkiOiI1NzA1MjgwNDIwIn0.srZgNRpBJMSzukMm2RADqWTgBHt1zRgcWchnxiLMsyE",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.at/details/5705280420?utm_medium=api&utm_source=9fef4eac",
+    "title": "Data Engineer - AWS (f/m/d)",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
     "_country": "at",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Wien"
   },
   {
-    "latitude": 47.817335,
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "EBG MedAustron GmbH"
+    "category": {
+      "label": "Unknown",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "unknown"
     },
+    "created": "2026-03-06T20:00:32Z",
+    "id": "5656488543",
+    "salary_is_predicted": "0",
+    "location": "Wiener Neustadt, Niederösterreich",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidU50ZnN3QTk4UkctR3I5OU5tV2NiQSIsImkiOiI1NjU2NDg4NTQzIn0.POdSpdMso-PhzbP2oNs1SdS7RoBMAkpPpjIUIkj1WFM",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.at/details/5656488543?utm_medium=api&utm_source=9fef4eac",
+    "title": "Senior Data Engineer (w/m/x)",
+    "latitude": 47.817335,
+    "company": "EBG MedAustron GmbH",
     "longitude": 16.240693,
     "description": "Wer wir sind: EBG MedAustron ist ein österreichweit einzigartiges Krebsbehandlungs- und Forschungszentrum in Wiener Neustadt. Eine innovative Form der Strahlentherapie, die Ionentherapie, kommt bei MedAustron im Kampf gegen den Krebs zum Einsatz. Wir bieten ein einmaliges Arbeitsumfeld, aufgebaut um jenen Teilchenbeschleuniger, welcher für die Therapie und Forschung mit Protonen und Kohlenstoffionen eingesetzt wird. Wir haben uns das Ziel gesetzt, das Leben von Krebspatient*innen zu verlängern …",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY1NjQ4ODU0MyIsInMiOiIwclpEOXNzODhSRy1Hcjk5Tm1XY2JBIn0.Ojm2q1RtlVhEjdLgOOxq2LUfcJ_dL8gwRnxs_FKViL4",
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "title": "Senior Data Engineer (w/m/x)",
-    "redirect_url": "https://www.adzuna.at/land/ad/5656488543?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=C8C83446492534B86CB307DFCCDC79BB95EB339A",
-    "id": "5656488543",
-    "created": "2026-03-06T20:00:32Z",
-    "category": {
-      "label": "Unknown",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "tag": "unknown"
-    },
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "Österreich",
-        "Niederösterreich",
-        "Wiener Neustadt"
-      ],
-      "display_name": "Wiener Neustadt, Niederösterreich"
-    },
-    "salary_is_predicted": "0",
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
     "_country": "at",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Wiener Neustadt"
   },
   {
-    "category": {
-      "tag": "unknown",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "label": "Unknown"
-    },
-    "id": "5674010108",
-    "created": "2026-03-21T09:45:37Z",
-    "salary_is_predicted": "0",
-    "location": {
-      "display_name": "Graz-Umgebung, Steiermark",
-      "area": [
-        "Österreich",
-        "Steiermark",
-        "Graz-Umgebung"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHJaRDlzczg4UkctR3I5OU5tV2NiQSIsImkiOiI1Njc0MDEwMTA4In0.yJIq1AePJn5TMmRHqo31-V_uPP1H3vL6lsFq1FPxLxg",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidU50ZnN3QTk4UkctR3I5OU5tV2NiQSIsImkiOiI1Njc0MDEwMTA4In0.5YzTH-RncdUTJfoJYsbtU0jWYib9ioBTJcpCoHf2D8A",
     "__CLASS__": "Adzuna::API::Response::Job",
-    "redirect_url": "https://www.adzuna.at/land/ad/5674010108?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=41488E94FE66975A395D2DED65C6D47B02516E00",
     "title": "(Junior) Data Engineer (w/m/d)",
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "KERN engineering careers GmbH"
-    },
+    "redirect_url": "https://www.adzuna.at/details/5674010108?utm_medium=api&utm_source=9fef4eac",
     "latitude": 47.076332,
+    "company": "KERN engineering careers GmbH",
     "description": "(Junior) Data Engineer (w/m/d) Data Pipelines bauen, Systeme optimieren & echten Mehrwert aus Daten schaffen 31.03.2026 Job-Nr.: 216378 Jetzt Bewerben In dieser Rolle arbeitest du Seite an Seite mit dem Teamleiter und bist verantwortlich für die Optimierung von Data Pipelines für ein internationales IoT-Unternehmen. Mit modernen Cloud-Technologien gestaltest du die Datenarchitektur von morgen und stellst sicher, dass Sensordaten zuverlässig gesammelt, transformiert und für Analysen sowie operat…",
     "longitude": 15.432347,
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
-    "_country": "at",
-    "_source": "adzuna_api"
-  },
-  {
-    "id": "5579244997",
-    "created": "2026-01-11T10:52:47Z",
+    "created": "2026-03-21T09:45:37Z",
+    "id": "5674010108",
     "category": {
-      "label": "Unknown",
+      "tag": "unknown",
       "__CLASS__": "Adzuna::API::Response::Category",
-      "tag": "unknown"
+      "label": "Unknown"
     },
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "display_name": "Wien, Österreich",
-      "area": [
-        "Österreich",
-        "Wien"
-      ]
-    },
+    "location": "Graz-Umgebung, Steiermark",
     "salary_is_predicted": "0",
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHJaRDlzczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NTc5MjQ0OTk3In0.zfRYddT1kuBJDAdEwg6XFTzDFrOo2k3grRihcBFzUFM",
-    "title": "Data & Analytics - Data Engineer (all genders)",
-    "redirect_url": "https://www.adzuna.at/land/ad/5579244997?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=118746FC2C4B9F020FC91649F4CB82607ACE5BA3",
-    "latitude": 48.208144,
-    "company": {
-      "display_name": "Vienna Insurance Group AG Wiener Versicherung Gruppe",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "description": "WORKING IN THE MIDDLE OF VIENNA: EXCHANGING ACROSS EUROPE Data & Analytics - Data Engineer (all genders) * Vienna * full-time * hybrid * all genders * asap * experienced * Data & Analytics Your Tasks * Collaborate with data scientists, analysts, and product owners to build reliable, maintainable pipelines and products * Design, build, and operate Databricks pipelines using Python, Lakeflow Declarative Pipelines, and Jobs/Workflows * Use Azure Data Factory for ingestion/orchestration; integrate …",
-    "longitude": 16.354031,
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
     "_country": "at",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Graz-Umgebung"
   },
   {
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY2ODc2OTMyMSIsInMiOiIwclpEOXNzODhSRy1Hcjk5Tm1XY2JBIn0.qgcc3uDlK-h_0rr_WCDlPwqk2ZgG-Lqb2Dxab4Ir9NI",
-    "redirect_url": "https://www.adzuna.at/land/ad/5668769321?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=8F01A49E4898BDB97E4C4CF484044D772EB37F20",
-    "title": "Senior Data Engineer & Infrastructure Coordinator (m/w/d)",
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "Österreichischer Sparkassenverband"
-    },
-    "latitude": 48.208144,
-    "description": "Für den Österreichischen Sparkassenverband, die Interessenvertretung der AT-Sparkassengruppe, zu arbeiten, bedeutet ein gemeinsames Ziel vor Augen zu haben und für gemeinsame Werte zu stehen. Wir begegnen einander mit Respekt, Empathie und Verständnis für die unterschiedlichsten Lebensgeschichten. Das Kompetenzzentrum Informationsmanagement beschäftigt derzeit 11 Mitarbeiter:innen und ist mit seinem Sparkassen-Informationssystem (SIS) die zentrale Anlaufstelle, wenn es um die digitale und rasch…",
-    "longitude": 16.354031,
+    "location": "Wien, Österreich",
+    "salary_is_predicted": "0",
+    "id": "5705331225",
+    "created": "2026-04-20T19:50:28Z",
     "category": {
       "__CLASS__": "Adzuna::API::Response::Category",
       "tag": "unknown",
       "label": "Unknown"
     },
-    "id": "5668769321",
-    "created": "2026-03-16T20:41:11Z",
-    "salary_is_predicted": "0",
-    "location": {
-      "display_name": "Wien, Österreich",
-      "area": [
-        "Österreich",
-        "Wien"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
+    "title": "(Senior) Data Engineer (m/w/d)",
+    "redirect_url": "https://www.adzuna.at/details/5705331225?utm_medium=api&utm_source=9fef4eac",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwNTMzMTIyNSIsInMiOiJ1TnRmc3dBOThSRy1Hcjk5Tm1XY2JBIn0.bAbtXZtENVS6yKAhHmCl3mFUjnXZhjNS2zrRG5YNOVQ",
+    "longitude": 16.354031,
+    "description": "(Senior) Data Engineer (m/w/d) * Job-ID: V000011676 * Einsatzort: Wien, alternativ Zeltweg oder Graz * Zeitpunkt: ehestmöglich * Art der Anstellung: Vollzeit * Mitarbeiterempfehlungsprogramm: ja Ihre Aufgaben * Erschließung von Datenquellen in den verschiedenen Phasen des Produktlebenszyklus von Bahninfrastrukturkomponenten (Entwicklung, Produktion, Qualitätssicherung, Betrieb,) * Konzeption einer zentralen Datenarchitektur für die identifizierten Datenquellen * Erarbeitung und Implementierung …",
+    "company": "voestalpine AG",
+    "latitude": 48.208144,
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
     "_country": "at",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Wien"
   },
   {
-    "id": "5669197206",
-    "created": "2026-03-17T05:44:53Z",
     "category": {
       "label": "Unknown",
       "tag": "unknown",
       "__CLASS__": "Adzuna::API::Response::Category"
     },
-    "location": {
-      "area": [
-        "Österreich",
-        "Wien"
-      ],
-      "display_name": "Wien, Österreich",
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
+    "created": "2026-01-11T10:52:47Z",
+    "id": "5579244997",
     "salary_is_predicted": "0",
-    "latitude": 48.208144,
-    "company": {
-      "display_name": "APG - Austrian Power Grid AG",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "description": "AUSTRIAN POWER GRID Das Energiesystem der Zukunft: Voller Spannungen, Bewegungen und Chancen. Uns treibt der Stolz auf das, was wir für Österreich bewirken. Gestalter:innen der Energiewende zu sein, fordert uns. Hochgesteckte Ziele erst recht. Einzigartiges Fachwissen, volles Vertrauen. Eigene Entscheidungen, volle Verantwortung. Das ist unser Spielfeld. Das ist APG. Electricity Markets Software-/Data-Engineer (w/m/d) energiewende poweron Jetzt Bewerben Jetzt Bewerben via Whatsapp Aufgaben * Da…",
-    "longitude": 16.354031,
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHJaRDlzczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NjY5MTk3MjA2In0.DrhPQ6aDH3rBAXVPzpPxn-kHgVyvLMIJI-R9Rc3aLIc",
+    "location": "Wien, Österreich",
     "__CLASS__": "Adzuna::API::Response::Job",
-    "title": "Electricity Markets Software-/Data-Engineer (w/m/d)",
-    "redirect_url": "https://www.adzuna.at/land/ad/5669197206?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=58FCD6779F99EACAAA5E38A792109DF09D4744E2",
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidU50ZnN3QTk4UkctR3I5OU5tV2NiQSIsImkiOiI1NTc5MjQ0OTk3In0.wuGp_fqevyJ01tywgJOJHoQX2xKyn_uBjjoYzF6wENo",
+    "redirect_url": "https://www.adzuna.at/details/5579244997?utm_medium=api&utm_source=9fef4eac",
+    "title": "Data & Analytics - Data Engineer (all genders)",
+    "latitude": 48.208144,
+    "company": "Vienna Insurance Group AG Wiener Versicherung Gruppe",
+    "description": "WORKING IN THE MIDDLE OF VIENNA: EXCHANGING ACROSS EUROPE Data & Analytics - Data Engineer (all genders) * Vienna * full-time * hybrid * all genders * asap * experienced * Data & Analytics Your Tasks * Collaborate with data scientists, analysts, and product owners to build reliable, maintainable pipelines and products * Design, build, and operate Databricks pipelines using Python, Lakeflow Declarative Pipelines, and Jobs/Workflows * Use Azure Data Factory for ingestion/orchestration; integrate …",
+    "longitude": 16.354031,
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
     "_country": "at",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Wien"
   },
   {
-    "salary_is_predicted": "0",
-    "location": {
-      "area": [
-        "Österreich",
-        "Wien"
-      ],
-      "display_name": "Wien, Österreich",
-      "__CLASS__": "Adzuna::API::Response::Location"
+    "company": "Capgemini",
+    "latitude": 48.208144,
+    "longitude": 16.354031,
+    "description": "(Senior) Data Engineer (Databricks/Snowflake) (m/w/d) * Wien * ab sofort * 40 Stunden / Woche Mit Capgemini entscheidest du dich für ein Unternehmen, in dem du die Möglichkeit hast, deine Karriere so zu gestalten, wie du es dir wünscht. Indem du von einer kollaborativen Gemeinschaft von Kolleg/innen auf der ganzen Welt unterstützt und inspiriert wirst und die Chance hast, dir neue Möglichkeiten vorzustellen. Komm zu uns und hilf uns den weltweit führenden Organisationen, den Wert von Technologi…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYyNjI4ODYyMyIsInMiOiJ1TnRmc3dBOThSRy1Hcjk5Tm1XY2JBIn0.dHKSdauY7wJ3ThXuaZ5QAuYtb_da4yUIoE3rbFa1cC4",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.at/details/5626288623?utm_medium=api&utm_source=9fef4eac",
+    "title": "(Senior) Data Engineer (Databricks/Snowflake) (m/w/d)",
+    "category": {
+      "label": "Unknown",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "unknown"
     },
+    "id": "5626288623",
+    "created": "2026-02-12T18:37:01Z",
+    "salary_is_predicted": "0",
+    "location": "Wien, Österreich",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
+    "_country": "at",
+    "_source": "adzuna_api",
+    "city": "Wien"
+  },
+  {
+    "location": "Wien, Österreich",
+    "salary_is_predicted": "0",
+    "created": "2026-03-16T20:41:11Z",
+    "id": "5668769321",
     "category": {
       "__CLASS__": "Adzuna::API::Response::Category",
       "tag": "unknown",
       "label": "Unknown"
     },
-    "id": "5693524870",
-    "created": "2026-04-08T21:37:40Z",
-    "redirect_url": "https://www.adzuna.at/land/ad/5693524870?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=897D3EBC5B31E8E19C7528CDAE14FB377E41F37D",
-    "title": "DevOps Specialist / Data Engineer (all genders) - Data & Analytics",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHJaRDlzczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NjkzNTI0ODcwIn0.le_GyJqauog55fdT7wsJtnnuZhMCFiEkxPJYk_5P6k4",
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "description": "WORKING IN THE MIDDLE OF VIENNA: EXCHANGING ACROSS EUROPE DevOps Specialist / Data Engineer (all genders) - Data & Analytics * Vienna * full-time * hybrid * all genders * asap * experienced * Data & Analytics Your Tasks * Collaborate with data engineers, scientists, and product owners to build group-wide data, ML, GenAI, and BI solutions * Design, build, and operate data pipelines on Databricks using Python and Lakeflow (Pipelines, Jobs/Workflows) * Use Azure Data Factory and Azure services for…",
     "longitude": 16.354031,
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "Vienna Insurance Group AG Wiener Versicherung Gruppe"
-    },
+    "description": "Für den Österreichischen Sparkassenverband, die Interessenvertretung der AT-Sparkassengruppe, zu arbeiten, bedeutet ein gemeinsames Ziel vor Augen zu haben und für gemeinsame Werte zu stehen. Wir begegnen einander mit Respekt, Empathie und Verständnis für die unterschiedlichsten Lebensgeschichten. Das Kompetenzzentrum Informationsmanagement beschäftigt derzeit 11 Mitarbeiter:innen und ist mit seinem Sparkassen-Informationssystem (SIS) die zentrale Anlaufstelle, wenn es um die digitale und rasch…",
     "latitude": 48.208144,
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
+    "company": "Österreichischer Sparkassenverband",
+    "title": "Senior Data Engineer & Infrastructure Coordinator (m/w/d)",
+    "redirect_url": "https://www.adzuna.at/details/5668769321?utm_medium=api&utm_source=9fef4eac",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY2ODc2OTMyMSIsInMiOiJ1TnRmc3dBOThSRy1Hcjk5Tm1XY2JBIn0.Yrn-INi_NLmQoCHv6zODbNURQOVXjZK3DllUvMUZBaI",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
     "_country": "at",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Wien"
   },
   {
     "salary_is_predicted": "0",
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "Österreich",
-        "Wien",
-        "Donaustadt"
-      ],
-      "display_name": "Donaustadt, Wien"
-    },
+    "location": "Donaustadt, Wien",
     "category": {
+      "label": "IT-Stellen",
       "tag": "it-jobs",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "label": "IT-Stellen"
+      "__CLASS__": "Adzuna::API::Response::Category"
     },
-    "id": "5703154664",
     "created": "2026-04-18T03:52:07Z",
-    "description": "DATA ENGINEER (M/W/D) APPLY Bei A1 entwickelst du gemeinsam mit einem erfahrenen Team moderne Analytics- und Datenintegrationslösungen – von der Konzeption über die Umsetzung bis zum stabilen Betrieb – und gestaltest die Weiterentwicklung unserer Datenplattform aktiv mit. Engineering | Datenintegration | Apache Spark & Airflow | Kubernetes | Python, SQL, Shell | ETL & CI/CD | Telekommunikation Stellenbeschreibung Data Engineer DEINE AUFGABEN Du verantwortest die Migration, Modernisierung und We…",
+    "id": "5703154664",
     "longitude": 16.471308,
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "ISG Personalmanagement GmbH"
-    },
+    "description": "DATA ENGINEER (M/W/D) APPLY Bei A1 entwickelst du gemeinsam mit einem erfahrenen Team moderne Analytics- und Datenintegrationslösungen – von der Konzeption über die Umsetzung bis zum stabilen Betrieb – und gestaltest die Weiterentwicklung unserer Datenplattform aktiv mit. Engineering | Datenintegration | Apache Spark & Airflow | Kubernetes | Python, SQL, Shell | ETL & CI/CD | Telekommunikation Stellenbeschreibung Data Engineer DEINE AUFGABEN Du verantwortest die Migration, Modernisierung und We…",
+    "company": "ISG Personalmanagement GmbH",
     "latitude": 48.231283,
     "redirect_url": "https://www.adzuna.at/details/5703154664?utm_medium=api&utm_source=9fef4eac",
     "title": "Data Engineer",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMzE1NDY2NCIsInMiOiIwclpEOXNzODhSRy1Hcjk5Tm1XY2JBIn0.OeKt4Dlum9R_gsf1QGfERvdOmutYuZjhBPN761v3YIg",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMzE1NDY2NCIsInMiOiJ1TnRmc3dBOThSRy1Hcjk5Tm1XY2JBIn0.tYJflwmMCReIGX1nVk49WYaeTOHCXQ_Gk6CBCvZAV7s",
     "__CLASS__": "Adzuna::API::Response::Job",
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
     "_country": "at",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Donaustadt"
   },
   {
-    "category": {
-      "label": "Technikerstellen",
-      "tag": "engineering-jobs",
-      "__CLASS__": "Adzuna::API::Response::Category"
-    },
-    "id": "5691850369",
-    "created": "2026-04-07T08:10:14Z",
-    "salary_is_predicted": "0",
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "display_name": "Österreich",
-      "area": [
-        "Österreich"
-      ]
-    },
-    "company": {
-      "display_name": "TechBiz Global GmbH",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "contract_type": "permanent",
-    "description": "At TechBiz Global , we are providing recruitment service to our TOP clients from our portfolio. We are currently looking for a Business Development Executive to join one of our clients ' team. If you're looking for an exciting opportunity to grow in a innovative environment, this could be the perfect fit for you. As a Data Engineer, you will play a key role in designing, building, and operating data pipelines and integrations that power our analytics, reporting, and data-driven applications. Yo…",
+    "company": "Vienna Insurance Group AG Wiener Versicherung Gruppe",
+    "latitude": 48.208144,
+    "longitude": 16.354031,
+    "description": "WORKING IN THE MIDDLE OF VIENNA: EXCHANGING ACROSS EUROPE DevOps Specialist / Data Engineer (all genders) - Data & Analytics * Vienna * full-time * hybrid * all genders * asap * experienced * Data & Analytics Your Tasks * Collaborate with data engineers, scientists, and product owners to build group-wide data, ML, GenAI, and BI solutions * Design, build, and operate data pipelines on Databricks using Python and Lakeflow (Pipelines, Jobs/Workflows) * Use Azure Data Factory and Azure services for…",
     "__CLASS__": "Adzuna::API::Response::Job",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5MTg1MDM2OSIsInMiOiIwclpEOXNzODhSRy1Hcjk5Tm1XY2JBIn0.9lyLBbhbv1beo95v7KfWxxW8bdLl-eHQVvg1JiLjjTw",
-    "contract_time": "full_time",
-    "redirect_url": "https://www.adzuna.at/details/5691850369?utm_medium=api&utm_source=9fef4eac",
-    "title": "Data Engineer",
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
-    "_country": "at",
-    "_source": "adzuna_api"
-  },
-  {
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "Österreich",
-        "Wien",
-        "Innere Stadt"
-      ],
-      "display_name": "Innere Stadt, Wien"
-    },
-    "salary_is_predicted": "0",
-    "created": "2025-12-29T21:30:36Z",
-    "id": "5559370003",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5MzUyNDg3MCIsInMiOiJ1TnRmc3dBOThSRy1Hcjk5Tm1XY2JBIn0.Jjjc-PdSJa8SOFluIW0al6U8_vBjl3eQ6TCN8IGMK3w",
+    "redirect_url": "https://www.adzuna.at/details/5693524870?utm_medium=api&utm_source=9fef4eac",
+    "title": "DevOps Specialist / Data Engineer (all genders) - Data & Analytics",
     "category": {
       "tag": "unknown",
       "__CLASS__": "Adzuna::API::Response::Category",
       "label": "Unknown"
     },
-    "description": "Die Prescreen International GmbH entwickelt eine cloud-basierte E-Recruiting Lösung für Unternehmen aller Größen. Das machen wir im Herzen Europas - genauer gesagt, in Wien, Berlin und München. Gegründet im Jahr 2014, arbeitet unser Team seither mit HR-Abteilungen und Arbeitssuchenden zusammen um zu ermöglichen, dass talentierte Menschen im richtigen Job genau das tun können, was sie lieben und was ihnen am besten liegt. Seit Juli 2017 gehören wir zum führenden beruflichen Netzwerk im deutschsp…",
-    "longitude": 16.370243,
-    "latitude": 48.208604,
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "Prescreen International"
-    },
-    "title": "Data Engineer",
-    "contract_time": "full_time",
-    "redirect_url": "https://www.adzuna.at/details/5559370003?utm_medium=api&utm_source=9fef4eac",
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHJaRDlzczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NTU5MzcwMDAzIn0.ze5cILK35xLFXMemU5arwG_-iqw5UodoUlBMqiyV2gc",
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
+    "created": "2026-04-08T21:37:40Z",
+    "id": "5693524870",
+    "salary_is_predicted": "0",
+    "location": "Wien, Österreich",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
     "_country": "at",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Wien"
   },
   {
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHJaRDlzczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NzAwMzMwNjcxIn0.X-O8psEVJMygFTQX51w6PyMk5XAPL7FvBgBKe0tt5wc",
-    "title": "Data Engineer / Developer Data Warehouse & SQL Server für Investmentfonds (m/w/d)",
-    "redirect_url": "https://www.adzuna.at/land/ad/5700330671?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=79F7DE9C8F7470DB91D82CF0CA7F9E22AF579234",
-    "company": {
-      "display_name": "Oberbank AG",
-      "__CLASS__": "Adzuna::API::Response::Company"
+    "salary_is_predicted": "0",
+    "location": "Österreich",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "engineering-jobs",
+      "label": "Technikerstellen"
     },
-    "latitude": 48.290256,
-    "longitude": 14.293495,
-    "description": "Lernen Sie als Berufseinsteiger:in bei uns Ihren neuen Job lieben! Data Engineer / Developer Data Warehouse & SQL Server für Investmentfonds Linz Kontakt Andrea Freilinger, M.A. Tel.: 43 732 7802 37825 Online Bewerbung MY JOB: Sie verstärken das IT-Team der 3 Banken-Generali Investment-Gesellschaft m.b.H. (www.3bg.at), eine gemeinsame Fondstochter der 3 Banken Gruppe (Oberbank AG, BTV Vier Länder Bank AG, BKS Bank AG) und der Generali Versicherung AG welche rund 230 Investmentfonds verwaltet. I…",
-    "created": "2026-04-15T19:21:19Z",
-    "id": "5700330671",
+    "created": "2026-04-07T08:10:14Z",
+    "id": "5691850369",
+    "contract_type": "permanent",
+    "description": "At TechBiz Global , we are providing recruitment service to our TOP clients from our portfolio. We are currently looking for a Business Development Executive to join one of our clients ' team. If you're looking for an exciting opportunity to grow in a innovative environment, this could be the perfect fit for you. As a Data Engineer, you will play a key role in designing, building, and operating data pipelines and integrations that power our analytics, reporting, and data-driven applications. Yo…",
+    "company": "TechBiz Global GmbH",
+    "redirect_url": "https://www.adzuna.at/details/5691850369?utm_medium=api&utm_source=9fef4eac",
+    "contract_time": "full_time",
+    "title": "Data Engineer",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5MTg1MDM2OSIsInMiOiJ1TnRmc3dBOThSRy1Hcjk5Tm1XY2JBIn0.ARrg9pkadHlD98ateJ1_a8HhiZ3r_0BPmVY_rskhy4E",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
+    "_country": "at",
+    "_source": "adzuna_api",
+    "city": "Österreich"
+  },
+  {
+    "title": "Data Engineer",
+    "redirect_url": "https://www.adzuna.at/details/5559370003?utm_medium=api&utm_source=9fef4eac",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidU50ZnN3QTk4UkctR3I5OU5tV2NiQSIsImkiOiI1NTU5MzcwMDAzIn0.aehbcVv3kvoq8KkpPWGQF1UW3UwAp7TWJK9rzW2Op9A",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": 16.370243,
+    "description": "Die Prescreen International GmbH entwickelt eine cloud-basierte E-Recruiting Lösung für Unternehmen aller Größen. Das machen wir im Herzen Europas - genauer gesagt, in Wien, Berlin und München. Gegründet im Jahr 2014, arbeitet unser Team seither mit HR-Abteilungen und Arbeitssuchenden zusammen um zu ermöglichen, dass talentierte Menschen im richtigen Job genau das tun können, was sie lieben und was ihnen am besten liegt. Seit Juli 2017 gehören wir zum führenden beruflichen Netzwerk im deutschsp…",
+    "latitude": 48.208604,
+    "company": "Prescreen International",
+    "location": "Innere Stadt, Wien",
+    "salary_is_predicted": "0",
+    "id": "5559370003",
+    "created": "2025-12-29T21:30:36Z",
     "category": {
       "label": "Unknown",
       "__CLASS__": "Adzuna::API::Response::Category",
       "tag": "unknown"
     },
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "Österreich",
-        "Oberösterreich",
-        "Linz"
-      ],
-      "display_name": "Linz, Oberösterreich"
-    },
-    "salary_is_predicted": "0",
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
     "_country": "at",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Innere Stadt"
   },
   {
-    "location": {
-      "display_name": "Marchtrenk, Wels-Land",
-      "area": [
-        "Österreich",
-        "Oberösterreich",
-        "Wels-Land",
-        "Marchtrenk"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location"
+    "location": "Linz, Oberösterreich",
+    "salary_is_predicted": "0",
+    "id": "5700330671",
+    "created": "2026-04-15T19:21:19Z",
+    "category": {
+      "tag": "unknown",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Unknown"
     },
+    "description": "Lernen Sie als Berufseinsteiger:in bei uns Ihren neuen Job lieben! Data Engineer / Developer Data Warehouse & SQL Server für Investmentfonds Linz Kontakt Andrea Freilinger, M.A. Tel.: 43 732 7802 37825 Online Bewerbung MY JOB: Sie verstärken das IT-Team der 3 Banken-Generali Investment-Gesellschaft m.b.H. (www.3bg.at), eine gemeinsame Fondstochter der 3 Banken Gruppe (Oberbank AG, BTV Vier Länder Bank AG, BKS Bank AG) und der Generali Versicherung AG welche rund 230 Investmentfonds verwaltet. I…",
+    "longitude": 14.293495,
+    "latitude": 48.290256,
+    "company": "Oberbank AG",
+    "title": "Data Engineer / Developer Data Warehouse & SQL Server für Investmentfonds (m/w/d)",
+    "redirect_url": "https://www.adzuna.at/details/5700330671?utm_medium=api&utm_source=9fef4eac",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidU50ZnN3QTk4UkctR3I5OU5tV2NiQSIsImkiOiI1NzAwMzMwNjcxIn0.rvNSbqj8CcrvNN9jYwwoSqoqC99eZN2QRap98ConGWU",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
+    "_country": "at",
+    "_source": "adzuna_api",
+    "city": "Linz"
+  },
+  {
+    "location": "Marchtrenk, Wels-Land",
     "salary_is_predicted": "0",
     "id": "5660029744",
     "created": "2026-03-10T08:46:28Z",
     "category": {
+      "label": "Unknown",
       "tag": "unknown",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "label": "Unknown"
+      "__CLASS__": "Adzuna::API::Response::Category"
     },
-    "title": "Data Engineer - Fokus Ressourcennutzung (m/w/d)*",
-    "redirect_url": "https://www.adzuna.at/land/ad/5660029744?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=2D106122BF2E13546559ADBB9B7A9E8D75694BC0",
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY2MDAyOTc0NCIsInMiOiIwclpEOXNzODhSRy1Hcjk5Tm1XY2JBIn0.uJV5L43VPJanosBpSwOsbkO6QAPUypriAtd9VFpAUSU",
-    "longitude": 14.112589,
     "description": "Data Engineer - Fokus Ressourcennutzung (M/W/D)* Gestalte die Zukunft der Ressourcenplanung mit Daten! In dieser Position entwickelst du die Datenbasis für unsere globale Ressourcenplanung und sorgst dafür, dass Ressourcendaten aus dem Multiprojektmanagementsystem in aussagekräftige Analysen und Dashboards verwandelt werden. Du bist die Schnittstelle zwischen Ressourcenmanagern und dem Management und stellst sicher, dass Daten nicht nur vorhanden, sondern für strategische Entscheidungen und eff…",
+    "longitude": 14.112589,
     "latitude": 48.198515,
-    "company": {
-      "display_name": "TGW Logistics",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
+    "company": "TGW Logistics",
+    "title": "Data Engineer - Fokus Ressourcennutzung (m/w/d)*",
+    "redirect_url": "https://www.adzuna.at/details/5660029744?utm_medium=api&utm_source=9fef4eac",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY2MDAyOTc0NCIsInMiOiJ1TnRmc3dBOThSRy1Hcjk5Tm1XY2JBIn0.FDHvnVHTT0iMUk2ILlH4liz6uyK-zY-HHZ-haLqR9go",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
     "_country": "at",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Marchtrenk"
   },
   {
-    "salary_is_predicted": "0",
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "Österreich",
-        "Wien"
-      ],
-      "display_name": "Wien, Österreich"
-    },
     "category": {
       "label": "Unknown",
       "tag": "unknown",
@@ -954,393 +604,252 @@
     },
     "id": "5698796803",
     "created": "2026-04-14T10:03:16Z",
-    "description": "Expertin/Experte Data Engineer (w/m/d) * Vollzeit * Hybrid * Wien, Österreich * Mit Berufserfahrung * &hairsp;23.01.26 Für alle, die gemeinsam wachsen wollen. Es ist unser Ziel der modernste dezentrale Bankensektor Österreichs zu sein. Wir sind stark in der Region verankert und mit unserer genossenschaftlichen Idee unterstützen wir unsere Kundinnen/ Kunden ihre Ziele bzw. Wünsche zu erreichen. Wenn Du auf der Suche nach einem sinnstiftenden Job in der Bank-& Finanzwelt bist, Verantwortung übern…",
-    "longitude": 16.354031,
-    "latitude": 48.208144,
-    "company": {
-      "display_name": "VOLKSBANK WIEN AG",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "redirect_url": "https://www.adzuna.at/land/ad/5698796803?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=5E25F58738F1C43AFCF7892BD5D950D8F56DB201",
-    "title": "Expertin/Experte Data Engineer (w/m/d)",
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHJaRDlzczg4UkctR3I5OU5tV2NiQSIsImkiOiI1Njk4Nzk2ODAzIn0.YfucCklo9l8dKXAg8In-iA-yc6xszBSg-Awmw9owESE",
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
-    "_country": "at",
-    "_source": "adzuna_api"
-  },
-  {
-    "description": "One Passion. Many Opportunities. www.liebherr.com/karriere Die Liebherr-Transportation Systems GmbH & Co KG in Korneuburg entwickelt, produziert und betreut ein breit gefächertes Programm an Klimatechnik und Hydrauliksystemen für Schienenfahrzeuge aller Arten sowie für verschiedene Kühlsysteme für den Transport temperatursensibler Waren. M365 Software & Data Engineer (m/w/d) Job-ID 81916 Aufgaben Power BI & Data Engineering * Entwicklung, Betreuung und Optimierung von Power BI Reports, Dashboar…",
-    "longitude": 16.331932,
-    "latitude": 48.347693,
-    "company": {
-      "display_name": "Firmengruppe Liebherr",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "title": "M365 Software & Data Engineer (m/w/d)",
-    "redirect_url": "https://www.adzuna.at/land/ad/5678163824?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=DE014E93C6B729992BE3D7BF1A2366583B5DAF6D",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY3ODE2MzgyNCIsInMiOiIwclpEOXNzODhSRy1Hcjk5Tm1XY2JBIn0.3HUb-s-rNk3McS5jZmRPNCo3dKEbsPHbkYY4LufXU9U",
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "Österreich",
-        "Niederösterreich",
-        "Korneuburg",
-        "Korneuburg"
-      ],
-      "display_name": "Korneuburg"
-    },
     "salary_is_predicted": "0",
-    "created": "2026-03-25T18:29:08Z",
-    "id": "5678163824",
-    "category": {
-      "tag": "unknown",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "label": "Unknown"
-    },
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
+    "location": "Wien, Österreich",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidU50ZnN3QTk4UkctR3I5OU5tV2NiQSIsImkiOiI1Njk4Nzk2ODAzIn0.ltnPH0et0YWEt2cQpJPM_-IJhEp1LluRILYytsXjJws",
+    "redirect_url": "https://www.adzuna.at/details/5698796803?utm_medium=api&utm_source=9fef4eac",
+    "title": "Expertin/Experte Data Engineer (w/m/d)",
+    "company": "VOLKSBANK WIEN AG",
+    "latitude": 48.208144,
+    "longitude": 16.354031,
+    "description": "Expertin/Experte Data Engineer (w/m/d) * Vollzeit * Hybrid * Wien, Österreich * Mit Berufserfahrung * &hairsp;23.01.26 Für alle, die gemeinsam wachsen wollen. Es ist unser Ziel der modernste dezentrale Bankensektor Österreichs zu sein. Wir sind stark in der Region verankert und mit unserer genossenschaftlichen Idee unterstützen wir unsere Kundinnen/ Kunden ihre Ziele bzw. Wünsche zu erreichen. Wenn Du auf der Suche nach einem sinnstiftenden Job in der Bank-& Finanzwelt bist, Verantwortung übern…",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
     "_country": "at",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Wien"
   },
   {
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY3MjE3NTA4NyIsInMiOiIwclpEOXNzODhSRy1Hcjk5Tm1XY2JBIn0.-3G8MyAie_VfME9BECzpafjrYCZrnB_qxVf25-FfEhw",
-    "redirect_url": "https://www.adzuna.at/land/ad/5672175087?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=8853D1740D8147E322D659B6907BE916CA56A6C4",
-    "title": "Senior Cloud Data Engineer m, w, d",
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "ACP CUBIDO Digital Solutions GmbH"
-    },
-    "latitude": 48.276945,
-    "longitude": 14.250544,
-    "description": "Senior Cloud Data Engineer Daten sind für dich mehr als Tabellen - du willst Plattformen bauen, Standards setzen und End-to-End-Lösungen liefern, die bei unseren Kunden wirklich ankommen? Dann gestalte mit uns moderne Data-Analytics-Lösungen auf Basis von Microsoft Azure & Microsoft Fabric - von Ingestion bis Semantic Model, von \"läuft\" bis \"skalierbar, governed, deploybar\". Worum es geht? Wir bauen mit Microsoft Fabric als strategischem Kern Data-Plattformen, die nicht nur funktionieren, sonde…",
+    "salary_is_predicted": "0",
+    "location": "Elsbethen, Salzburg-Umgebung",
     "category": {
       "label": "Unknown",
       "tag": "unknown",
       "__CLASS__": "Adzuna::API::Response::Category"
     },
-    "created": "2026-03-19T20:53:48Z",
-    "id": "5672175087",
-    "salary_is_predicted": "0",
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "Österreich",
-        "Oberösterreich",
-        "Linz-Land",
-        "Leonding"
-      ],
-      "display_name": "Leonding, Linz-Land"
-    },
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
+    "id": "5564607250",
+    "created": "2026-01-02T16:26:20Z",
+    "description": "Vollzeit Senior Data Engineer Elsbethen, Österreich Apply now At the heart of Red Bull's global sports universe is the Sports Data Platform (SDP), the technical foundation that turns data into a competitive advantage. We are seeking a Senior Data Engineer to play a central role in building and shaping this platform. This is a unique opportunity to own and evolve a critical data system that serves Red Bull's sports and athletes worldwide. As the lead technical expert for the platform, your role …",
+    "longitude": 13.083054,
+    "company": "Red Bull",
+    "latitude": 47.761106,
+    "redirect_url": "https://www.adzuna.at/details/5564607250?utm_medium=api&utm_source=9fef4eac",
+    "title": "Senior Data Engineer",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidU50ZnN3QTk4UkctR3I5OU5tV2NiQSIsImkiOiI1NTY0NjA3MjUwIn0.8ygBjrg8Vcmvih2h7GKqaKwmAE4YLo2Xf05ghz33HT8",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
     "_country": "at",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Elsbethen"
   },
   {
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY1Mjg3MDUzNyIsInMiOiIwclpEOXNzODhSRy1Hcjk5Tm1XY2JBIn0.xqcRjAAifH2ToETbiU1wuCeyXoPVRfvhkARXY7YkVM8",
+    "description": "4.000 People. 35 Countries. LivingTheFuture. TÜV AUSTRIA - Das unabhängige, österreichische Unternehmen für Testing, Inspection und Certification, Training & Consulting. Wir liefern unseren Kunden den entscheidenden Mehrwert für nachhaltige und flexible Lösungen durch technische Sicherheit - in Österreich und in mehr als 35 Ländern der Welt. Wenn auch Sie die Welt ein Stück sicherer machen wollen, bewerben Sie sich als Data Engineer (gn*) (Jn. 265359) Bringen Sie KI-Innovationen von der Idee in…",
+    "company": "TÜV AUSTRIA",
+    "redirect_url": "https://www.adzuna.at/details/5678012062?utm_medium=api&utm_source=9fef4eac",
+    "title": "Data Engineer (gn*)",
     "__CLASS__": "Adzuna::API::Response::Job",
-    "redirect_url": "https://www.adzuna.at/details/5652870537?utm_medium=api&utm_source=9fef4eac",
-    "contract_time": "full_time",
-    "title": "Senior Data Engineer*",
-    "company": {
-      "display_name": "b.telligent Gruppe",
-      "__CLASS__": "Adzuna::API::Response::Company"
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidU50ZnN3QTk4UkctR3I5OU5tV2NiQSIsImkiOiI1Njc4MDEyMDYyIn0.ivz21LcgXx6DXNtzVla9hRcrud2sDY8Zizq4HTj6Ykg",
+    "salary_is_predicted": "0",
+    "location": "Österreich",
+    "category": {
+      "tag": "unknown",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Unknown"
     },
+    "created": "2026-03-25T12:34:00Z",
+    "id": "5678012062",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
+    "_country": "at",
+    "_source": "adzuna_api",
+    "city": "Österreich"
+  },
+  {
+    "company": "b.telligent Gruppe",
     "description": "Wenn Dich die Leidenschaft für Daten und deren Verarbeitung antreibt und Du Dein Wissen in spannenden Projekten einbringen willst, dann bist Du bei b.telligent genau richtig ! Wir betreuen unsere vielfältigen Kunden über alle Projektphasen hinweg und legen viel Wert auf enge Zusammenarbeit und Befähigung. Wir unterstützen von der Konzeption über Deployment bis zum Betrieb von Datenlösungen, um eine stabile und zuverlässige D atengrundlage für unsere Kunden zu schaffen . Unser Team in Wien freut…",
-    "category": {
-      "tag": "unknown",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "label": "Unknown"
-    },
-    "created": "2026-03-03T22:28:53Z",
-    "id": "5652870537",
-    "salary_is_predicted": "0",
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "Österreich"
-      ],
-      "display_name": "Österreich"
-    },
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
-    "_country": "at",
-    "_source": "adzuna_api"
-  },
-  {
     "__CLASS__": "Adzuna::API::Response::Job",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY4MDMwOTk3MyIsInMiOiIwclpEOXNzODhSRy1Hcjk5Tm1XY2JBIn0.z_1zl6uxl8G24q2Wo8jLTudnsZi1Sqt22WAMOlgNV9w",
-    "contract_time": "part_time",
-    "redirect_url": "https://www.adzuna.at/land/ad/5680309973?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=EBFB7DFB71B7BAE69E9DCD9FEAA33BA8BF8B03A6",
-    "title": "Data Engineer / Power BI Developer (m/w/d)",
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "Leinweb Data Solutions e.U."
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY1Mjg3MDUzNyIsInMiOiJ1TnRmc3dBOThSRy1Hcjk5Tm1XY2JBIn0.dtFgNfWZHgptKMJiEv4nUOQHLHtv3EFBSf_V8BvkdeE",
+    "contract_time": "full_time",
+    "redirect_url": "https://www.adzuna.at/details/5652870537?utm_medium=api&utm_source=9fef4eac",
+    "title": "Senior Data Engineer*",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "unknown",
+      "label": "Unknown"
     },
-    "latitude": 48.290256,
-    "contract_type": "permanent",
-    "description": "Über uns Leinweb Data Solutions ist ein wachsendes Beratungsunternehmen, das mittelständische Unternehmen dabei unterstützt, ihre Daten mit dem Microsoft-Stack nutzbar zu machen. Von der Datenintegration über die Modellierung bis zum fertigen Dashboard begleiten wir unsere Kunden auf dem Weg zur datengetriebenen Organisation. Unser Technologie- Schwerpunkt liegt auf Microsoft Fabric, SQL Server und Power BI. Wir befinden uns im Aufbau und suchen engagierte Persönlichkeiten, die früh mitgestalte…",
-    "longitude": 14.293495,
+    "id": "5652870537",
+    "created": "2026-03-03T22:28:53Z",
+    "salary_is_predicted": "0",
+    "location": "Österreich",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
+    "_country": "at",
+    "_source": "adzuna_api",
+    "city": "Österreich"
+  },
+  {
+    "salary_is_predicted": "0",
+    "location": "Linz, Oberösterreich",
     "category": {
       "tag": "unknown",
       "__CLASS__": "Adzuna::API::Response::Category",
       "label": "Unknown"
     },
-    "created": "2026-03-27T12:41:59Z",
     "id": "5680309973",
-    "salary_is_predicted": "0",
-    "location": {
-      "area": [
-        "Österreich",
-        "Oberösterreich",
-        "Linz"
-      ],
-      "display_name": "Linz, Oberösterreich",
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
+    "created": "2026-03-27T12:41:59Z",
+    "contract_type": "permanent",
+    "longitude": 14.293495,
+    "description": "Über uns Leinweb Data Solutions ist ein wachsendes Beratungsunternehmen, das mittelständische Unternehmen dabei unterstützt, ihre Daten mit dem Microsoft-Stack nutzbar zu machen. Von der Datenintegration über die Modellierung bis zum fertigen Dashboard begleiten wir unsere Kunden auf dem Weg zur datengetriebenen Organisation. Unser Technologie- Schwerpunkt liegt auf Microsoft Fabric, SQL Server und Power BI. Wir befinden uns im Aufbau und suchen engagierte Persönlichkeiten, die früh mitgestalte…",
+    "company": "Leinweb Data Solutions e.U.",
+    "latitude": 48.290256,
+    "contract_time": "part_time",
+    "redirect_url": "https://www.adzuna.at/details/5680309973?utm_medium=api&utm_source=9fef4eac",
+    "title": "Data Engineer / Power BI Developer (m/w/d)",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY4MDMwOTk3MyIsInMiOiJ1TnRmc3dBOThSRy1Hcjk5Tm1XY2JBIn0.Nq9KB37bftwwQjN9k6vRP5V7cAuQr4p9lqCQU2afx7w",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
     "_country": "at",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Linz"
   },
   {
-    "company": {
-      "display_name": "ADMIRAL Technologies",
-      "__CLASS__": "Adzuna::API::Response::Company"
+    "location": "Wien, Österreich",
+    "salary_is_predicted": "0",
+    "created": "2026-01-13T11:08:25Z",
+    "id": "5582031116",
+    "category": {
+      "label": "Unknown",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "unknown"
     },
-    "latitude": 48.208144,
     "description": "1:0 for your future. Data Engineer - Focus Apache Flink (m/f/x) SUCCESS? PREPROGRAMMED! We are ADMIRAL Technologies. Start your tech career made in Austria as Data Engineer - Focus Apache Flink (m/f/x). Develop yourself and with us the software solutions of tomorrow. HARD FACTS * Attnang-Puchheim / Gumpoldskirchen / Wien * Full-time * Min. EUR 55.000 gross/year * Hybrid (remote & on-site) * Attractive Benefits JETZT BEWERBEN YOUR TECH-PART IN OUR TEAM * Analyze and prepare data from the pre-sys…",
     "longitude": 16.354031,
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHJaRDlzczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NTgyMDMxMTE2In0.htUgV9_fQUmUZo1yY7bexr5Dnh7WuKXeA2s0IzETVwU",
-    "redirect_url": "https://www.adzuna.at/land/ad/5582031116?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=7AA4B5043EC40503CB5A00DE6264D08EB7DD670D",
+    "company": "ADMIRAL Technologies",
+    "latitude": 48.208144,
     "title": "Data Engineer - Focus Apache Flink (m/f/x)",
-    "category": {
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "tag": "unknown",
-      "label": "Unknown"
-    },
-    "id": "5582031116",
-    "created": "2026-01-13T11:08:25Z",
-    "salary_is_predicted": "0",
-    "location": {
-      "display_name": "Wien, Österreich",
-      "area": [
-        "Österreich",
-        "Wien"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
+    "redirect_url": "https://www.adzuna.at/details/5582031116?utm_medium=api&utm_source=9fef4eac",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidU50ZnN3QTk4UkctR3I5OU5tV2NiQSIsImkiOiI1NTgyMDMxMTE2In0.7-GIOr0bE7b287m_c-1LOE8Sanlmd4AIw2J_XUGdjws",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
     "_country": "at",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Wien"
   },
   {
+    "longitude": 15.439358,
+    "latitude": 47.070503,
+    "redirect_url": "https://www.adzuna.at/details/5646660691?utm_medium=api&utm_source=9fef4eac",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0NjY2MDY5MSIsInMiOiJ1TnRmc3dBOThSRy1Hcjk5Tm1XY2JBIn0.bNmibdM2pxtDPa7pe7FeJ86T_TXPa1aB48Ud4pXXBS8",
+    "location": "Graz, Steiermark",
     "created": "2026-02-26T22:24:37Z",
     "id": "5646660691",
     "category": {
       "label": "Unknown",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "tag": "unknown"
+      "tag": "unknown",
+      "__CLASS__": "Adzuna::API::Response::Category"
     },
-    "location": {
-      "display_name": "Graz, Steiermark",
-      "area": [
-        "Österreich",
-        "Steiermark",
-        "Graz"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0NjY2MDY5MSIsInMiOiIwclpEOXNzODhSRy1Hcjk5Tm1XY2JBIn0.x2TJDRERQzj1iy0GzPViOibbJs8HN0kO_gWpeGzaSEw",
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "redirect_url": "https://www.adzuna.at/details/5646660691?utm_medium=api&utm_source=9fef4eac",
-    "latitude": 47.070503,
-    "longitude": 15.439358,
-    "salary_is_predicted": "0",
+    "description": "Data Engineer (Data Quality & Operations)m / w / d • Vollzeit • Graz Zur Vergrößerung und Unterstützung unseres Teams suchen wir eine begeisterte und aufgeschlossene Persönlichkeit",
+    "company": "Institut AllergoSan Pharmazeutische Produkte Forschungs- und Vertriebs",
+    "salary_max": 70000,
     "title": "Data Engineer (Data Quality & Operations)",
     "salary_min": 49000,
     "contract_time": "full_time",
-    "company": {
-      "display_name": "Institut AllergoSan Pharmazeutische Produkte Forschungs- und Vertriebs",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "salary_max": 70000,
-    "description": "Data Engineer (Data Quality & Operations)m / w / d • Vollzeit • Graz Zur Vergrößerung und Unterstützung unseres Teams suchen wir eine begeisterte und aufgeschlossene Persönlichkeit",
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
+    "salary_is_predicted": "0",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
     "_country": "at",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Graz"
   },
   {
-    "salary_is_predicted": "0",
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "Österreich",
-        "Wien"
-      ],
-      "display_name": "Wien, Österreich"
-    },
-    "category": {
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "tag": "unknown",
-      "label": "Unknown"
-    },
-    "id": "5659412609",
-    "created": "2026-03-09T14:17:37Z",
-    "longitude": 16.354031,
-    "description": "Senior Data Engineer / Senior Data Architect (w/m/d) - Technology Consulting Standort: Wien - Donau-City-Straße 7 Eintrittsdatum: ab sofort Arbeitszeit: Vollzeit (40 Wochenstunden) Bist du bereit, einen Unterschied zu machen? PwC Österreich ist mit rund 1500 Mitarbeitenden an 5 Standorten eines der größten Prüfungs- und Beratungsunternehmen des Landes. Wir entwickeln nicht nur deine Fähigkeiten - wir fördern dich, um dein volles Potenzial zu entfalten. Von der Arbeit an den neuesten Technologie…",
-    "company": {
-      "display_name": "PwC Österreich",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "latitude": 48.208144,
-    "redirect_url": "https://www.adzuna.at/land/ad/5659412609?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=61F15BDBF5E917A691B496F5281663A19AAD96AF",
-    "title": "Senior Data Engineer / Senior Data Architect (w/m/d) Technology Consulting",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHJaRDlzczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NjU5NDEyNjA5In0.FAuMx_7NmIqh058Qpkyb3ThcT7DBVDUO0A_WDP3_YRU",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidU50ZnN3QTk4UkctR3I5OU5tV2NiQSIsImkiOiI1NjQ4MTg3NDUwIn0.RVYJ5akLunkDfJcchJ3UDItDGl50JyKdJptbSRYaIKU",
     "__CLASS__": "Adzuna::API::Response::Job",
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
-    "_country": "at",
-    "_source": "adzuna_api"
-  },
-  {
-    "redirect_url": "https://www.adzuna.at/land/ad/5705273272?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=16BB99C78145E172D202BB8CE9AD91D1EF3FB4D5",
-    "title": "Data Architect/ Engineer (w/m/d)",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHJaRDlzczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NzA1MjczMjcyIn0.AB148gQQxxO9amuq7tdh3PH1g8XSS4YR6jw-iPdZLWU",
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "description": "Wir suchen für unseren Kunden einen Data Architect/ Engineer (w/m/d) mit vielseitiger Datamanagement-Erfahrung, um eine organisationsweite Datenarchitektur umzusetzen und diese langfristig unter Berücksichtigung von Data Security und Data Quality Aspekten weiterzuentwickeln. TECHSEARCH ist Recruiting-Experte in der Suche und Auswahl von IT und Engineering Spezialistinnen und Spezialisten. Wir sind HR-Beraterinnen für Unternehmen zur Professionalisierung von Recruiting-Prozessen. Wir sind Karrie…",
-    "longitude": 16.354031,
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "TECHSEARCH - Recruiting von Experten für Experten"
-    },
-    "latitude": 48.208144,
-    "salary_is_predicted": "0",
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "Österreich",
-        "Wien"
-      ],
-      "display_name": "Wien, Österreich"
-    },
+    "title": "Data Engineer (Data Quality & Operations)",
+    "redirect_url": "https://www.adzuna.at/details/5648187450?utm_medium=api&utm_source=9fef4eac",
+    "company": "Institut AllergoSan Pharma GmbH",
+    "latitude": 47.070503,
+    "description": "Data Engineer (Data Quality & Operations) m/w/d Vollzeit Graz Schwerpunkte * Verantwortung für die operative Datenbereinigung sowie die Sicherstellung der Datenqualität im Rahmen von Datenprojekten * Konzeption und Aufbau einer belastbaren, skalierbaren Datenstruktur als Grundlage für zukünftige Automatisierungen und datengetriebene Auswertungen * Fundierte Erfahrung im Umgang mit komplexen Datensätzen sowie in der Gestaltung und Optimierung von Datenverarbeitungsprozessen * Ganzheitliche End-t…",
+    "longitude": 15.439358,
+    "id": "5648187450",
+    "created": "2026-02-28T04:30:33Z",
     "category": {
       "label": "Unknown",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "tag": "unknown"
+      "tag": "unknown",
+      "__CLASS__": "Adzuna::API::Response::Category"
     },
+    "location": "Graz, Steiermark",
+    "salary_is_predicted": "0",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
+    "_country": "at",
+    "_source": "adzuna_api",
+    "city": "Graz"
+  },
+  {
+    "description": "Wir suchen für unseren Kunden einen Data Architect/ Engineer (w/m/d) mit vielseitiger Datamanagement-Erfahrung, um eine organisationsweite Datenarchitektur umzusetzen und diese langfristig unter Berücksichtigung von Data Security und Data Quality Aspekten weiterzuentwickeln. TECHSEARCH ist Recruiting-Experte in der Suche und Auswahl von IT und Engineering Spezialistinnen und Spezialisten. Wir sind HR-Beraterinnen für Unternehmen zur Professionalisierung von Recruiting-Prozessen. Wir sind Karrie…",
+    "longitude": 16.354031,
+    "company": "TECHSEARCH - Recruiting von Experten für Experten",
+    "latitude": 48.208144,
+    "title": "Data Architect/ Engineer (w/m/d)",
+    "redirect_url": "https://www.adzuna.at/land/ad/5705273272?se=uNtfswA98RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=16BB99C78145E172D202BB8CE9AD91D1EF3FB4D5",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidU50ZnN3QTk4UkctR3I5OU5tV2NiQSIsImkiOiI1NzA1MjczMjcyIn0.fZSdsTV2clr0eHx1BwErffq4ITiaERAj7Ma-5-x9gYU",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": "Wien, Österreich",
+    "salary_is_predicted": "0",
     "id": "5705273272",
     "created": "2026-04-20T16:18:04Z",
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
+    "category": {
+      "tag": "unknown",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Unknown"
+    },
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
     "_country": "at",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Wien"
   },
   {
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0NzgwMDM5MSIsInMiOiIwclpEOXNzODhSRy1Hcjk5Tm1XY2JBIn0.dJszekxRF77jA578L7bizMacWzztHNJAXlCxbkv88O8",
+    "location": "Österreich",
+    "salary_is_predicted": "0",
+    "id": "5647800391",
+    "created": "2026-02-28T00:18:40Z",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "scientific-qa-jobs",
+      "label": "Stellen aus Wissenschaft & Qualitätssicherung"
+    },
     "title": "Data Engineer (all genders)",
     "redirect_url": "https://www.adzuna.at/details/5647800391?utm_medium=api&utm_source=9fef4eac",
-    "company": {
-      "display_name": "TeamViewer GmbH",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidU50ZnN3QTk4UkctR3I5OU5tV2NiQSIsImkiOiI1NjQ3ODAwMzkxIn0.eGOH2VeUnA9F_Wd2Sx_A2_9uzZFaCdWlgHeqQ3rVQUs",
+    "__CLASS__": "Adzuna::API::Response::Job",
     "description": "Data Engineer (all genders) Join us as a Data Engineer to build the pipelines powering analytics and AI. Design, maintain, and optimize data systems that drive decisions and unlock organization‑wide insights. TeamViewer provides a leading Digital Workplace platform that connects people with technology—enabling, improving and automating digital processes to make work work better. Our software solutions harness the power of AI and shape the future of digitalization. We believe that our diverse te…",
-    "created": "2026-02-28T00:18:40Z",
-    "id": "5647800391",
-    "category": {
-      "label": "Stellen aus Wissenschaft & Qualitätssicherung",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "tag": "scientific-qa-jobs"
-    },
-    "location": {
-      "area": [
-        "Österreich"
-      ],
-      "display_name": "Österreich",
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
-    "salary_is_predicted": "0",
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
+    "company": "TeamViewer GmbH",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
     "_country": "at",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Österreich"
   },
   {
-    "title": "Data Engineer (all genders)",
-    "redirect_url": "https://www.adzuna.at/details/5647799411?utm_medium=api&utm_source=9fef4eac",
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0Nzc5OTQxMSIsInMiOiIwclpEOXNzODhSRy1Hcjk5Tm1XY2JBIn0.Q_s5Kro74R7Lk1m87s7ET6b2409vJdSUsXCLX4_Lrxs",
-    "longitude": 14.293495,
-    "description": "Data Engineer (all genders) Join us as a Data Engineer to build the pipelines powering analytics and AI. Design, maintain, and optimize data systems that drive decisions and unlock organization‑wide insights. TeamViewer provides a leading Digital Workplace platform that connects people with technology—enabling, improving and automating digital processes to make work work better. Our software solutions harness the power of AI and shape the future of digitalization. We believe that our diverse te…",
-    "company": {
-      "display_name": "TeamViewer GmbH",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "latitude": 48.290256,
-    "location": {
-      "area": [
-        "Österreich",
-        "Oberösterreich",
-        "Linz"
-      ],
-      "display_name": "Linz, Oberösterreich",
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
-    "salary_is_predicted": "0",
-    "id": "5647799411",
-    "created": "2026-02-28T00:17:44Z",
     "category": {
       "label": "Stellen aus Wissenschaft & Qualitätssicherung",
       "tag": "scientific-qa-jobs",
       "__CLASS__": "Adzuna::API::Response::Category"
     },
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
-    "_country": "at",
-    "_source": "adzuna_api"
-  },
-  {
-    "title": "Mitarbeiter:in IT-Entwicklung/Data Engineer mit Fokus auf Datenintegration (m/w/d)",
-    "redirect_url": "https://www.adzuna.at/land/ad/5701193182?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=782228DEA11591B8164DAE8D904E6AE60972CB4F",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMTE5MzE4MiIsInMiOiIwclpEOXNzODhSRy1Hcjk5Tm1XY2JBIn0.z4aoN2pUdQC5ljuyF_1e6cSz7X_pyyRAFhhGLS-AnbM",
+    "id": "5647799411",
+    "created": "2026-02-28T00:17:44Z",
+    "salary_is_predicted": "0",
+    "location": "Linz, Oberösterreich",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidU50ZnN3QTk4UkctR3I5OU5tV2NiQSIsImkiOiI1NjQ3Nzk5NDExIn0.CMp7YK1fHEaRioPt4RdDgJVQ4fxdxTFGWZga_oYmGH0",
     "__CLASS__": "Adzuna::API::Response::Job",
-    "description": "DIE WELT VON ALCAR Die ALCAR Gruppe ist ein international führender Hersteller und Distributor von Stahl- und Leichtmetallrädern im Aftermarket. Mit eigenen Marken wie AEZ, DOTZ, DEZENT und DOTZ 4x4 sowie Tochtergesellschaften in über 20 europäischen Ländern beliefert ALCAR den Reifen- und Zubehörhandel, Fahrzeugimporteure sowie Online-Plattformen. Vom Hauptsitz in Hirtenberg (NÖ) aus werden sämtliche IT Prozesse der Gruppe gesteuert. Um unsere Kompetenzen in Hirtenberg/Bezirk Baden noch weiter…",
-    "longitude": 16.183271,
-    "latitude": 47.931218,
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "ALCAR Wheels GmbH"
-    },
-    "location": {
-      "area": [
-        "Österreich",
-        "Niederösterreich",
-        "Baden",
-        "Hirtenberg"
-      ],
-      "display_name": "Hirtenberg, Baden",
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
-    "salary_is_predicted": "0",
-    "id": "5701193182",
-    "created": "2026-04-16T10:10:54Z",
-    "category": {
-      "tag": "unknown",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "label": "Unknown"
-    },
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
+    "redirect_url": "https://www.adzuna.at/details/5647799411?utm_medium=api&utm_source=9fef4eac",
+    "title": "Data Engineer (all genders)",
+    "latitude": 48.290256,
+    "company": "TeamViewer GmbH",
+    "description": "Data Engineer (all genders) Join us as a Data Engineer to build the pipelines powering analytics and AI. Design, maintain, and optimize data systems that drive decisions and unlock organization‑wide insights. TeamViewer provides a leading Digital Workplace platform that connects people with technology—enabling, improving and automating digital processes to make work work better. Our software solutions harness the power of AI and shape the future of digitalization. We believe that our diverse te…",
+    "longitude": 14.293495,
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
     "_country": "at",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Linz"
   },
   {
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "display_name": "Graz, Steiermark",
-      "area": [
-        "Österreich",
-        "Steiermark",
-        "Graz"
-      ]
-    },
-    "salary_is_predicted": "0",
     "created": "2026-01-11T21:45:10Z",
     "id": "5579794290",
     "category": {
@@ -1348,283 +857,298 @@
       "__CLASS__": "Adzuna::API::Response::Category",
       "label": "Unknown"
     },
+    "location": "Graz, Steiermark",
+    "salary_is_predicted": "0",
+    "latitude": 47.070503,
+    "company": "TimeTac",
+    "description": "Data Engineer (w/m/d) Arbeitest du gerne mit Daten und möchtest unsere neue Basis für datengetriebene Entscheidungen entwickeln? Als Data Engineer bei TimeTac gestaltest du unsere Datenlandschaft neu und verbesserst unsere Basis für datengetriebene Entscheidungen im gesamten Unternehmen. Du konzipierst das Setup, verbindest Systeme, baust zuverlässige Datenpipelines und schaffst eine saubere, vertrauenswürdige Datenbasis für Reporting, Analysen und zukünftige KI-Initiativen. Graz Vollzeit TimeT…",
+    "longitude": 15.439358,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3OTc5NDI5MCIsInMiOiJ1TnRmc3dBOThSRy1Hcjk5Tm1XY2JBIn0.hqMKSFEJVW9G7d9tXfwJFumtElS7CsCIsu6auTFMCzA",
     "title": "Data Engineer (f/m/d)",
     "contract_time": "full_time",
     "redirect_url": "https://www.adzuna.at/details/5579794290?utm_medium=api&utm_source=9fef4eac",
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3OTc5NDI5MCIsInMiOiIwclpEOXNzODhSRy1Hcjk5Tm1XY2JBIn0.oZZjz6l34kh_2NLI-J3WzfE0ML3zeWmQF7xHxHfK0yo",
-    "longitude": 15.439358,
-    "description": "Data Engineer (w/m/d) Arbeitest du gerne mit Daten und möchtest unsere neue Basis für datengetriebene Entscheidungen entwickeln? Als Data Engineer bei TimeTac gestaltest du unsere Datenlandschaft neu und verbesserst unsere Basis für datengetriebene Entscheidungen im gesamten Unternehmen. Du konzipierst das Setup, verbindest Systeme, baust zuverlässige Datenpipelines und schaffst eine saubere, vertrauenswürdige Datenbasis für Reporting, Analysen und zukünftige KI-Initiativen. Graz Vollzeit TimeT…",
-    "company": {
-      "display_name": "TimeTac",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "latitude": 47.070503,
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
     "_country": "at",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Graz"
   },
   {
-    "id": "5696314899",
     "created": "2026-04-11T05:11:53Z",
+    "id": "5696314899",
     "category": {
       "tag": "unknown",
       "__CLASS__": "Adzuna::API::Response::Category",
       "label": "Unknown"
     },
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "display_name": "Österreich",
-      "area": [
-        "Österreich"
-      ]
-    },
+    "location": "Österreich",
     "salary_is_predicted": "0",
-    "company": {
-      "display_name": "PALFINGER AG",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "description": "DATA ENGINEER (f/m/d) At PALFINGER, we have been lifting goods to a new level for over 90 years - with a pioneering and passionate spirit. As a global technology and engineering company, we are the world's leading manufacturer and supplier of innovative crane and lifting solutions. Our success is based on the tireless efforts of our approximately 12,350 employees, who contribute their ideas and energy to our vision. With us, you can expect a dynamic working environment full of opportunities for…",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHJaRDlzczg4UkctR3I5OU5tV2NiQSIsImkiOiI1Njk2MzE0ODk5In0.hayW5lpwoiUhD0VMyKx1-XENy5aCO974MQQwMLMa_7g",
     "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5NjMxNDg5OSIsInMiOiJ1TnRmc3dBOThSRy1Hcjk5Tm1XY2JBIn0.ONdwC2cknehgyyT7_jwH90SGWAfow6UitcEkLVrsnbs",
     "title": "DATA ENGINEER (f/m/d)",
     "redirect_url": "https://www.adzuna.at/details/5696314899?utm_medium=api&utm_source=9fef4eac",
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
+    "company": "PALFINGER AG",
+    "description": "DATA ENGINEER (f/m/d) At PALFINGER, we have been lifting goods to a new level for over 90 years - with a pioneering and passionate spirit. As a global technology and engineering company, we are the world's leading manufacturer and supplier of innovative crane and lifting solutions. Our success is based on the tireless efforts of our approximately 12,350 employees, who contribute their ideas and energy to our vision. With us, you can expect a dynamic working environment full of opportunities for…",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
     "_country": "at",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Österreich"
   },
   {
     "salary_is_predicted": "0",
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "Österreich",
-        "Salzburg",
-        "Salzburg-Umgebung",
-        "Anif"
-      ],
-      "display_name": "Anif, Salzburg-Umgebung"
-    },
-    "category": {
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "tag": "unknown",
-      "label": "Unknown"
-    },
-    "id": "5672690972",
-    "created": "2026-03-20T04:04:39Z",
-    "redirect_url": "https://www.adzuna.at/details/5672690972?utm_medium=api&utm_source=9fef4eac",
-    "title": "Data Engineer (m/w/d)",
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHJaRDlzczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NjcyNjkwOTcyIn0.iOGOI7kmDBCTEjxn8mMdXHc-rvuTxh3VAd7UwltMbDc",
-    "description": "Data Engineer (m/w/d) Festanstellung, Vollzeit · Anif Your mission We are looking for a Data Engineer with strong software development skills to join our Data Warehouse team. In this role, you will design, build, and maintain scalable data pipelines and real-time analytics systems that power data-driven decision making across the organization. You will work with modern data architecture, event-driven systems, and high-performance analytical databases to process and analyze large-scale datasets.…",
-    "longitude": 13.065028,
-    "latitude": 47.749376,
-    "company": {
-      "display_name": "Axess AG",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
-    "_country": "at",
-    "_source": "adzuna_api"
-  },
-  {
-    "salary_is_predicted": "0",
-    "location": {
-      "area": [
-        "Österreich"
-      ],
-      "display_name": "Österreich",
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
+    "location": "Wien, Österreich",
     "category": {
       "label": "Unknown",
       "tag": "unknown",
       "__CLASS__": "Adzuna::API::Response::Category"
     },
-    "created": "2026-04-09T05:10:41Z",
-    "id": "5694117544",
-    "description": "Data Engineer (w/m/d) Porsche Informatik GmbH Salzburg Vollzeit Nach Vereinbarung Wir möchten die Welt bewegen Mit 150 Business Services in 30 Ländern auf vier Kontinenten ist die Porsche Informatik international aufgestellt. Über 900 Spezialist:innen treiben gemeinsam die Digitalisierung des Automobilhandels voran. Wir verbinden jahrzehntelanges Know-how in IT und Autohandel mit einer ganzheitlichen Vision für die digitale Transformation, die unsere Branche aktuell prägt. Klingt spannend für d…",
-    "company": {
-      "display_name": "Porsche Holding",
-      "__CLASS__": "Adzuna::API::Response::Company"
+    "id": "5656488646",
+    "created": "2026-03-06T20:00:45Z",
+    "description": "Die Styria Digital Services treibt die digitale Transformation der Styria Media Group AG voran - und Daten spielen dabei eine Schlüsselrolle. Du möchtest als Data Engineer (m/w/x) moderne Datenpipelines entwickeln, Plattformen optimieren und die technische Grundlage für die Medienwelt von morgen schaffen? Dann komm zu uns ins Team. Data Engineer (m/w/x) Wien, Vollzeit (38,5 Stunden/Gleitzeit) Was diesen Job ausmacht Du entwirfst, optimierst und wartest Datenpipelines, die BI-Berichte und intern…",
+    "longitude": 16.354031,
+    "latitude": 48.208144,
+    "company": "Styria Digital Services GmbH",
+    "redirect_url": "https://www.adzuna.at/details/5656488646?utm_medium=api&utm_source=9fef4eac",
+    "title": "Data Engineer (m/w/x)",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidU50ZnN3QTk4UkctR3I5OU5tV2NiQSIsImkiOiI1NjU2NDg4NjQ2In0.1-Z6sDBeiIf_WtPtcJRI8VXApLt6NvP9xWGPk18fktw",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
+    "_country": "at",
+    "_source": "adzuna_api",
+    "city": "Wien"
+  },
+  {
+    "longitude": 13.065028,
+    "description": "Data Engineer (m/w/d) Festanstellung, Vollzeit · Anif Your mission We are looking for a Data Engineer with strong software development skills to join our Data Warehouse team. In this role, you will design, build, and maintain scalable data pipelines and real-time analytics systems that power data-driven decision making across the organization. You will work with modern data architecture, event-driven systems, and high-performance analytical databases to process and analyze large-scale datasets.…",
+    "company": "Axess AG",
+    "latitude": 47.749376,
+    "redirect_url": "https://www.adzuna.at/details/5672690972?utm_medium=api&utm_source=9fef4eac",
+    "title": "Data Engineer (m/w/d)",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY3MjY5MDk3MiIsInMiOiJ1TnRmc3dBOThSRy1Hcjk5Tm1XY2JBIn0.xUJUkyZlWlVQ3el-mCjTt_aIGfomcJO0qD-Xn0-l12w",
+    "salary_is_predicted": "0",
+    "location": "Anif, Salzburg-Umgebung",
+    "category": {
+      "label": "Unknown",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "unknown"
     },
+    "created": "2026-03-20T04:04:39Z",
+    "id": "5672690972",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
+    "_country": "at",
+    "_source": "adzuna_api",
+    "city": "Anif"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5NDExNzU0NCIsInMiOiJ1TnRmc3dBOThSRy1Hcjk5Tm1XY2JBIn0.aELDJPT8_OhBd-kSojr8uSbCf5rEyI0DyWTkABbW5DU",
+    "__CLASS__": "Adzuna::API::Response::Job",
     "redirect_url": "https://www.adzuna.at/details/5694117544?utm_medium=api&utm_source=9fef4eac",
     "title": "Data Engineer (w/m/d)",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5NDExNzU0NCIsInMiOiIwclpEOXNzODhSRy1Hcjk5Tm1XY2JBIn0.yMyVenYpq0SeJcGHq8DMbfoKWzaCmVWTIKmdGqwfEXQ",
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
+    "company": "Porsche Holding",
+    "description": "Data Engineer (w/m/d) Porsche Informatik GmbH Salzburg Vollzeit Nach Vereinbarung Wir möchten die Welt bewegen Mit 150 Business Services in 30 Ländern auf vier Kontinenten ist die Porsche Informatik international aufgestellt. Über 900 Spezialist:innen treiben gemeinsam die Digitalisierung des Automobilhandels voran. Wir verbinden jahrzehntelanges Know-how in IT und Autohandel mit einer ganzheitlichen Vision für die digitale Transformation, die unsere Branche aktuell prägt. Klingt spannend für d…",
+    "category": {
+      "label": "Unknown",
+      "tag": "unknown",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5694117544",
+    "created": "2026-04-09T05:10:41Z",
+    "salary_is_predicted": "0",
+    "location": "Österreich",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
     "_country": "at",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Österreich"
   },
   {
-    "latitude": 46.626992,
-    "company": {
-      "display_name": "Anexia Internetdienstleistungs",
-      "__CLASS__": "Adzuna::API::Response::Company"
+    "salary_is_predicted": "0",
+    "location": "Klagenfurt, Kärnten",
+    "category": {
+      "label": "Kundendienststellen",
+      "tag": "customer-services-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
     },
+    "created": "2026-03-14T22:31:49Z",
+    "id": "5665789869",
     "description": "Wir bei Anexia übernehmen jeden Tag Verantwortung für alle Herausforderungen der digitalen Welt. Denn wir verstehen uns als die „Digital Transformation Engine“. Wie uns das gelingt? Ganz einfach. Wir sind eine Familie von Möglichmacher:innen und Neu-Denker:innen. Wir können, wir wollen und wir dürfen auch. Und das macht uns einzigartig! Willst Du ein Teil unserer digitalen Revolution werden und mit uns gemeinsam Geschichte schreiben? joinourrevolution DATA ENGINEER (M/W/D) Klagenfurt, Graz | Vo…",
     "longitude": 14.311078,
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHJaRDlzczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NjY1Nzg5ODY5In0.b8yvdUnIQXSsOlo61SS_YzOxAOwzsYNlxC5EfOup8sw",
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "title": "Data Engineer (M/W/D)",
-    "redirect_url": "https://www.adzuna.at/details/5665789869?utm_medium=api&utm_source=9fef4eac",
+    "latitude": 46.626992,
+    "company": "Anexia Internetdienstleistungs",
     "contract_time": "full_time",
-    "id": "5665789869",
-    "created": "2026-03-14T22:31:49Z",
-    "category": {
-      "tag": "customer-services-jobs",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "label": "Kundendienststellen"
-    },
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "Österreich",
-        "Kärnten",
-        "Klagenfurt"
-      ],
-      "display_name": "Klagenfurt, Kärnten"
-    },
-    "salary_is_predicted": "0",
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
+    "redirect_url": "https://www.adzuna.at/details/5665789869?utm_medium=api&utm_source=9fef4eac",
+    "title": "Data Engineer (M/W/D)",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidU50ZnN3QTk4UkctR3I5OU5tV2NiQSIsImkiOiI1NjY1Nzg5ODY5In0.YhZC-PZybkOFDifqam9W3c5ilFweQ89ge_UOcg1-8kc",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
     "_country": "at",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Klagenfurt"
   },
   {
-    "contract_time": "full_time",
-    "redirect_url": "https://www.adzuna.at/details/5664975115?utm_medium=api&utm_source=9fef4eac",
-    "title": "Data Engineer (m/w/d)",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHJaRDlzczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NjY0OTc1MTE1In0.NVr0heQ4z4mZ2_M5kV57oqjqxTG73n51zNbr3SDi7Oo",
     "__CLASS__": "Adzuna::API::Response::Job",
-    "longitude": 13.065028,
-    "description": "Your mission We are looking for a Data Engineer with strong software development skills to join our Data Warehouse team. In this role, you will design, build, and maintain scalable data pipelines and real-time analytics systems that power data-driven decision making across the organization. You will work with modern data architecture, event-driven systems, and high-performance analytical databases to process and analyze large-scale datasets. Your tasks: Design, develop, and maintain scalable ET…",
-    "company": {
-      "display_name": "Designa-Axess Industries Holding GmbH",
-      "__CLASS__": "Adzuna::API::Response::Company"
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidU50ZnN3QTk4UkctR3I5OU5tV2NiQSIsImkiOiI1NjUwODIyODc1In0.jlPWzZ9ligDci904tvNtS5eqMVQv8jEpuudO07q3HLI",
+    "title": "Data Engineer (w/m/d)",
+    "redirect_url": "https://www.adzuna.at/details/5650822875?utm_medium=api&utm_source=9fef4eac",
+    "company": "WienIT GmbH",
+    "latitude": 48.208144,
+    "longitude": 16.354031,
+    "description": "Data Engineer (w/m/d) Vollzeit, unbefristet Jetzt bewerben WienIT ist der digitale Backbone der Wiener Stadtwerke-Gruppe. Ob IT-Pionierarbeit, Personalprozesse oder Print-Jobs: Wir digitalisieren die, die Wien zur l(i)ebenswertesten Stadt der Welt machen. Mit smarten Services halten wir die Dinge im Hintergrund am Laufen - und sind lowkey da für Wien, lowkey da für dich. Das erwartet dich * Integration und Transformation von Energiedaten aus diversen Quellen sowie Sicherstellung von Datenqualit…",
+    "created": "2026-03-02T04:42:04Z",
+    "id": "5650822875",
+    "category": {
+      "label": "Unknown",
+      "tag": "unknown",
+      "__CLASS__": "Adzuna::API::Response::Category"
     },
-    "latitude": 47.749376,
+    "location": "Wien, Österreich",
     "salary_is_predicted": "0",
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "Österreich",
-        "Salzburg",
-        "Salzburg-Umgebung",
-        "Anif"
-      ],
-      "display_name": "Anif, Salzburg-Umgebung"
-    },
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
+    "_country": "at",
+    "_source": "adzuna_api",
+    "city": "Wien"
+  },
+  {
+    "description": "Data Engineer (w/m/d) Turning Data Into Value 30.03.2026 Job-Nr.: 216314 Jetzt Bewerben Du jonglierst gerne mit Daten, statt mit Buzzwords? In einem international aufgestellten IT-Consulting-Umfeld baust du skalierbare Datenplattformen, bringst Ordnung ins Datenchaos und verwandelst Rohdaten in echten Business-Mehrwert Kleiner Spoiler: Viele Firmen nehmen DICH mit Handkuss. Wien Data Science, BI & DWH Aufgabengebiet * Du entwirfst und entwickelst skalierbare Datenplattformen, damit Entscheidung…",
+    "longitude": 16.354031,
+    "latitude": 48.208144,
+    "company": "KERN engineering careers GmbH",
+    "redirect_url": "https://www.adzuna.at/details/5653485196?utm_medium=api&utm_source=9fef4eac",
+    "title": "Data Engineer (w/m/d)",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY1MzQ4NTE5NiIsInMiOiJ1TnRmc3dBOThSRy1Hcjk5Tm1XY2JBIn0.WqldmwODYd4a-JkBsRT8j9uQ6MT88ZckX3mL-hDmxj4",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "0",
+    "location": "Wien, Österreich",
     "category": {
       "label": "Unknown",
       "__CLASS__": "Adzuna::API::Response::Category",
       "tag": "unknown"
     },
-    "created": "2026-03-14T08:56:33Z",
-    "id": "5664975115",
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
+    "id": "5653485196",
+    "created": "2026-03-04T10:51:15Z",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
     "_country": "at",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Wien"
   },
   {
-    "company": {
-      "display_name": "Liebherr-Werk Nenzing GmbH",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "latitude": 47.17457,
-    "description": "Aufgaben * Design, Entwicklung, Testung und Wartung von Datenspeicherarchitekturen * Identifizierung, Design, Implementierung und Optimierung von automatisierten Datenprozessen * Aufbereitung der Rohdaten gemäß den Anforderungen der Fachabteilungen * Erzeugung von Datenzugriffsschichten für Tools bzw. Data Analyst zur Unterstützung in deren Anwendungen * Kooperation mit Fachexperten zur Erweiterung der Funktionalität der Datensysteme * Aufzeigen von Möglichkeiten zur Steigerung der Zuverlässigk…",
-    "longitude": 9.656511,
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHJaRDlzczg4UkctR3I5OU5tV2NiQSIsImkiOiI1MzE3NzI3MDk4In0.vEe6PY-vOeCqbwUSxBYoqR8fWV_PiCxPv7lukh42kRw",
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "redirect_url": "https://www.adzuna.at/details/5317727098?utm_medium=api&utm_source=9fef4eac",
     "title": "Data Engineer (m/w/d)",
-    "category": {
-      "tag": "unknown",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "label": "Unknown"
-    },
-    "created": "2025-07-23T09:06:02Z",
-    "id": "5317727098",
-    "salary_is_predicted": "0",
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "display_name": "Nenzing, Bludenz",
-      "area": [
-        "Österreich",
-        "Vorarlberg",
-        "Bludenz",
-        "Nenzing"
-      ]
-    },
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
-    "_country": "at",
-    "_source": "adzuna_api"
-  },
-  {
-    "longitude": 16.354031,
-    "description": "Data Platform Engineer (m/w/d) Wien Vollzeit Homeoffice smart bewerben Als Bank des Landes Oberösterreich sind wir ein stabiler und zugleich fortschrittlicher Partner unserer Kund*innen. Unser Ziel: die Chancen der Digitalisierung gezielt nutzen, um datenbasierte Entscheidungen, neue Erkenntnisse und intelligente Services zu ermöglichen. Daten sind unser wertvollstes Gut. Zur Verstärkung unseres Teams Unternehmensentwicklung & Innovation suchen wir eine engagierte und motivierte Persönlichkeit,…",
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "HYPO Oberösterreich"
-    },
-    "latitude": 48.208144,
-    "redirect_url": "https://www.adzuna.at/land/ad/5697786343?se=0rZD9ss88RG-Gr99NmWcbA&utm_medium=api&utm_source=9fef4eac&v=E8B1FE96F80D6DF03829051E7A35B625C3A3A8D3",
-    "title": "Data Platform Engineer (m/w/d)",
+    "redirect_url": "https://www.adzuna.at/details/5664975115?utm_medium=api&utm_source=9fef4eac",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidU50ZnN3QTk4UkctR3I5OU5tV2NiQSIsImkiOiI1NjY0OTc1MTE1In0.UiMjJ9hnxYyXthCqKfY4IKzoFGK9lDmuAvKvJ3PQWr4",
     "__CLASS__": "Adzuna::API::Response::Job",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5Nzc4NjM0MyIsInMiOiIwclpEOXNzODhSRy1Hcjk5Tm1XY2JBIn0.CP3iW3umasZxrken4rO4UHrvED5_DlpEfWJZqrQyr34",
+    "description": "Your mission We are looking for a Data Engineer with strong software development skills to join our Data Warehouse team. In this role, you will design, build, and maintain scalable data pipelines and real-time analytics systems that power data-driven decision making across the organization. You will work with modern data architecture, event-driven systems, and high-performance analytical databases to process and analyze large-scale datasets. Your tasks: Design, develop, and maintain scalable ET…",
+    "longitude": 13.065028,
+    "company": "Designa-Axess Industries Holding GmbH",
+    "latitude": 47.749376,
+    "location": "Anif, Salzburg-Umgebung",
     "salary_is_predicted": "0",
-    "location": {
-      "display_name": "Wien, Österreich",
-      "area": [
-        "Österreich",
-        "Wien"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
+    "id": "5664975115",
+    "created": "2026-03-14T08:56:33Z",
     "category": {
       "tag": "unknown",
       "__CLASS__": "Adzuna::API::Response::Category",
       "label": "Unknown"
     },
-    "id": "5697786343",
-    "created": "2026-04-13T04:06:10Z",
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
     "_country": "at",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Anif"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTMxNzcyNzA5OCIsInMiOiJ1TnRmc3dBOThSRy1Hcjk5Tm1XY2JBIn0.edx3wvQZX_vYbJmcX5vlzpKssCjALr5xzndxuNhMl9U",
+    "title": "Data Engineer (m/w/d)",
+    "redirect_url": "https://www.adzuna.at/details/5317727098?utm_medium=api&utm_source=9fef4eac",
+    "company": "Liebherr-Werk Nenzing GmbH",
+    "latitude": 47.17457,
+    "longitude": 9.656511,
+    "description": "Aufgaben * Design, Entwicklung, Testung und Wartung von Datenspeicherarchitekturen * Identifizierung, Design, Implementierung und Optimierung von automatisierten Datenprozessen * Aufbereitung der Rohdaten gemäß den Anforderungen der Fachabteilungen * Erzeugung von Datenzugriffsschichten für Tools bzw. Data Analyst zur Unterstützung in deren Anwendungen * Kooperation mit Fachexperten zur Erweiterung der Funktionalität der Datensysteme * Aufzeigen von Möglichkeiten zur Steigerung der Zuverlässigk…",
+    "id": "5317727098",
+    "created": "2025-07-23T09:06:02Z",
+    "category": {
+      "label": "Unknown",
+      "tag": "unknown",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "location": "Nenzing, Bludenz",
+    "salary_is_predicted": "0",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
+    "_country": "at",
+    "_source": "adzuna_api",
+    "city": "Nenzing"
   },
   {
     "salary_is_predicted": "0",
-    "title": "AI & Data Engineer (m/w/d)",
+    "salary_max": 3843,
+    "company": "solvistas Österreich",
+    "description": "AI & Data Engineer (m/w/d)Wien, Linz / Vollzeit, Teilzeit ab 30 Stunden/WocheBei solvistas verbinden wir technologische Exzellenz mit datengetriebener Innovation. Unser Ziel ist es, Unternehmen da",
     "salary_min": 3175,
     "contract_time": "full_time",
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "solvistas Österreich"
+    "title": "AI & Data Engineer (m/w/d)",
+    "category": {
+      "tag": "unknown",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Unknown"
     },
-    "salary_max": 3843,
-    "description": "AI & Data Engineer (m/w/d)Wien, Linz / Vollzeit, Teilzeit ab 30 Stunden/WocheBei solvistas verbinden wir technologische Exzellenz mit datengetriebener Innovation. Unser Ziel ist es, Unternehmen da",
     "id": "5518308417",
     "created": "2025-11-28T19:48:28Z",
-    "category": {
-      "label": "Unknown",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "tag": "unknown"
-    },
-    "location": {
-      "area": [
-        "Österreich",
-        "Oberösterreich",
-        "Linz"
-      ],
-      "display_name": "Linz, Oberösterreich",
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHJaRDlzczg4UkctR3I5OU5tV2NiQSIsImkiOiI1NTE4MzA4NDE3In0.OWUm1AjRgHQjSyfOhaTZLw8WJGgv9pKGJRqToEcECY8",
-    "redirect_url": "https://www.adzuna.at/details/5518308417?utm_medium=api&utm_source=9fef4eac",
+    "location": "Linz, Oberösterreich",
     "latitude": 48.290256,
     "longitude": 14.293495,
-    "_ingested_at": "2026-04-20T15:10:33.560805+00:00",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidU50ZnN3QTk4UkctR3I5OU5tV2NiQSIsImkiOiI1NTE4MzA4NDE3In0.D4hsVpCQGi2bOw_qvJWaae1DWaRwAzd7wDREzi6pEs0",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.at/details/5518308417?utm_medium=api&utm_source=9fef4eac",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
     "_country": "at",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Linz"
+  },
+  {
+    "title": "Senior Data Engineer (w/m/x)",
+    "redirect_url": "https://www.adzuna.at/details/5658057241?utm_medium=api&utm_source=9fef4eac",
+    "contract_time": "full_time",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY1ODA1NzI0MSIsInMiOiJ1TnRmc3dBOThSRy1Hcjk5Tm1XY2JBIn0.tq1063p9WNn0iNPHF8qEIGX5HUw_3OThTJd5d-DaKqc",
+    "longitude": 16.25173,
+    "description": "Wer wir sind:EBG MedAustron ist ein österreichweit einzigartiges Krebsbehandlungs- und Forschungszentrum in Wiener Neustadt. Eine innovative Form der Strahlentherapie, die Ionentherapie, kommt bei Me",
+    "company": "EBG MedAustron",
+    "latitude": 47.794207,
+    "location": "Wiener Neustadt, Niederösterreich",
+    "salary_is_predicted": "0",
+    "id": "5658057241",
+    "created": "2026-03-07T22:28:33Z",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "unknown",
+      "label": "Unknown"
+    },
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
+    "_country": "at",
+    "_source": "adzuna_api",
+    "city": "Wiener Neustadt"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidU50ZnN3QTk4UkctR3I5OU5tV2NiQSIsImkiOiI1Njk2MjczNzIxIn0.byrQOEYZNQVl0WEO1rPtdqtqRdBh9mp0Ls_VbrE3e_U",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.at/details/5696273721?utm_medium=api&utm_source=9fef4eac",
+    "title": "(Junior) Data Engineer CRM (m/f/x)",
+    "company": "REWE International IT",
+    "latitude": 48.208144,
+    "description": "Job Description Planning, development and implementation of an optimal data architecture to provide a high-quality basis for use cases in the field of analytics and reporting Cooperation with analysts, product managers and backend developers to understand and implement data requirements Support in designing and creating new data extraction, transformation and loading processes from different data sources (on-prem & cloud) Build and optimize data pipelines and transformation workflows to support…",
+    "longitude": 16.354031,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT-Stellen"
+    },
+    "created": "2026-04-11T04:22:43Z",
+    "id": "5696273721",
+    "salary_is_predicted": "0",
+    "location": "Wien, Österreich",
+    "_ingested_at": "2026-04-20T21:28:05.229200+00:00",
+    "_country": "at",
+    "_source": "adzuna_api",
+    "city": "Wien"
   }
 ]

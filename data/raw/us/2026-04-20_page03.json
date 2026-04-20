@@ -1,1779 +1,1252 @@
 [
   {
-    "longitude": -122.180281,
-    "category": {
-      "tag": "it-jobs",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "label": "IT Jobs"
-    },
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQmhmWjc4czg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NjkyMTkyNzM5In0.cYdswnnMBfptbU1uA1llFtL3yLGHFQfVN2NqL5jcSLg",
-    "created": "2026-04-07T12:14:47Z",
-    "id": "5692192739",
-    "salary_is_predicted": "1",
-    "title": "Data Engineer, BPE",
-    "salary_min": 211492.69,
-    "company": {
-      "display_name": "Meta Platforms, Inc. ",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "location": {
-      "display_name": "Menlo Park, San Mateo County",
-      "area": [
-        "US",
-        "California",
-        "San Mateo County",
-        "Menlo Park"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
-    "description": "Meta Platforms, Inc. (f/k/a Facebook, Inc.) has the following positions in Menlo Park, CA Data Engineer, BPE: Design, model, and implement data warehousing activities to deliver the data foundation that drives impact through informed decision making. (ref. code REQ-2603-160187: $214,228/year to $240,460/year). Individual pay is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base salary only, and do not include bonus or equ…",
-    "redirect_url": "https://www.adzuna.com/land/ad/5692192739?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=8231FA74CD2976F5778BD70E2B83618FCC9A180D",
-    "latitude": 37.448491,
-    "salary_max": 211492.69,
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "salary_min": 225304.2,
-    "title": "Data Engineer, Analytics",
-    "id": "5692193125",
-    "created": "2026-04-07T12:14:50Z",
-    "salary_is_predicted": "1",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5MjE5MzEyNSIsInMiOiJCaGZaNzhzODhSR19ySzdKalFjd0hnIn0.dLH-hgKrucezbqh_GkU-Pyo1otZYUIJ9ljDpLoDsLYs",
+    "redirect_url": "https://www.adzuna.com/land/ad/5649187367?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=7410D2F6F133E17321663C5FAB6BD959E6F6F9C7",
+    "description": "Overview What You'll Be Doing Cadmus is seeking a Data Engineer to support one of our commercial customers in the media space. This team supports vital Ads engineering and data needs for a major auto advertising platform using big data technologies. They are looking for an engineer to work with their team who enjoys building and supporting a future vision of demystifying advertisement performance data. The current program involves a migration of ETL from their Google cloud platform to an AWS pl…",
+    "longitude": -157.8465,
+    "salary_max": 92372.73,
+    "salary_min": 92372.73,
     "category": {
       "label": "IT Jobs",
       "__CLASS__": "Adzuna::API::Response::Category",
       "tag": "it-jobs"
     },
-    "salary_max": 225304.2,
-    "description": "Meta Platforms, Inc. (f/k/a Facebook, Inc.) has the following positions in Menlo Park, CA Data Engineer, Analytics: Design, model, and implement data warehousing activities to deliver the data foundation that drives impact through informed decision making. Telecommuting from anywhere in the U.S. allowed. (ref. code REQ-2603-159900: $206,814/year to $240,460/year). Individual pay is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflec…",
-    "redirect_url": "https://www.adzuna.com/land/ad/5692193125?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=8BB9E767C857870DA5FEC7A4F78874EF9E3FA65D",
-    "location": {
-      "display_name": "US",
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "US"
-      ]
-    },
+    "location": "Wake Island, Honolulu",
+    "id": "5649187367",
+    "salary_is_predicted": "1",
+    "title": "Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0OTE4NzM2NyIsInMiOiI4al9jckFBOThSRzdtdG9WdktteEd3In0.WePGBnkau2sLGx-OzuckPd2DXJ2wvET9YbQJh7qlweE",
+    "created": "2026-02-28T19:37:54Z",
+    "company": "Cadmus",
     "__CLASS__": "Adzuna::API::Response::Job",
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "Meta Platforms, Inc. "
-    },
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
+    "latitude": 21.3072,
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
     "_country": "us",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Wake Island"
   },
   {
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQmhmWjc4czg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NjkxMzg4OTE2In0.L54tTU41wP9WZDK073PDyPhvd15jJYU73kjkqmNIodU",
-    "longitude": -122.366083,
+    "id": "5649223411",
+    "location": "Baton Rouge, East Baton Rouge Parish",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "company": "Cadmus",
+    "created": "2026-02-28T19:53:14Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGpfY3JBQTk4Ukc3bXRvVnZLbXhHdyIsImkiOiI1NjQ5MjIzNDExIn0.WLHtBY31fbgR4bncduNR5KLpbtqISf3OVknjhNiQ5Og",
+    "title": "Data Engineer",
+    "salary_is_predicted": "1",
+    "description": "Overview What You'll Be Doing Cadmus is seeking a Data Engineer to support one of our commercial customers in the media space. This team supports vital Ads engineering and data needs for a major auto advertising platform using big data technologies. They are looking for an engineer to work with their team who enjoys building and supporting a future vision of demystifying advertisement performance data. The current program involves a migration of ETL from their Google cloud platform to an AWS pl…",
+    "redirect_url": "https://www.adzuna.com/land/ad/5649223411?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=D2FFC7ECEFED2EC66ECEEB094FABF0EC30194682",
+    "salary_max": 97437.2,
+    "salary_min": 97437.2,
+    "longitude": -91.130243,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 30.446919,
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Baton Rouge"
+  },
+  {
+    "latitude": 35.432646,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": "Cadmus",
+    "created": "2026-02-28T19:52:28Z",
+    "title": "Data Engineer",
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGpfY3JBQTk4Ukc3bXRvVnZLbXhHdyIsImkiOiI1NjQ5MjE3MTgyIn0.QcSIobvDtEU2_Zn2tQDwbLgOfCcJUc57LGsYvFWZ2xY",
+    "id": "5649217182",
+    "location": "Oklahoma City, Oklahoma County",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "salary_min": 98313.76,
+    "salary_max": 98313.76,
+    "longitude": -97.524283,
+    "description": "Overview What You'll Be Doing Cadmus is seeking a Data Engineer to support one of our commercial customers in the media space. This team supports vital Ads engineering and data needs for a major auto advertising platform using big data technologies. They are looking for an engineer to work with their team who enjoys building and supporting a future vision of demystifying advertisement performance data. The current program involves a migration of ETL from their Google cloud platform to an AWS pl…",
+    "redirect_url": "https://www.adzuna.com/land/ad/5649217182?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=347F5562E651CAFF47AC99F7CA59E6C26BDE1A3A",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Oklahoma City"
+  },
+  {
+    "salary_max": 101900.64,
+    "salary_min": 101900.64,
+    "longitude": -112.03544,
+    "description": "Overview What You'll Be Doing Cadmus is seeking a Data Engineer to support one of our commercial customers in the media space. This team supports vital Ads engineering and data needs for a major auto advertising platform using big data technologies. They are looking for an engineer to work with their team who enjoys building and supporting a future vision of demystifying advertisement performance data. The current program involves a migration of ETL from their Google cloud platform to an AWS pl…",
+    "redirect_url": "https://www.adzuna.com/land/ad/5649187463?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=0BE471CDC67D98E7A0DBA8717BA9A6A6901B4237",
+    "company": "Cadmus",
+    "created": "2026-02-28T19:38:05Z",
+    "salary_is_predicted": "1",
+    "title": "Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0OTE4NzQ2MyIsInMiOiI4al9jckFBOThSRzdtdG9WdktteEd3In0.LJixqpL4guwj7aF4uFvtMoOvAHfxyGfgbo_yF2NZJV0",
+    "location": "Helena, Lewis and Clark County",
+    "id": "5649187463",
     "category": {
       "label": "IT Jobs",
       "__CLASS__": "Adzuna::API::Response::Category",
       "tag": "it-jobs"
     },
-    "salary_min": 212623.58,
-    "title": "Data Engineer, Analytics",
-    "created": "2026-04-06T12:13:11Z",
-    "salary_is_predicted": "1",
-    "id": "5691388916",
+    "latitude": 46.60281,
     "__CLASS__": "Adzuna::API::Response::Job",
-    "company": {
-      "display_name": "Meta Platforms, Inc. ",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "description": "Meta Platforms, Inc. (f/k/a Facebook, Inc.) has the following positions in Burlingame, CA Data Engineer, Analytics: Design, model, and implement data warehousing activities to deliver the data foundation that drives impact through informed decision making. (ref. code REQ-2603-160148: $189,965/year to $199,650/year). Individual pay is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base salary only, and do not include bonus …",
-    "salary_max": 212623.58,
-    "redirect_url": "https://www.adzuna.com/land/ad/5691388916?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=D04C964EEF5882D6E585AA089C06198A90B6A396",
-    "latitude": 37.584103,
-    "location": {
-      "display_name": "Burlingame, San Mateo County",
-      "area": [
-        "US",
-        "California",
-        "San Mateo County",
-        "Burlingame"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
     "_country": "us",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Helena"
   },
   {
-    "description": "Meta Platforms, Inc. (f/k/a Facebook, Inc.) has the following positions in Menlo Park, CA Data Engineering Manager: Proactively drive the vision for Business Intelligence (BI) and Data Warehousing across a product vertical, and define and execute on a plan to achieve that vision. (ref. code REQ-2603-160073: $267,173/year to $284,900/year). Individual pay is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base salary only, a…",
-    "redirect_url": "https://www.adzuna.com/land/ad/5700295522?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=C94422144C548CAA3F44919D29C279BFF5049F9D",
-    "salary_max": 203304.44,
-    "latitude": 37.448491,
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "US",
-        "California",
-        "San Mateo County",
-        "Menlo Park"
-      ],
-      "display_name": "Menlo Park, San Mateo County"
-    },
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "Meta Platforms, Inc. "
-    },
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "salary_min": 203304.44,
-    "title": "Data Engineering Manager",
+    "salary_max": 95037.57,
+    "salary_min": 95037.57,
+    "longitude": -112.08293,
+    "description": "Overview What You'll Be Doing Cadmus is seeking a Data Engineer to support one of our commercial customers in the media space. This team supports vital Ads engineering and data needs for a major auto advertising platform using big data technologies. They are looking for an engineer to work with their team who enjoys building and supporting a future vision of demystifying advertisement performance data. The current program involves a migration of ETL from their Google cloud platform to an AWS pl…",
+    "redirect_url": "https://www.adzuna.com/land/ad/5649221496?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=9D6583E23021493B8FD7B6A67EC3BF1043829FC5",
+    "company": "Cadmus",
+    "created": "2026-02-28T19:52:59Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0OTIyMTQ5NiIsInMiOiI4al9jckFBOThSRzdtdG9WdktteEd3In0.nmN9Xw3kUjsvR9a1dIjwpTmyVBT3nAPtzAoQs1-16AA",
+    "title": "Data Engineer",
     "salary_is_predicted": "1",
-    "created": "2026-04-15T11:22:36Z",
-    "id": "5700295522",
-    "category": {
-      "tag": "it-jobs",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "label": "IT Jobs"
-    },
-    "longitude": -122.180281,
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMDI5NTUyMiIsInMiOiJCaGZaNzhzODhSR19ySzdKalFjd0hnIn0.uv8ribxawIc3RGpIXJrbCaaPB31LrkhjhtZEND9oXWQ",
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "salary_min": 195539.64,
-    "title": "Data Engineer, Analytics",
-    "id": "5692190001",
-    "created": "2026-04-07T12:09:21Z",
-    "salary_is_predicted": "1",
+    "location": "Phoenix, Maricopa County",
+    "id": "5649221496",
     "category": {
       "tag": "it-jobs",
       "label": "IT Jobs",
       "__CLASS__": "Adzuna::API::Response::Category"
     },
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5MjE5MDAwMSIsInMiOiJCaGZaNzhzODhSR19ySzdKalFjd0hnIn0.0qJXMM26C2oV09G8BsxhOwTus4FF-LkLRp5JyAf5SEY",
-    "description": "Meta Platforms, Inc. (f/k/a Facebook, Inc.) has the following positions in Menlo Park, CA Data Engineer, Analytics: Design, build, and launch data pipelines to move data across systems and build the next generation of data tools that generate business insights for a product. Telecommuting is permitted anywhere in U.S. (ref. code REQ-2603-159952: $223,533/year to $240,460/year). Individual pay is determined by skills, qualifications, experience, and location. Compensation details listed in this …",
-    "salary_max": 195539.64,
-    "redirect_url": "https://www.adzuna.com/land/ad/5692190001?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=54458F21D6BB06FB3C80D08403DDC238071FB471",
-    "location": {
-      "display_name": "US",
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "US"
-      ]
-    },
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "Meta Platforms, Inc. "
-    },
+    "latitude": 33.50977,
     "__CLASS__": "Adzuna::API::Response::Job",
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
     "_country": "us",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Phoenix"
   },
   {
-    "longitude": -96.9864,
+    "salary_max": 96952.13,
+    "salary_min": 96952.13,
+    "longitude": -66.0617,
+    "description": "Overview What You'll Be Doing Cadmus is seeking a Data Engineer to support one of our commercial customers in the media space. This team supports vital Ads engineering and data needs for a major auto advertising platform using big data technologies. They are looking for an engineer to work with their team who enjoys building and supporting a future vision of demystifying advertisement performance data. The current program involves a migration of ETL from their Google cloud platform to an AWS pl…",
+    "redirect_url": "https://www.adzuna.com/land/ad/5649272196?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=282755F79A9FED26DA0374806226596BF1F64928",
+    "company": "Cadmus",
+    "created": "2026-02-28T20:02:28Z",
+    "title": "Data Engineer",
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0OTI3MjE5NiIsInMiOiI4al9jckFBOThSRzdtdG9WdktteEd3In0.6GNPNsBsTqAkEidE0gcYdLZKcR8X32U_kta2nbe-YwY",
+    "location": "Urbanización El Vedado, San Juan",
+    "id": "5649272196",
     "category": {
       "label": "IT Jobs",
       "__CLASS__": "Adzuna::API::Response::Category",
       "tag": "it-jobs"
     },
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY4MDM1NjU1NCIsInMiOiJCaGZaNzhzODhSR19ySzdKalFjd0hnIn0.CjC79XsYm-xMY3pP06Dpz-YS37DIt0hWQJ90BCw0jAA",
-    "id": "5680356554",
-    "created": "2026-03-27T10:11:21Z",
-    "salary_is_predicted": "1",
-    "salary_min": 143458.39,
-    "title": "Principal Data Engineer",
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "DTCC"
-    },
+    "latitude": 18.417087,
     "__CLASS__": "Adzuna::API::Response::Job",
-    "location": {
-      "display_name": "Coppell, Dallas",
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "US",
-        "Texas",
-        "Dallas",
-        "Coppell"
-      ]
-    },
-    "description": "Are you ready to make an impact at DTCC? Do you want to work on innovative projects, collaborate with a dynamic and supportive team, and receive investment in your professional development? At DTCC, we are at the forefront of innovation in the financial markets. We are committed to helping our employees grow and succeed. We believe that you have the skills and drive to make a real impact. We foster a thriving internal community and are committed to creating a workplace that looks like the world…",
-    "salary_max": 143458.39,
-    "redirect_url": "https://www.adzuna.com/land/ad/5680356554?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=9F31DB411AF3D40848276C73BFABB8BE038CA606",
-    "latitude": 32.9659,
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
     "_country": "us",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Urbanización El Vedado"
   },
   {
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "company": {
-      "display_name": "DTCC",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "redirect_url": "https://www.adzuna.com/land/ad/5680353278?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=455703638C4E1FBBB305EE04DA265B6778B90AA0",
-    "description": "Are you ready to make an impact at DTCC? Do you want to work on innovative projects, collaborate with a dynamic and supportive team, and receive investment in your professional development? At DTCC, we are at the forefront of innovation in the financial markets. We are committed to helping our employees grow and succeed. We believe that you have the skills and drive to make a real impact. We foster a thriving internal community and are committed to creating a workplace that looks like the world…",
-    "latitude": 40.7282,
-    "salary_max": 166660.17,
-    "location": {
-      "display_name": "Five Corners, Hudson County",
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "US",
-        "New Jersey",
-        "Hudson County",
-        "Five Corners"
-      ]
-    },
+    "created": "2026-03-30T21:09:50Z",
+    "company": "System One",
+    "title": "Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGpfY3JBQTk4Ukc3bXRvVnZLbXhHdyIsImkiOiI1NjgzNzM3NDc0In0.9S2iSdkDNyetPGfF-gwNIV9uhlfBB9BIRokk50R05LE",
+    "salary_is_predicted": "1",
+    "location": "Minneapolis, Hennepin County",
+    "id": "5683737474",
     "category": {
       "__CLASS__": "Adzuna::API::Response::Category",
       "label": "IT Jobs",
       "tag": "it-jobs"
     },
-    "longitude": -74.0784,
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY4MDM1MzI3OCIsInMiOiJCaGZaNzhzODhSR19ySzdKalFjd0hnIn0.0TeAxaCu0-_qXRuAk0bIOz--StrXppcCuk9WeBTvmG4",
-    "title": "Principal Data Engineer",
-    "salary_min": 166660.17,
-    "created": "2026-03-27T10:10:16Z",
-    "salary_is_predicted": "1",
-    "id": "5680353278",
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "created": "2026-03-27T10:10:16Z",
-    "salary_is_predicted": "1",
-    "id": "5680353277",
-    "salary_min": 160946.11,
-    "title": "Principal Data Engineer",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQmhmWjc4czg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NjgwMzUzMjc3In0.8j-OsCK_FmGC2CeLm40crg47O06Gb39Y5MaScVhV_70",
-    "longitude": -82.36277,
-    "category": {
-      "tag": "it-jobs",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "label": "IT Jobs"
-    },
-    "location": {
-      "display_name": "Tampa Palms, Hillsborough County",
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "US",
-        "Florida",
-        "Hillsborough County",
-        "Tampa Palms"
-      ]
-    },
-    "description": "Are you ready to make an impact at DTCC? Do you want to work on innovative projects, collaborate with a dynamic and supportive team, and receive investment in your professional development? At DTCC, we are at the forefront of innovation in the financial markets. We are committed to helping our employees grow and succeed. We believe that you have the skills and drive to make a real impact. We foster a thriving internal community and are committed to creating a workplace that looks like the world…",
-    "salary_max": 160946.11,
-    "redirect_url": "https://www.adzuna.com/land/ad/5680353277?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=1FC97E4B48A19033AF2CCAEECDC901E6FF1769BC",
-    "latitude": 28.1164,
+    "salary_max": 171940.38,
+    "salary_min": 171940.38,
+    "longitude": -93.3059,
+    "description": "Job Title: Data Engineer Location: Minneapolis, MN Job Summary: System one is seeking a Data Engineer in Minneapolis, MN to help lead the development of our enterprise data warehouse. You will be the primary engine behind our Medallion Architecture, responsible for the transformation of data from Raw to Delta to Conformed to Star Schema. Responsibilities:  End-to-End Pipeline Ownership: Build and optimize high-throughput ETL/ELT workflows using MS-SQL Server, ensuring seamless data flow across …",
+    "redirect_url": "https://www.adzuna.com/land/ad/5683737474?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=2CEB9971DBA1819131EF5B8BBFC166F19AEFF189",
+    "latitude": 44.9745,
     "__CLASS__": "Adzuna::API::Response::Job",
-    "company": {
-      "display_name": "DTCC",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
     "_country": "us",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Minneapolis"
   },
   {
-    "location": {
-      "area": [
-        "US"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "display_name": "US"
-    },
-    "description": "*]:pointer-events-auto scroll-mt-[calc(var(header-height)min(200px,max(70px,20svh)))]\" dir=\"auto\" data-turn-id=\"request-WEB:996c6f49-f0ff-4c2f-b435-b28e104dc617-2\" data-testid=\"conversation-turn-6\" data-scroll-anchor=\"false\" data-turn=\"assistant\"> Job Summary *]:pointer-events-auto scroll-mt-[calc(var(header-height)min(200px,max(70px,20svh)))]\" dir=\"auto\" data-turn-id=\"request-WEB:996c6f49-f0ff-4c2f-b435-b28e104dc617-3\" data-testid=\"conversation-turn-8\" data-scroll-anchor=\"true\" data-turn=\"assi…",
-    "redirect_url": "https://www.adzuna.com/land/ad/5686291227?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=5C12D3C62821360A5E2B0CA17BD5F9BC0E1E4A22",
-    "salary_max": 97921.5,
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "Aristek Consulting"
-    },
+    "latitude": 42.356644,
     "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -71.065917,
+    "salary_min": 73593.38,
+    "salary_max": 73593.38,
+    "redirect_url": "https://www.adzuna.com/land/ad/5695130429?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=775FA458B9D660BD444193B9893FECEDE8D4A1FB",
+    "description": "What distinguishes this opportunity? At John Hancock Manulife, we are devoted to nurturing an environment where your skills and ambitions can prosper. As a Data Engineer, you will have a key role in constructing and managing our data systems and architecture. This versatile role, situated in Boston, MA, delivers an optimum mix of hybrid flexibility and collaborative in-person interactions, empowering you to succeed personally and professionally. This role is located in Boston and has a Hybrid M…",
+    "title": "Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5NTEzMDQyOSIsInMiOiI4al9jckFBOThSRzdtdG9WdktteEd3In0.tDFKzggi1oWln1fQOHwy4Jw8FHXjXLNFKilf0lo1q3k",
     "salary_is_predicted": "1",
-    "created": "2026-04-01T16:59:31Z",
-    "id": "5686291227",
-    "salary_min": 97921.5,
-    "title": "Senior Data Engineer",
-    "category": {
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "label": "IT Jobs",
-      "tag": "it-jobs"
-    },
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY4NjI5MTIyNyIsInMiOiJCaGZaNzhzODhSR19ySzdKalFjd0hnIn0.FPwRKtQC-v2jqUHjI43K7lWAQqxTXOaymNRK_FNWtfE",
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "Penske Truck Leasing"
-    },
-    "location": {
-      "display_name": "Beachwood, Cuyahoga County",
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "US",
-        "Ohio",
-        "Cuyahoga County",
-        "Beachwood"
-      ]
-    },
-    "description": "Data Engineer I - (ETL Development) Location: Beachwood, OH Shift: Monday - Friday 8am - 5pm (onsite 4 days a week) As a Penske Data Engineer I you will be responsible for building, maintaining, and organizing the infrastructure that enables Penske to leverage data effectively. You will function in a project/technical leadership role and will complete high-level and technical systems design for new and enhanced systems. You will also conduct software testing and provide support to end users for…",
-    "redirect_url": "https://www.adzuna.com/land/ad/5680351936?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=74A6CD9C3E1D37D5B33E2937FB35B2DFF44417DC",
-    "latitude": 41.47086,
-    "salary_max": 130542.89,
-    "category": {
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "label": "IT Jobs",
-      "tag": "it-jobs"
-    },
-    "longitude": -81.50982,
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQmhmWjc4czg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NjgwMzUxOTM2In0._Ftx_8JmS-Sg0IVw8otXCq0Mqxiy_3GMfgrOESC8qaw",
-    "id": "5680351936",
-    "created": "2026-03-27T10:09:57Z",
-    "salary_is_predicted": "1",
-    "title": "Data Engineer I",
-    "salary_min": 130542.89,
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQmhmWjc4czg4Ukdfcks3SmpRY3dIZyIsImkiOiI1Njk4NTIwOTczIn0.kNB_DOqddMcoyg3W-mKtJvWa_OXITCDozO2JKMhIfrQ",
-    "longitude": -77.1537,
-    "category": {
-      "tag": "it-jobs",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "label": "IT Jobs"
-    },
-    "title": "AI Data Engineer",
-    "salary_min": 105950.2,
-    "created": "2026-04-13T21:30:21Z",
-    "salary_is_predicted": "1",
-    "id": "5698520973",
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "Software Guidance & Assistance"
-    },
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "description": "Software Guidance & Assistance, Inc., (SGA), is searching for an AI Data Engineer for a contract assignment with one of our premier Regulatory clients. Must sit in one of these office locations: Rockville MD or Tysons VA. Implements data pipelines and retrieval systems for a generative AI platform. Responsible for ingesting, transforming, and indexing domain content to enable accurate, grounded responses from AI-powered applications. Collaborates with agent developers and platform engineers to …",
-    "redirect_url": "https://www.adzuna.com/land/ad/5698520973?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=9EE5186331CA816B61F46738089D1833B93B7626",
-    "latitude": 39.084,
-    "salary_max": 105950.2,
-    "location": {
-      "display_name": "Derwood, Montgomery County",
-      "area": [
-        "US",
-        "Maryland",
-        "Montgomery County",
-        "Derwood"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "salary_is_predicted": "1",
-    "created": "2026-04-09T22:56:16Z",
-    "id": "5695216681",
-    "salary_min": 110816.41,
-    "title": "Lead Data Engineer",
-    "category": {
-      "tag": "it-jobs",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "label": "IT Jobs"
-    },
-    "longitude": -82.965488,
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5NTIxNjY4MSIsInMiOiJCaGZaNzhzODhSR19ySzdKalFjd0hnIn0.RJTD1qHVH0AjMELve8hLRBMdYM7ejoYHKLvt0exCP4g",
-    "location": {
-      "display_name": "Minerva Park, Franklin County",
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "US",
-        "Ohio",
-        "Franklin County",
-        "Minerva Park"
-      ]
-    },
-    "description": "Description CANDIDATES MUST BE ELIGIBLE TO WORK ON W2. Summary: The Data Engineer Lead plays a pivotal role in building and operationalizing the minimally inclusive data necessary for the enterprise data and analytics initiatives following industry standard practices and tools, as well as, being interested in leading and developing current team members, while also serving as a technical leader. This position primarily leads the building, managing and optimizing data pipelines and then moving th…",
-    "latitude": 40.041105,
-    "redirect_url": "https://www.adzuna.com/land/ad/5695216681?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=11975D4B0B6CD6E21CB927256FA768192B4C006E",
-    "salary_max": 110816.41,
-    "company": {
-      "display_name": "TEKsystems c/o Allegis Group",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY4NzkxMjE0OSIsInMiOiJCaGZaNzhzODhSR19ySzdKalFjd0hnIn0.06CsJPxt13QD_gFG6okeCvbU3o1nDZ5DNX5Ru9IcUk0",
-    "longitude": -115.15036,
+    "created": "2026-04-09T21:40:11Z",
+    "company": "Manulife",
     "category": {
       "label": "IT Jobs",
       "__CLASS__": "Adzuna::API::Response::Category",
       "tag": "it-jobs"
     },
-    "created": "2026-04-02T17:05:17Z",
-    "id": "5687912149",
-    "salary_is_predicted": "1",
-    "title": "Senior Data Engineer",
-    "salary_min": 120937.55,
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "AMH"
-    },
-    "location": {
-      "display_name": "Enterprise, Clark County",
-      "area": [
-        "US",
-        "Nevada",
-        "Clark County",
-        "Enterprise"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
-    "description": "Since 2012, we''ve grown to become one of the leading single-family rental companies and homebuilders in the country, recently recognized as a top employer by Fortune and Great Place To Work®. At AMH, our goal is to simplify the experience of leasing a home through professional management and maintenance support, so our residents can focus on what really matters to them, wherever they are in life. The Senior Data Engineer is responsible for designing, building, and managing the data platform an…",
-    "salary_max": 120937.55,
-    "redirect_url": "https://www.adzuna.com/land/ad/5687912149?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=6B0ED27FC3422BC64BFA2B5ACAA7C08507EF75CE",
-    "latitude": 36.01979,
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
+    "id": "5695130429",
+    "location": "Boston, Suffolk County",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
     "_country": "us",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Boston"
   },
   {
-    "company": {
-      "display_name": "AMH",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "redirect_url": "https://www.adzuna.com/land/ad/5691607081?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=6FA6E3B10A05856C0987AF7FE023BEBB32465D40",
-    "description": "Since 2012, we''ve grown to become one of the leading single-family rental companies and homebuilders in the country, recently recognized as a top employer by Fortune and Great Place To Work®. At AMH, our goal is to simplify the experience of leasing a home through professional management and maintenance support, so our residents can focus on what really matters to them, wherever they are in life. The Senior Data Engineer is responsible for designing, building, and managing the data platform an…",
-    "latitude": 34.143188,
-    "salary_max": 103232.67,
-    "location": {
-      "area": [
-        "US",
-        "California",
-        "Los Angeles County",
-        "Calabasas Hills"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "display_name": "Calabasas Hills, Los Angeles County"
-    },
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5MTYwNzA4MSIsInMiOiJCaGZaNzhzODhSR19ySzdKalFjd0hnIn0.8YaM-d3MfXNLSNy4w8BVfmgDJPLDkRwKD-20akBMME4",
-    "longitude": -118.663883,
-    "category": {
-      "tag": "it-jobs",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "label": "IT Jobs"
-    },
-    "salary_min": 103232.67,
-    "title": "Senior Data Engineer",
-    "salary_is_predicted": "1",
-    "created": "2026-04-06T20:02:38Z",
-    "id": "5691607081",
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "FanDuel"
-    },
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "description": "THE POSITION Our roster has an opening with your name on it We are looking for a Senior Data Engineer to design and build scalable, reliable, and high-quality data solutions that power analytics, machine learning, and business operations. You'll be a hands-on contributor who plays a key role in shaping the technical foundation of our data ecosystem. As a senior member of the team, you'll work closely with engineers, analysts, product managers, and data scientists to deliver data pipelines and p…",
-    "redirect_url": "https://www.adzuna.com/land/ad/5697047096?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=237067AFC4409A17C994CE386C89F8B39D36CBAA",
-    "latitude": 40.75284,
-    "salary_max": 221166.52,
-    "location": {
-      "area": [
-        "US",
-        "New York",
-        "New York City",
-        "Manhattan",
-        "Grand Central"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "display_name": "Grand Central, Manhattan"
-    },
-    "longitude": -73.97528,
-    "category": {
-      "tag": "it-jobs",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "label": "IT Jobs"
-    },
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQmhmWjc4czg4Ukdfcks3SmpRY3dIZyIsImkiOiI1Njk3MDQ3MDk2In0.Kl1qAS24Wz9KvzVfEZP3ViwLIOBIHQV5pz8r_SRJd-U",
-    "title": "Senior Data Engineer",
-    "salary_min": 221166.52,
-    "id": "5697047096",
-    "created": "2026-04-11T19:00:15Z",
-    "salary_is_predicted": "1",
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQmhmWjc4czg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NzAxODc0ODU4In0.W9bQust5cCf50W0i_FuiCJ7AU-c2bsZWyKH__Sg_rkE",
-    "category": {
-      "tag": "it-jobs",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "label": "IT Jobs"
-    },
-    "created": "2026-04-16T17:41:56Z",
-    "salary_is_predicted": "1",
-    "id": "5701874858",
-    "title": "Software Data Engineer",
-    "salary_min": 191338.33,
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "Booz Allen Hamilton"
-    },
-    "location": {
-      "area": [
-        "US"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "display_name": "US"
-    },
-    "salary_max": 191338.33,
-    "description": "Job Number: R0237928 Software Data Engineer The Opportunity: Seeking a Software Data Engineer to support our Defense customer supporting the planning, managing, and executing operations across the electromagnetic spectrum, maintaining Extract, Transform, and Load workflows that ingest, transform, and store mission data on edge systems that may operate without consistent connectivity. This role will also support the modernization of legacy Java applications and integration with AWS cloud-based i…",
-    "redirect_url": "https://www.adzuna.com/land/ad/5701874858?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=8172E651135A7167092DE0B8A0E7B07B790A7AC8",
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
+    "id": "5588437451",
+    "location": "Holy, Santa Clara County",
     "category": {
       "__CLASS__": "Adzuna::API::Response::Category",
       "label": "IT Jobs",
       "tag": "it-jobs"
     },
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5OTM3NDIyMCIsInMiOiJCaGZaNzhzODhSR19ySzdKalFjd0hnIn0.rfEKXndN28uh-IX-IM1fPpbgWyUnQ2Mk1aFlv_9Vv20",
+    "company": "Insight Global",
+    "created": "2026-01-16T15:38:43Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGpfY3JBQTk4Ukc3bXRvVnZLbXhHdyIsImkiOiI1NTg4NDM3NDUxIn0.i3garOiQq9CJ1vS6T6yIHjXruvnNqhpEePmWkk_YVAw",
+    "title": "Data Engineer",
     "salary_is_predicted": "1",
-    "created": "2026-04-14T17:23:24Z",
-    "id": "5699374220",
-    "salary_min": 175695.14,
-    "title": "Software Data Engineer",
+    "description": "Job Description We're seeking a highly skilled Data Engineer to design, build, and maintain production-grade data pipelines that process and transform terabytes of data. In this role, you'll collaborate closely with data scientists and other SWEs to ensure that our data infrastructure is scalable, reliable, and cost-effective. Salary Range - $150,000 - $220,000 We are a company committed to creating diverse and inclusive environments where people can bring their full, authentic selves to work e…",
+    "redirect_url": "https://www.adzuna.com/land/ad/5588437451?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=B04D7577C0E45B29EC644F769D71A90CE8888035",
+    "salary_max": 174837.69,
+    "salary_min": 174837.69,
+    "longitude": -121.953652,
     "__CLASS__": "Adzuna::API::Response::Job",
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "Booz Allen Hamilton"
-    },
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "US"
-      ],
-      "display_name": "US"
-    },
-    "salary_max": 175695.14,
-    "description": "Job Number: R0237762 Software Data Engineer The Opportunity: Seeking a Software Data Engineer to support our D efense customer supporting the planning, managing, and executing operations across the electromagnetic spectrum, maintaining Extract, Transform, and Load workflows that ingest, transform, and store mission data on edge systems that may operate without consistent connectivity. This role will also support the modernization of legacy Java applications and integration with AWS cloud- based…",
-    "redirect_url": "https://www.adzuna.com/land/ad/5699374220?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=DD7553262C9C397A96DF1E683BD24EC330595315",
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
+    "latitude": 37.396999,
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
     "_country": "us",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Holy"
   },
   {
-    "location": {
-      "display_name": "Reston, Fairfax County",
-      "area": [
-        "US",
-        "Virginia",
-        "Fairfax County",
-        "Reston"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
-    "description": "U.S. - What we do matters By playing this video you consent to Google/YouTube processing your data and using cookies - Learn more . Position Description: We are seeking an experienced AWS Data Engineer to design, build, and maintain scalable data pipelines in a cloud-native environment. This role focuses on developing robust ETL/ELT processes, integrating data from multiple sources, and ensuring data reliability and quality across platforms. We partner with 15 of the top 20 banks globally, and …",
-    "redirect_url": "https://www.adzuna.com/land/ad/5700641796?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=06C56628E9C0E8F698EA690F5B33854E718639F8",
-    "latitude": 38.964,
-    "salary_max": 253948.11,
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "CGI"
-    },
+    "latitude": 34.047977,
     "__CLASS__": "Adzuna::API::Response::Job",
-    "id": "5700641796",
-    "created": "2026-04-15T17:31:09Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGpfY3JBQTk4Ukc3bXRvVnZLbXhHdyIsImkiOiI1NzAzMDE1MTI1In0.w4H3U513eBWqkh5Io48cnJTX4HLQ2tyyKPmqktq4jvU",
+    "title": "Data Engineer",
     "salary_is_predicted": "1",
-    "salary_min": 253948.11,
-    "title": "AWS Data Engineer",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQmhmWjc4czg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NzAwNjQxNzk2In0.8ZZMu-UR_kMXEhqynKu8vJ_CK5lwLcD2sshnMzWQ3XU",
+    "company": "Robert Half",
+    "created": "2026-04-17T18:08:33Z",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "id": "5703015125",
+    "location": "Pico Heights, Los Angeles County",
+    "longitude": -118.29082,
+    "salary_max": 103881.32,
+    "salary_min": 103881.32,
+    "redirect_url": "https://www.adzuna.com/land/ad/5703015125?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=1F44A708B40EEA7489717F4FD43ADD7036E4E161",
+    "description": "Description Mid-Level Data Engineer (On-Site | Los Angeles, CA) Build systems that actually drive business decisions. This is not a \"maintain the pipeline and go home\" kind of role. We're looking for a sharp, early-career Data Engineer who wants to operate close to the business, own meaningful projects end-to-end, and build systems that directly impact how decisions get made across an entire organization. You'll join a small, high-performing team where your work won't get buried-it will be seen…",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Pico Heights"
+  },
+  {
+    "latitude": 42.863136,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 184427.45,
+    "salary_min": 184427.45,
+    "longitude": -71.51509,
+    "description": "Data Engineer Merrimack, NH Type: Contract Category: Development Industry: Financial Services Reference ID: JN -032026-106196 Date Posted: 03/30/2026 Shortcut: http://careers.eliassen.com/JoMQ64  Description  Recommended Jobs Description: _Hybrid two weeks onsite a month in either Merrimack, NH or Durham, NC_ We are seeking a Senior Data Engineer to build scalable data solutions within a highly collaborative technology team. The role focuses on Oracle PL/SQL, SQL scripting, ETL with Informatica…",
+    "redirect_url": "https://www.adzuna.com/land/ad/5689439744?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=5C588D281D3092C6407892490C9B35D53B34F2A4",
+    "company": "Eliassen Group",
+    "created": "2026-04-03T22:09:21Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGpfY3JBQTk4Ukc3bXRvVnZLbXhHdyIsImkiOiI1Njg5NDM5NzQ0In0.fK3WVtoMVXrU4WnOTEv6OR23k1lKLxECFpR0nsIdCoU",
+    "title": "Data Engineer",
+    "salary_is_predicted": "1",
+    "location": "Merrimack, Hillsborough County",
+    "id": "5689439744",
     "category": {
       "tag": "it-jobs",
       "label": "IT Jobs",
       "__CLASS__": "Adzuna::API::Response::Category"
     },
-    "longitude": -77.338,
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
     "_country": "us",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Merrimack"
   },
   {
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5MjUxMDU5OCIsInMiOiJCaGZaNzhzODhSR19ySzdKalFjd0hnIn0.L-34_O1DLVgu8hkekj3WBulGRfLnuJ471OmTvug0CFY",
-    "longitude": -95.4359,
-    "category": {
-      "tag": "it-jobs",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "label": "IT Jobs"
-    },
-    "created": "2026-04-07T20:58:02Z",
+    "longitude": -122.149828,
+    "salary_max": 137847.64,
+    "salary_min": 137847.64,
+    "redirect_url": "https://www.adzuna.com/land/ad/5647726593?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=8E4A136543E51558AB16E9A9886E33A9B95DD66E",
+    "description": "Job Description We are currently seeking a Data Engineer to join the Finance Technology and Digital Transformation team in our client's Finance Department. This role will support the rapid growth of FinTech across many departments at the law firm. Duties include the below: -Adapt and optimize firm-standard ETL/ELT data pipelines to ensure accurate and timely data integration to and from firm data repositories. -Manage finance-related data models, schemas, and structures to support analytics and…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0NzcyNjU5MyIsInMiOiI4al9jckFBOThSRzdtdG9WdktteEd3In0.3zrUvlY3cD7G94eHbY7aJ2lk2DR3eBMvLp6rKJ6stY4",
+    "title": "Data Engineer",
     "salary_is_predicted": "1",
-    "id": "5692510598",
-    "title": "IT Data Engineering",
-    "salary_min": 174930.42,
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "Kforce Technology Staffing"
-    },
-    "location": {
-      "area": [
-        "US",
-        "Texas",
-        "Harris County",
-        "Trammells"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "display_name": "Trammells, Harris County"
-    },
-    "description": "RESPONSIBILITIES: Kforce has a client in Houston, TX that is seeking an IT Data Engineer with Endur experience. This is a hybrid role here in Houston, TX and will require 2 days onsite. Duties: * Works independently, determines own priorities and provides functional/technical support to experienced colleagues * Focus is on functional design and development of moderately complex applications and infrastructure * Acts as Subject Matter Expert (SME) within projects concerning multiple IT systems/d…",
-    "redirect_url": "https://www.adzuna.com/land/ad/5692510598?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=E096EFE458E0C21B3E087F2B5875DED64FDA7AA0",
-    "salary_max": 174930.42,
-    "latitude": 29.6403,
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY4ODA4NjU3NiIsInMiOiJCaGZaNzhzODhSR19ySzdKalFjd0hnIn0.Dl8eNsxMVZARLE12wq3LHMCpMrpdv9TUzvqDUbS6w1o",
-    "category": {
-      "label": "IT Jobs",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "tag": "it-jobs"
-    },
-    "longitude": -77.1537,
-    "salary_min": 103209.64,
-    "title": "Big Data Engineer",
-    "id": "5688086576",
-    "created": "2026-04-02T21:05:22Z",
-    "salary_is_predicted": "1",
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "Software Guidance & Assistance"
-    },
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "redirect_url": "https://www.adzuna.com/land/ad/5688086576?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=8A9249C19C90082BAA02DF4B25CAA5EEBE411A63",
-    "description": "Software Guidance & Assistance, Inc., (SGA), is searching for a Big Data Engineer for a CONTRACT assignment with one of our premier Regulatory clients in Rockville, MD. We are seeking a highly skilled and experienced Big Data Engineer to design, develop, and optimize large-scale data processing systems. In this role, you will work closely with cross-functional teams to architect data pipelines, implement data integration solutions, and ensure the performance, scalability, and reliability of big…",
-    "latitude": 39.084,
-    "salary_max": 103209.64,
-    "location": {
-      "display_name": "Derwood, Montgomery County",
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "US",
-        "Maryland",
-        "Montgomery County",
-        "Derwood"
-      ]
-    },
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "location": {
-      "area": [
-        "US",
-        "Texas",
-        "Denton County",
-        "Westlake"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "display_name": "Westlake, Denton County"
-    },
-    "description": "Description: Hybrid 50% ON SITE, requires candidates to be local in DFW area of TX We are seeking a Data Engineer to lead design and implementation of data solutions within a large, enterprise financial services organization. In this role, you will design and build scalable data solutions that power personalized customer experiences across digital platforms. As a senior member of the team, you'll work closely with Product, Architecture, and Engineering leadership to translate business requireme…",
-    "redirect_url": "https://www.adzuna.com/land/ad/5691578827?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=F85D958BCF6FC79693D892985532E0FCC2315D50",
-    "salary_max": 147212.52,
-    "latitude": 32.991235,
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "Eliassen Group"
-    },
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "salary_is_predicted": "1",
-    "created": "2026-04-06T18:05:43Z",
-    "id": "5691578827",
-    "salary_min": 147212.52,
-    "title": "Senior Data Engineer",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQmhmWjc4czg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NjkxNTc4ODI3In0.TBHHInjeCKyZOKflMEXENuC5CGmjCoBgzLoNRrZJHg0",
-    "longitude": -97.195014,
+    "company": "Insight Global",
+    "created": "2026-02-27T16:34:32Z",
     "category": {
       "tag": "it-jobs",
       "label": "IT Jobs",
       "__CLASS__": "Adzuna::API::Response::Category"
     },
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
+    "id": "5647726593",
+    "location": "Palo Alto, Santa Clara County",
+    "latitude": 37.443254,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
     "_country": "us",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Palo Alto"
   },
   {
-    "title": "Network Data Engineer",
-    "salary_min": 146703.9,
-    "id": "5680361244",
-    "created": "2026-03-27T10:12:51Z",
-    "salary_is_predicted": "1",
-    "longitude": -77.435,
     "category": {
       "__CLASS__": "Adzuna::API::Response::Category",
       "label": "IT Jobs",
       "tag": "it-jobs"
     },
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY4MDM2MTI0NCIsInMiOiJCaGZaNzhzODhSR19ySzdKalFjd0hnIn0.fkaXYi0snatg1rqmnhFGVN2srrxxzbJGgzmD9c3pUM8",
-    "redirect_url": "https://www.adzuna.com/land/ad/5680361244?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=E75C1742A648362FBAF8164F1B41CA1F32C505BE",
-    "description": "Job ID: 2610498 Location: Chantilly, VA, US Date Posted: 2026-03-26 Category: Information Technology Subcategory: Network Engineer Schedule: Full-Time Shift: Day Job Travel: Yes - 10% of the time Minimum Clearance Required: TS.SCI_wPoly Clearance Level Must Be Able to Obtain: None Potential for Remote Work: ORA_ON_SITE Description SAIC is a premier Fortune 500 technology integrator driving our nation's technology transformation. Our robust portfolio of offerings across the defense, space, civil…",
-    "latitude": 38.884,
-    "salary_max": 146703.9,
-    "location": {
-      "area": [
-        "US",
-        "Virginia",
-        "Fairfax County",
-        "Chantilly"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "display_name": "Chantilly, Fairfax County"
-    },
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "SAIC"
-    },
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "category": {
-      "tag": "it-jobs",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "label": "IT Jobs"
-    },
-    "longitude": -77.1537,
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5ODUyMDk4MSIsInMiOiJCaGZaNzhzODhSR19ySzdKalFjd0hnIn0.e2r9TIV_KxEGC8mXuiQG6hUCbDrF3pNXaTdNVo5IzQ8",
-    "title": "Big Data Engineer",
-    "salary_min": 100763.91,
-    "salary_is_predicted": "1",
-    "created": "2026-04-13T21:30:21Z",
-    "id": "5698520981",
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "company": {
-      "display_name": "Software Guidance & Assistance",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "description": "Software Guidance & Assistance, Inc., (SGA), is searching for a Big Data Engineer for a Contract assignment with one of our premier Regulatory clients in Rockville, MD or Tysons, VA. This role is hybrid (3 days/week Onsite in either Rockville or Tysons office) Responsibilities : Design, develop, and maintain large-scale data processing pipelines using Big Data technologies (e.g., Hadoop, Spark, Python, Scala). Implement data ingestion, storage, transformation, and analysis of solutions that are…",
-    "redirect_url": "https://www.adzuna.com/land/ad/5698520981?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=E30DE2CAD4A1B7F91A3C71A08E5E45A996AED641",
-    "latitude": 39.084,
-    "salary_max": 100763.91,
-    "location": {
-      "display_name": "Derwood, Montgomery County",
-      "area": [
-        "US",
-        "Maryland",
-        "Montgomery County",
-        "Derwood"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "longitude": -97.91162,
-    "category": {
-      "tag": "it-jobs",
-      "label": "IT Jobs",
-      "__CLASS__": "Adzuna::API::Response::Category"
-    },
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5MTU3Nzg0OSIsInMiOiJCaGZaNzhzODhSR19ySzdKalFjd0hnIn0.-rrqKgxSpMCIrpeS8kBwJFBFkYAUWBpsoLoKuDE7WfQ",
-    "created": "2026-04-06T18:02:04Z",
-    "id": "5691577849",
-    "salary_is_predicted": "1",
-    "salary_min": 92017.78,
-    "title": "Senior Data Engineer",
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "company": {
-      "display_name": "Eliassen Group",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "location": {
-      "display_name": "Stockholm, Willacy County",
-      "area": [
-        "US",
-        "Texas",
-        "Willacy County",
-        "Stockholm"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
-    "redirect_url": "https://www.adzuna.com/land/ad/5691577849?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=93AE635E9CBC41D2A18230FC4A13CDB2B7C8D5A7",
-    "description": "Description: Remote Our client seeks a Senior Data Engineer to deliver end-to-end Salesforce data migrations using IBM DataStage, SQL, and Python. The role will map source-to-target data, build ETL workflows, cleanse and validate data, and execute mock and final cutovers from Snowflake and on-premise systems into Salesforce. The engineer will produce reconciliation reports and a migration runbook while partnering with Salesforce and data governance stakeholders. The work will emphasize repeatab…",
-    "salary_max": 92017.78,
-    "latitude": 26.46482,
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "longitude": -96.69858,
-    "category": {
-      "tag": "it-jobs",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "label": "IT Jobs"
-    },
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY4NzEzMTMyNCIsInMiOiJCaGZaNzhzODhSR19ySzdKalFjd0hnIn0.cYAC3IpazRUoq_Aufbi3NoMS9nSOCTDDlugG_XjGdtM",
-    "salary_is_predicted": "1",
-    "created": "2026-04-02T04:54:56Z",
-    "id": "5687131324",
-    "salary_min": 174212.2,
-    "title": "Data Engineer, ERP",
-    "company": {
-      "display_name": "Tax.com",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "location": {
-      "area": [
-        "US",
-        "Texas",
-        "Collin County",
-        "Plano"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "display_name": "Plano, Collin County"
-    },
-    "description": "Why Ryan? Hybrid Work Options Award-Winning Culture Generous Personal Time Off (PTO) Benefits 14-Weeks of 100% Paid Leave for New Parents (Adoption Included) Monthly Gym Membership Reimbursement OR Gym Equipment Reimbursement Benefits Eligibility Effective Day One 401K with Employer Match Tuition Reimbursement After One Year of Service Fertility Assistance Program Four-Week Company-Paid Sabbatical Eligibility After Five Years of Service The Manager, Business Solutions Data is responsible for le…",
-    "salary_max": 174212.2,
-    "redirect_url": "https://www.adzuna.com/land/ad/5687131324?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=A49F86572A726537BC01E101FCF1F2B949216A22",
-    "latitude": 33.0234,
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQmhmWjc4czg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NjgwMzU2NjU3In0.HwRwdCDNl09amCFrjBmALTmnP72xvy5V-K161_I7Fhg",
-    "category": {
-      "label": "IT Jobs",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "tag": "it-jobs"
-    },
-    "longitude": -78.63276,
-    "created": "2026-03-27T10:11:23Z",
-    "salary_is_predicted": "1",
-    "id": "5680356657",
-    "title": "Network Data Engineer",
-    "salary_min": 167972.75,
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "Judge Group, Inc."
-    },
-    "location": {
-      "area": [
-        "US",
-        "North Carolina",
-        "Wake County",
-        "Raleigh"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "display_name": "Raleigh, Wake County"
-    },
-    "salary_max": 167972.75,
-    "description": "Location: Raleigh, NC Salary: $120,000.00 USD Annually - $130,000.00 USD Annually Description: ? Good knowledge on DNS(Infoblox), Cisco ISE, ? Forescout - NAC, ? Infoblox- DNS DHCP IPAM ? Cisco ACI, IBM NS1, NTP - Microchip (time), ? Gluware - Network Automation tool ? Ixia - platform ? Ansible automation platform, F5 LTM, GTM, BIGIQ ? Clear understanding of Cisco ISE Architecture (Pan, PSN, MNT, etc.). ? Cisco ISE configuration and troubleshooting hands on experience. ? Cisco ISE policy config…",
-    "redirect_url": "https://www.adzuna.com/land/ad/5680356657?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=D3F743B924B2C2B52815607F458033AF2B7424FF",
-    "latitude": 35.773993,
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "category": {
-      "label": "IT Jobs",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "tag": "it-jobs"
-    },
-    "longitude": -85.65452,
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQmhmWjc4czg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NjM5MDQzNjgzIn0.RL4eFvnxzVPotnJKWbORe5zFVMgwd4EFanJIvI70HpY",
-    "salary_is_predicted": "1",
-    "created": "2026-02-20T19:49:15Z",
-    "id": "5639043683",
+    "id": "5695165652",
+    "location": "Nashville, Davidson County",
     "title": "Data Engineer",
-    "salary_min": 101830.51,
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "Advance Local"
-    },
-    "location": {
-      "display_name": "Grand Rapids, Kent County",
-      "area": [
-        "US",
-        "Michigan",
-        "Kent County",
-        "Grand Rapids"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
-    "description": "Job Description Advance Local is looking for a Data Engineer to build and maintain data pipelines and integration solutions for the cloud data platform. This position involves the practical implementation of data ingestion, transformation, and quality processes within Snowflake, AWS, and other third-party platforms. You'll help to support data accessibility, prototyping, and audience insights through technical implementations and automation. Collaboration with data project managers, platform ow…",
-    "latitude": 42.931727,
-    "redirect_url": "https://www.adzuna.com/land/ad/5639043683?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=0B0C561C48B8112D64ECA85CF2B159E2AAB1B42C",
-    "salary_max": 101830.51,
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "company": {
-      "display_name": "Advance Local",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "description": "Job Description Advance Local is looking for a Data Engineer to build and maintain data pipelines and integration solutions for the cloud data platform. This position involves the practical implementation of data ingestion, transformation, and quality processes within Snowflake, AWS, and other third-party platforms. You'll help to support data accessibility, prototyping, and audience insights through technical implementations and automation. Collaboration with data project managers, platform ow…",
-    "redirect_url": "https://www.adzuna.com/land/ad/5639051214?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=32BCBED25081E5B6E6C6FAF8153DE875501EE530",
-    "latitude": 40.571755,
-    "salary_max": 100901.51,
-    "location": {
-      "area": [
-        "US",
-        "New Jersey",
-        "Middlesex County",
-        "Iselin"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "display_name": "Iselin, Middlesex County"
-    },
-    "longitude": -74.317366,
-    "category": {
-      "tag": "it-jobs",
-      "label": "IT Jobs",
-      "__CLASS__": "Adzuna::API::Response::Category"
-    },
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQmhmWjc4czg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NjM5MDUxMjE0In0.eI4OrBvzMc61YxzbkenA8vkznsWY_CUrUO-SLFIUgWE",
-    "title": "Data Engineer",
-    "salary_min": 100901.51,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5NTE2NTY1MiIsInMiOiI4al9jckFBOThSRzdtdG9WdktteEd3In0.GsYtYXiuyxbVUQ1JoMI6nLjGhrbI4r2rhDUqgTwZF1w",
     "salary_is_predicted": "1",
-    "created": "2026-02-20T19:51:34Z",
-    "id": "5639051214",
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "Advance Local"
-    },
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "location": {
-      "display_name": "Birmingham, Jefferson County",
-      "area": [
-        "US",
-        "Alabama",
-        "Jefferson County",
-        "Birmingham"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
-    "redirect_url": "https://www.adzuna.com/land/ad/5639042785?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=3E36F98AF16EAA46A64A3F076B52E4B798D780BA",
-    "description": "Job Description Advance Local is looking for a Data Engineer to build and maintain data pipelines and integration solutions for the cloud data platform. This position involves the practical implementation of data ingestion, transformation, and quality processes within Snowflake, AWS, and other third-party platforms. You'll help to support data accessibility, prototyping, and audience insights through technical implementations and automation. Collaboration with data project managers, platform ow…",
-    "salary_max": 78092.24,
-    "latitude": 33.50209,
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYzOTA0Mjc4NSIsInMiOiJCaGZaNzhzODhSR19ySzdKalFjd0hnIn0.eh588vK7KnaGYuWKnk73-jEj7_bGuLXuy-VNTrT69M4",
-    "category": {
-      "label": "IT Jobs",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "tag": "it-jobs"
-    },
-    "longitude": -86.79971,
-    "created": "2026-02-20T19:48:53Z",
-    "id": "5639042785",
-    "salary_is_predicted": "1",
-    "salary_min": 78092.24,
-    "title": "Data Engineer",
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "description": "Job Description Advance Local is looking for a Data Engineer to build and maintain data pipelines and integration solutions for the cloud data platform. This position involves the practical implementation of data ingestion, transformation, and quality processes within Snowflake, AWS, and other third-party platforms. You'll help to support data accessibility, prototyping, and audience insights through technical implementations and automation. Collaboration with data project managers, platform ow…",
-    "salary_max": 105056.64,
-    "redirect_url": "https://www.adzuna.com/land/ad/5639048083?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=E276F744E849A5248776A7EC3CFBB85D218BE324",
-    "latitude": 41.49307,
-    "location": {
-      "display_name": "Newburgh Heights, Cuyahoga County",
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "US",
-        "Ohio",
-        "Cuyahoga County",
-        "Newburgh Heights"
-      ]
-    },
-    "company": {
-      "display_name": "Advance Local",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "salary_min": 105056.64,
-    "title": "Data Engineer",
-    "created": "2026-02-20T19:50:36Z",
-    "id": "5639048083",
-    "salary_is_predicted": "1",
-    "longitude": -81.66832,
-    "category": {
-      "tag": "it-jobs",
-      "label": "IT Jobs",
-      "__CLASS__": "Adzuna::API::Response::Category"
-    },
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYzOTA0ODA4MyIsInMiOiJCaGZaNzhzODhSR19ySzdKalFjd0hnIn0.XtwE_TlbqZHxnnUPnIYTG8to7darvntP1VwqEqMFjfk",
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "Advance Local"
-    },
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "US",
-        "Oregon",
-        "Multnomah County",
-        "Portland"
-      ],
-      "display_name": "Portland, Multnomah County"
-    },
-    "redirect_url": "https://www.adzuna.com/land/ad/5639051528?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=C65151144C320997D1E229762CE4480D657B47D8",
-    "description": "Job Description Advance Local is looking for a Data Engineer to build and maintain data pipelines and integration solutions for the cloud data platform. This position involves the practical implementation of data ingestion, transformation, and quality processes within Snowflake, AWS, and other third-party platforms. You'll help to support data accessibility, prototyping, and audience insights through technical implementations and automation. Collaboration with data project managers, platform ow…",
-    "latitude": 45.500616,
-    "salary_max": 79343.8,
-    "category": {
-      "label": "IT Jobs",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "tag": "it-jobs"
-    },
-    "longitude": -122.657075,
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYzOTA1MTUyOCIsInMiOiJCaGZaNzhzODhSR19ySzdKalFjd0hnIn0.S1gmdzEu9XoHfkhFDPxzfW30wBX1dQMOP3t8-On9oKA",
-    "salary_is_predicted": "1",
-    "created": "2026-02-20T19:51:40Z",
-    "id": "5639051528",
-    "salary_min": 79343.8,
-    "title": "Data Engineer",
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "title": "Data Engineer",
-    "salary_min": 179230.48,
-    "created": "2026-04-02T21:09:19Z",
-    "id": "5688103089",
-    "salary_is_predicted": "1",
-    "longitude": -86.1587,
-    "category": {
-      "label": "IT Jobs",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "tag": "it-jobs"
-    },
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY4ODEwMzA4OSIsInMiOiJCaGZaNzhzODhSR19ySzdKalFjd0hnIn0.C83b-c-fxMXFU6BE5ddy7sjRdRMxSWQv8KwVu0du_vY",
-    "salary_max": 179230.48,
-    "description": "Job Family : Data Engineering & Architecture Consulting, Data Science Consulting Travel Required : Up to 10% Clearance Required : Active Secret What You Will Do : Guidehouse is seeking an experienced Data Engineer to join our Technology AI and Data practice with a dedicated focus on military clients in the Defense & Security segment. This individual will have a strong data engineering background and be a hands-on technical contributor, responsible for designing, implementing, and maintaining sc…",
-    "redirect_url": "https://www.adzuna.com/land/ad/5688103089?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=1B49C3BE20394F946763FDAFC373D884D443BEE7",
-    "latitude": 39.7878,
-    "location": {
-      "display_name": "Uptown, Marion County",
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "US",
-        "Indiana",
-        "Marion County",
-        "Uptown"
-      ]
-    },
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "Guidehouse"
-    },
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "id": "5700678166",
-    "created": "2026-04-15T18:02:00Z",
-    "salary_is_predicted": "1",
-    "salary_min": 130244.31,
-    "title": "Data Engineer",
-    "category": {
-      "tag": "it-jobs",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "label": "IT Jobs"
-    },
-    "longitude": -122.180633,
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQmhmWjc4czg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NzAwNjc4MTY2In0.AKcUevWt6nUcuV6aL5EmtMOlWChVLZC4miRPnzqADIY",
-    "location": {
-      "display_name": "Menlo Park, San Mateo County",
-      "area": [
-        "US",
-        "California",
-        "San Mateo County",
-        "Menlo Park"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
-    "redirect_url": "https://www.adzuna.com/land/ad/5700678166?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=8E02C3CA56C6BF4A975AF9465A6B1458FC498BBA",
-    "description": "Job Description Insight Global is seeking a talented Data Engineer to join our team within the Edge Network Services division. This role will support the M360 project, focusing on data analytics and metrics. As part of the ENS Analytics team, you will enable data-driven decision-making, develop L1/L2/L3 metrics for key processes, and automate Opex and Capex tracking. Your responsibilities will include designing scalable data solutions, automating data pipelines, improving data quality, and esta…",
-    "salary_max": 130244.31,
-    "latitude": 37.454232,
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "Insight Global"
-    },
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "latitude": 45.643289,
-    "description": "Job Description A client in the Pacific Northwest is looking for a Data Engineer to join their team! This position would be a full time direct hire role that will be three days onsite, and two days remote. In this position we are looking for a Data Engineer with strong experience working in the Microsoft Azure Cloud Stack. For current state of this team, they are using the Microsoft Azure Cloud Stack , they have a datalake and an enterprise data warehouse. In this role you would operationally s…",
-    "redirect_url": "https://www.adzuna.com/land/ad/5696376816?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=9C802B8B40FB4A4467F9056AAB546E01CA2C89A6",
-    "salary_max": 166097.53,
-    "location": {
-      "display_name": "Salmon Creek, Clark County",
-      "area": [
-        "US",
-        "Washington",
-        "Clark County",
-        "Salmon Creek"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "Insight Global"
-    },
-    "salary_min": 166097.53,
-    "title": "Data Engineer",
-    "salary_is_predicted": "1",
-    "created": "2026-04-11T00:38:43Z",
-    "id": "5696376816",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQmhmWjc4czg4Ukdfcks3SmpRY3dIZyIsImkiOiI1Njk2Mzc2ODE2In0.Wl_Av9M4H3B5cyqaD4KobhlcMXzwCaL-_o30qDfkNpI",
-    "category": {
-      "label": "IT Jobs",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "tag": "it-jobs"
-    },
-    "longitude": -122.623848,
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "salary_min": 117179.48,
-    "title": "Data Engineer",
-    "created": "2026-04-14T21:55:15Z",
-    "id": "5699593674",
-    "salary_is_predicted": "1",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5OTU5MzY3NCIsInMiOiJCaGZaNzhzODhSR19ySzdKalFjd0hnIn0.uCXV1jW-K1uQA2u1VdhIiYmiaiV1sZRRicTa5fI7H3E",
+    "company": "Robert Half",
+    "created": "2026-04-09T21:53:13Z",
+    "redirect_url": "https://www.adzuna.com/land/ad/5695165652?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=0DD28C486165FA5D020806F9C139731DF67F425F",
+    "description": "Description Robert Half is seeking a Contract Data Engineer to support our client's data and analytics initiatives. In this role, you will be responsible for designing, building, and maintaining scalable data pipelines and infrastructure that enable efficient data ingestion, transformation, and delivery. The ideal candidate has strong experience working with modern data platforms, cloud environments, and large-scale datasets. Key Responsibilities:  Data Pipeline Development: Design, build, and …",
     "longitude": -86.78903,
-    "category": {
-      "tag": "it-jobs",
-      "label": "IT Jobs",
-      "__CLASS__": "Adzuna::API::Response::Category"
-    },
-    "redirect_url": "https://www.adzuna.com/land/ad/5699593674?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=A149B05C489EE7942190021571426738FBDC7477",
-    "description": "NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. We are currently seeking a Data Engineer to join our team in Nashville, Tennessee (US-TN), United States (US). Overview: NTT DATA is seeking an experienced Data Engineer to join our innovative Data Village team. This role is based on-site in either Plano, TX or Nashville, TN and supports a dynamic, …",
+    "salary_min": 128077.55,
+    "salary_max": 128077.55,
+    "__CLASS__": "Adzuna::API::Response::Job",
     "latitude": 36.14946,
-    "salary_max": 117179.48,
-    "location": {
-      "display_name": "Nashville, Davidson County",
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "US",
-        "Tennessee",
-        "Davidson County",
-        "Nashville"
-      ]
-    },
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "company": {
-      "display_name": "NTT Data Americas, Inc.",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
     "_country": "us",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Nashville"
   },
   {
-    "created": "2026-04-04T17:46:28Z",
-    "salary_is_predicted": "1",
-    "id": "5690231397",
-    "salary_min": 116130.17,
-    "title": "Data Engineer",
-    "category": {
-      "tag": "it-jobs",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "label": "IT Jobs"
-    },
-    "longitude": -118.004234,
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5MDIzMTM5NyIsInMiOiJCaGZaNzhzODhSR19ySzdKalFjd0hnIn0.R7E4ttmdS9iBpz54den3L65VPm9TivcMZMDA3zRJJx8",
-    "location": {
-      "area": [
-        "US",
-        "California",
-        "Orange County",
-        "Beach"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "display_name": "Beach, Orange County"
-    },
-    "latitude": 33.675993,
-    "description": "Job Description Overview: Insight Global is seeking a Data Engineer to support the migration from WhereScape to Coalesce and build scalable, production-grade data pipelines on Snowflake. This role is deeply technical and focused on ELT development, refactoring legacy workflows, and modernizing the data platform. Responsibilities: - Build, refactor, and optimize Snowflake ELT pipelines using Coalesce. - Translate existing WhereScape jobs into Coalesce components, ensuring logic parity and improv…",
-    "redirect_url": "https://www.adzuna.com/land/ad/5690231397?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=47DB372517AE6AB00AD470769210EF27FD8E8EB5",
-    "salary_max": 116130.17,
-    "company": {
-      "display_name": "Insight Global",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "location": {
-      "display_name": "Redmond, King County",
-      "area": [
-        "US",
-        "Washington",
-        "King County",
-        "Redmond"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
-    "description": "Overview Microsoft's mission is to empower every person and every organization on the planet to achieve more. Our success is grounded in a culture of respect, integrity, accountability, and a growth mindset-values that shape how we work, innovate, and collaborate every day. Cloud Operations & Innovation (COI) is the engine behind Microsoft's cloud. We operate a global portfolio of more than 400 datacenters and millions of servers, supporting digital services for over one billion customers and t…",
-    "salary_max": 164391.8,
-    "redirect_url": "https://www.adzuna.com/land/ad/5696377135?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=44A54F3A4B14A371F62AB917E7181E369EDA1ABA",
-    "latitude": 47.6742,
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "Microsoft Corporation"
-    },
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "id": "5696377135",
-    "created": "2026-04-11T00:39:20Z",
-    "salary_is_predicted": "1",
-    "title": "Data Engineer",
-    "salary_min": 164391.8,
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQmhmWjc4czg4Ukdfcks3SmpRY3dIZyIsImkiOiI1Njk2Mzc3MTM1In0.Uterv7Hc5xYT2ZVhTvYBv90AmGPEnx5PrhiKVeG3Dew",
-    "category": {
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "label": "IT Jobs",
-      "tag": "it-jobs"
-    },
-    "longitude": -122.114799,
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "location": {
-      "display_name": "Saint Bernard, Hamilton County",
-      "area": [
-        "US",
-        "Ohio",
-        "Hamilton County",
-        "Saint Bernard"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
-    "description": "Job Description Insight Global is looking for a data engineer contractor for one of their top financial clients. The following would be their roles and responsibilities: - Bachelor's degree in Computer Science/Information Systems or equivalent combination of education and experience. - Must be able to communicate ideas both verbally and in writing to management, business and IT sponsors, and technical resources in language that is appropriate for each group. - Four years of relevant IT experien…",
-    "redirect_url": "https://www.adzuna.com/land/ad/5468735817?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=E852FBD4E6D5AAF1403839EEB19B4C973C539086",
-    "latitude": 39.1665,
-    "salary_max": 133508.05,
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "Insight Global"
-    },
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "created": "2025-10-28T20:00:41Z",
-    "id": "5468735817",
-    "salary_is_predicted": "1",
-    "title": "Data Engineer",
-    "salary_min": 133508.05,
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQmhmWjc4czg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NDY4NzM1ODE3In0.jroSoVS1xwILuR2l5Y0fLdGRPQVTg9liJBZn8PIPa1k",
-    "category": {
-      "tag": "it-jobs",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "label": "IT Jobs"
-    },
     "longitude": -84.49548,
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "latitude": 33.795821,
-    "description": "As a Data Engineer, you will be part of a high-performing global team delivering AI- and data-driven solutions for Honeywell's industrial customers, with a focus on IoT and real-time data processing. In this role, you will architect and implement scalable data pipelines and platforms that enable advanced analytics and AI capabilities, including large-scale machine learning models, intelligent automation, and real-time inference. You will work closely with cross-functional engineering and produc…",
-    "redirect_url": "https://www.adzuna.com/land/ad/5690324422?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=9A2BDF6359BF9F21C1C5E658214E259CCAB7BCD2",
-    "salary_max": 139544.25,
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "US",
-        "Georgia",
-        "Fulton County",
-        "Atlanta"
-      ],
-      "display_name": "Atlanta, Fulton County"
-    },
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "Honeywell"
-    },
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "salary_min": 139544.25,
+    "salary_min": 115454.91,
+    "salary_max": 115454.91,
+    "redirect_url": "https://www.adzuna.com/land/ad/5635432879?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=4A8CA56C55273878FA9A7945F28C94D330001560",
+    "description": "Job Description A large financial organization is seeking a Data Engineer that can sit fully remote for a contract role. This individual will be joining migration project and focus on reporting activities for merger activities related to commercial billing data. You will help handle the design and construction of scalable management systems, ensure that all data systems meet company requirements, and also research new uses for data acquisition. Required to know and understand the ins and outs o…",
     "title": "Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYzNTQzMjg3OSIsInMiOiI4al9jckFBOThSRzdtdG9WdktteEd3In0.x3051ZjT_3ZbQJeLKduuL3Li-stn9Qv_qU46yUTHRYI",
     "salary_is_predicted": "1",
-    "created": "2026-04-04T21:17:42Z",
-    "id": "5690324422",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5MDMyNDQyMiIsInMiOiJCaGZaNzhzODhSR19ySzdKalFjd0hnIn0.paIVaazbuqCOfTYHPLQxZxBjzlQEDfyOHz3s6nHoEMY",
-    "longitude": -84.38763,
-    "category": {
-      "tag": "engineering-jobs",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "label": "Engineering Jobs"
-    },
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQmhmWjc4czg4Ukdfcks3SmpRY3dIZyIsImkiOiI1Njk1MTA5NTI3In0.g_bFCHyfrCO9L6crgtjNQyImn49O2Tz269HEyQzrQN8",
-    "longitude": -104.87268,
-    "category": {
-      "tag": "it-jobs",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "label": "IT Jobs"
-    },
-    "salary_min": 157151.84,
-    "title": "Data Engineer",
-    "id": "5695109527",
-    "created": "2026-04-09T21:37:03Z",
-    "salary_is_predicted": "1",
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "Insight Global"
-    },
-    "description": "Job Description A client of Insight Global is seeking a Senior Data Engineer to support a high-impact Connectivity project, focused on building and maintaining scalable data pipelines that ingest, clean, transform, and integrate both structured and real-time streaming data. This role partners closely with Data Scientists to deliver production-ready datasets that power advanced analytics and machine learning models. Key Responsibilities Design, build, and maintain robust data pipelines for both …",
-    "redirect_url": "https://www.adzuna.com/land/ad/5695109527?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=AFBDD8325CA3F581931906E9B189E79ED05216B1",
-    "salary_max": 157151.84,
-    "latitude": 39.61908,
-    "location": {
-      "display_name": "Castlewood, Centennial",
-      "area": [
-        "US",
-        "Colorado",
-        "Arapahoe County",
-        "Centennial",
-        "Castlewood"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "description": "We're building a world of health around every individual - shaping a more connected, convenient and compassionate health experience. At CVS Health®, you'll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger - helping to simplify health care one person, one family and one community at a time. Position Summary If you're eager to make a real impact i…",
-    "redirect_url": "https://www.adzuna.com/land/ad/5704028407?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=40DE22EF95293F7888D5F083A8FF0488C973C74F",
-    "salary_max": 151046.72,
-    "latitude": 38.982355,
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "US",
-        "Maryland",
-        "Anne Arundel County",
-        "Annapolis"
-      ],
-      "display_name": "Annapolis, Anne Arundel County"
-    },
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "company": {
-      "display_name": "CVS Health",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "salary_min": 151046.72,
-    "title": "Data Engineer",
-    "salary_is_predicted": "1",
-    "created": "2026-04-18T18:05:09Z",
-    "id": "5704028407",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwNDAyODQwNyIsInMiOiJCaGZaNzhzODhSR19ySzdKalFjd0hnIn0.-eEKVbqXz0kW__OJdhoN6UaJlDQSNNW13CHoVgGTcsg",
-    "longitude": -76.533695,
+    "company": "Insight Global",
+    "created": "2026-02-18T20:43:17Z",
     "category": {
       "tag": "it-jobs",
       "label": "IT Jobs",
       "__CLASS__": "Adzuna::API::Response::Category"
     },
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "location": {
-      "area": [
-        "US",
-        "New Jersey",
-        "Mercer County",
-        "Trenton"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "display_name": "Trenton, Mercer County"
-    },
-    "redirect_url": "https://www.adzuna.com/land/ad/5704143059?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=06C37FCFF265A14B9E49CF1BD88288F3E9790ECC",
-    "description": "We're building a world of health around every individual - shaping a more connected, convenient and compassionate health experience. At CVS Health®, you'll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger - helping to simplify health care one person, one family and one community at a time. Position Summary If you're eager to make a real impact i…",
-    "salary_max": 129504.02,
-    "latitude": 40.21938,
+    "id": "5635432879",
+    "location": "Saint Bernard, Hamilton County",
+    "latitude": 39.1665,
     "__CLASS__": "Adzuna::API::Response::Job",
-    "company": {
-      "display_name": "CVS Health",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "created": "2026-04-18T22:11:14Z",
-    "salary_is_predicted": "1",
-    "id": "5704143059",
-    "salary_min": 129504.02,
-    "title": "Data Engineer",
-    "longitude": -74.73156,
-    "category": {
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "label": "IT Jobs",
-      "tag": "it-jobs"
-    },
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwNDE0MzA1OSIsInMiOiJCaGZaNzhzODhSR19ySzdKalFjd0hnIn0.BRSZpiCpP_9litf7neRYQk_g2L6xyjpnyUENFpB3k70",
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
     "_country": "us",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Saint Bernard"
   },
   {
-    "salary_min": 125258.91,
+    "longitude": -118.26348,
+    "salary_min": 101557.79,
+    "salary_max": 101557.79,
+    "redirect_url": "https://www.adzuna.com/land/ad/5690233709?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=835A7D2FF5FD822D2E594E7890B5C63EF5266CEF",
+    "description": "Description We are looking for a talented Data Engineer to join our team in Glendale, California. In this long-term contract role, you will be instrumental in designing, developing, and maintaining scalable data pipelines and platforms that support critical business operations. Through collaboration with cross-functional teams, you will contribute to innovative data solutions that enhance decision-making processes and drive operational excellence. Responsibilities: - Develop, maintain, and opti…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5MDIzMzcwOSIsInMiOiI4al9jckFBOThSRzdtdG9WdktteEd3In0.pGDj4ue35FYFJQH03NJfy0dfJ1oA4zW8B-YZDPbvJbw",
     "title": "Data Engineer",
-    "id": "5704140165",
-    "created": "2026-04-18T22:10:23Z",
     "salary_is_predicted": "1",
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQmhmWjc4czg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NzA0MTQwMTY1In0.Ap2woO98czOZznJb3CsbcFovzn7Hm8GOCJRaP_17Ca4",
+    "company": "Robert Half",
+    "created": "2026-04-04T17:51:07Z",
     "category": {
-      "__CLASS__": "Adzuna::API::Response::Category",
       "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
       "tag": "it-jobs"
     },
-    "longitude": -95.68007,
-    "salary_max": 125258.91,
-    "description": "We're building a world of health around every individual - shaping a more connected, convenient and compassionate health experience. At CVS Health®, you'll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger - helping to simplify health care one person, one family and one community at a time. Position Summary If you're eager to make a real impact i…",
-    "redirect_url": "https://www.adzuna.com/land/ad/5704140165?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=E284FA8B548F9AD76C12FE860B2EB20227F8B0C9",
-    "latitude": 39.04853,
-    "location": {
-      "display_name": "Topeka, Shawnee County",
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "US",
-        "Kansas",
-        "Shawnee County",
-        "Topeka"
-      ]
-    },
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "CVS Health"
-    },
+    "id": "5690233709",
+    "location": "Glendale, Los Angeles County",
+    "latitude": 34.15998,
     "__CLASS__": "Adzuna::API::Response::Job",
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
     "_country": "us",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Glendale"
   },
   {
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwNDE0Mjk3NyIsInMiOiJCaGZaNzhzODhSR19ySzdKalFjd0hnIn0.l9sMhwb_U043b-TJi9tkZmF16ougrfcdrQXb5tAkRRY",
+    "longitude": -92.344809,
+    "salary_min": 190277.27,
+    "salary_max": 190277.27,
+    "redirect_url": "https://www.adzuna.com/land/ad/5702021605?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=78B6B416945F5CA8ABFDCF508B1EF2468E973DBF",
+    "description": "Become a part of our caring community The Data Engineer 2 creates scalable data processing architectures and solutions that facilitate the efficient transformation of structured and unstructured data into applicable insights across the enterprise. You will work on diverse assignments that require interpretation to determine the most appropriate course of action. You will report to the Lead Data Engineer. · You will ingest data from internal and external sources using cloud-native platforms and …",
+    "title": "Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMjAyMTYwNSIsInMiOiI4al9jckFBOThSRzdtdG9WdktteEd3In0.hj65NK-k7SUyQzTf0RIUIIZSOkf4gsSqWcSFUWLMnZE",
+    "salary_is_predicted": "1",
+    "created": "2026-04-16T21:24:52Z",
+    "company": "CenterWell",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5702021605",
+    "location": "Cammack Village, Pulaski County",
+    "latitude": 34.752418,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Cammack Village"
+  },
+  {
+    "longitude": -112.08293,
+    "salary_min": 120513.3,
+    "salary_max": 120513.3,
+    "redirect_url": "https://www.adzuna.com/land/ad/5702025000?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=5067073DBFDB64A19BAA16AE7B0342C6F80056EA",
+    "description": "Become a part of our caring community The Data Engineer 2 creates scalable data processing architectures and solutions that facilitate the efficient transformation of structured and unstructured data into applicable insights across the enterprise. You will work on diverse assignments that require interpretation to determine the most appropriate course of action. You will report to the Lead Data Engineer. · You will ingest data from internal and external sources using cloud-native platforms and …",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGpfY3JBQTk4Ukc3bXRvVnZLbXhHdyIsImkiOiI1NzAyMDI1MDAwIn0.ReK7MRtR1xxjgwmuFfeRNPxrgYubjslq_VZ6N2N5WRA",
+    "title": "Data Engineer",
+    "salary_is_predicted": "1",
+    "company": "CenterWell",
+    "created": "2026-04-16T21:26:00Z",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "id": "5702025000",
+    "location": "Phoenix, Maricopa County",
+    "latitude": 33.50977,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Phoenix"
+  },
+  {
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "id": "5702049833",
+    "location": "Bismarck, Burleigh County",
+    "title": "Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGpfY3JBQTk4Ukc3bXRvVnZLbXhHdyIsImkiOiI1NzAyMDQ5ODMzIn0.Db1XFOiAq-V47V3vNsRDQw3uFHSS9LlugNDfCeXCFls",
+    "salary_is_predicted": "1",
+    "company": "CenterWell",
+    "created": "2026-04-16T21:40:38Z",
+    "redirect_url": "https://www.adzuna.com/land/ad/5702049833?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=2472C8A689F8EB06B31804BF52D163A6A97C7B00",
+    "description": "Become a part of our caring community The Data Engineer 2 creates scalable data processing architectures and solutions that facilitate the efficient transformation of structured and unstructured data into applicable insights across the enterprise. You will work on diverse assignments that require interpretation to determine the most appropriate course of action. You will report to the Lead Data Engineer. · You will ingest data from internal and external sources using cloud-native platforms and …",
+    "longitude": -100.7568,
+    "salary_max": 121323.51,
+    "salary_min": 121323.51,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 46.79472,
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Bismarck"
+  },
+  {
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5702050421",
+    "location": "Washington, D.C., US",
+    "title": "Data Engineer",
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGpfY3JBQTk4Ukc3bXRvVnZLbXhHdyIsImkiOiI1NzAyMDUwNDIxIn0.CgkuyzMLKtI6umLLS5dp0IwdXFPqmDute6Ba2ISnODw",
+    "company": "CenterWell",
+    "created": "2026-04-16T21:40:54Z",
+    "redirect_url": "https://www.adzuna.com/land/ad/5702050421?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=488B2D27DF0E9E099DB6D5C89F7EE7CA8741F63E",
+    "description": "Become a part of our caring community The Data Engineer 2 creates scalable data processing architectures and solutions that facilitate the efficient transformation of structured and unstructured data into applicable insights across the enterprise. You will work on diverse assignments that require interpretation to determine the most appropriate course of action. You will report to the Lead Data Engineer. · You will ingest data from internal and external sources using cloud-native platforms and …",
+    "longitude": -77.02717,
+    "salary_min": 129047.37,
+    "salary_max": 129047.37,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 38.89969,
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Washington, D.C."
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 43.231594,
+    "redirect_url": "https://www.adzuna.com/land/ad/5702098088?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=625EC91CCDF4BD17D450FE7779B635662878BD47",
+    "description": "Become a part of our caring community The Data Engineer 2 creates scalable data processing architectures and solutions that facilitate the efficient transformation of structured and unstructured data into applicable insights across the enterprise. You will work on diverse assignments that require interpretation to determine the most appropriate course of action. You will report to the Lead Data Engineer. · You will ingest data from internal and external sources using cloud-native platforms and …",
+    "longitude": -71.560077,
+    "salary_max": 187252.28,
+    "salary_min": 187252.28,
     "category": {
       "label": "IT Jobs",
       "__CLASS__": "Adzuna::API::Response::Category",
       "tag": "it-jobs"
     },
+    "id": "5702098088",
+    "location": "Concord, Merrimack County",
+    "title": "Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMjA5ODA4OCIsInMiOiI4al9jckFBOThSRzdtdG9WdktteEd3In0.2Z0TXyc6SgjS3PZwtVSCzM0fivJ5ZE0mzc8ROJ6aGrI",
+    "salary_is_predicted": "1",
+    "company": "CenterWell",
+    "created": "2026-04-16T22:09:19Z",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Concord"
+  },
+  {
+    "latitude": 42.67264,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-04-16T21:59:11Z",
+    "company": "CenterWell",
+    "title": "Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGpfY3JBQTk4Ukc3bXRvVnZLbXhHdyIsImkiOiI1NzAyMDg1OTQwIn0.jKILgw6dDMya07L8SqPqp1VN-EVSg1GpozdtONVuxSQ",
+    "salary_is_predicted": "1",
+    "id": "5702085940",
+    "location": "Ny State Campus, Albany County",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "salary_max": 142154.38,
+    "salary_min": 142154.38,
+    "longitude": -73.77562,
+    "description": "Become a part of our caring community The Data Engineer 2 creates scalable data processing architectures and solutions that facilitate the efficient transformation of structured and unstructured data into applicable insights across the enterprise. You will work on diverse assignments that require interpretation to determine the most appropriate course of action. You will report to the Lead Data Engineer. · You will ingest data from internal and external sources using cloud-native platforms and …",
+    "redirect_url": "https://www.adzuna.com/land/ad/5702085940?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=CAB3354A930030CFFB7D9FBD7FF416F4C7CE2B0B",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Ny State Campus"
+  },
+  {
+    "latitude": 39.7878,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "title": "Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMjAxOTgwNCIsInMiOiI4al9jckFBOThSRzdtdG9WdktteEd3In0.HBfnbny4rgHeodY4f-G9ZXb5gRu2nTZLz-ICqqAezZA",
+    "created": "2026-04-16T21:23:54Z",
+    "company": "CenterWell",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "id": "5702019804",
+    "location": "Uptown, Marion County",
+    "longitude": -86.1587,
+    "salary_min": 155405.42,
+    "salary_max": 155405.42,
+    "redirect_url": "https://www.adzuna.com/land/ad/5702019804?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=1D4486C50BA9A7A86D5D5017E4411EC5A39BDB5B",
+    "description": "Become a part of our caring community The Data Engineer 2 creates scalable data processing architectures and solutions that facilitate the efficient transformation of structured and unstructured data into applicable insights across the enterprise. You will work on diverse assignments that require interpretation to determine the most appropriate course of action. You will report to the Lead Data Engineer. · You will ingest data from internal and external sources using cloud-native platforms and …",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Uptown"
+  },
+  {
+    "salary_max": 159717.06,
+    "salary_min": 159717.06,
+    "longitude": -75.566083,
+    "description": "Become a part of our caring community The Data Engineer 2 creates scalable data processing architectures and solutions that facilitate the efficient transformation of structured and unstructured data into applicable insights across the enterprise. You will work on diverse assignments that require interpretation to determine the most appropriate course of action. You will report to the Lead Data Engineer. · You will ingest data from internal and external sources using cloud-native platforms and …",
+    "redirect_url": "https://www.adzuna.com/land/ad/5702049900?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=7E727E568E6574993E34B0B2BA408F84766B4443",
+    "company": "CenterWell",
+    "created": "2026-04-16T21:40:44Z",
+    "title": "Data Engineer",
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGpfY3JBQTk4Ukc3bXRvVnZLbXhHdyIsImkiOiI1NzAyMDQ5OTAwIn0.YZL_OU0XHDlmB7IZ635DVJX5XKLnTpV90x1N6T1qDzY",
+    "location": "Wyoming, Kent County",
+    "id": "5702049900",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "latitude": 39.165778,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Wyoming"
+  },
+  {
+    "latitude": 39.739167,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-04-16T21:25:35Z",
+    "company": "CenterWell",
+    "title": "Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGpfY3JBQTk4Ukc3bXRvVnZLbXhHdyIsImkiOiI1NzAyMDIzNDc0In0.G3_LLXqWGtuqzF1UM6b8XQdeF3ctSPpEtCw1G5hZK0Y",
+    "salary_is_predicted": "1",
+    "id": "5702023474",
+    "location": "Glendale, Denver",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_max": 149156.61,
+    "salary_min": 149156.61,
+    "longitude": -104.984167,
+    "description": "Become a part of our caring community The Data Engineer 2 creates scalable data processing architectures and solutions that facilitate the efficient transformation of structured and unstructured data into applicable insights across the enterprise. You will work on diverse assignments that require interpretation to determine the most appropriate course of action. You will report to the Lead Data Engineer. · You will ingest data from internal and external sources using cloud-native platforms and …",
+    "redirect_url": "https://www.adzuna.com/land/ad/5702023474?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=E0B33689FF345E02D2FEF47BEE438B68F7A67697",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Glendale"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 32.378649,
+    "location": "Chisolm, Montgomery County",
+    "id": "5702022032",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": "CenterWell",
+    "created": "2026-04-16T21:25:00Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMjAyMjAzMiIsInMiOiI4al9jckFBOThSRzdtdG9WdktteEd3In0.pdeNZc9zedE-2wNZVUg3ZwH1DCRKpikptAblHL_F8Vk",
+    "title": "Data Engineer",
+    "salary_is_predicted": "1",
+    "description": "Become a part of our caring community The Data Engineer 2 creates scalable data processing architectures and solutions that facilitate the efficient transformation of structured and unstructured data into applicable insights across the enterprise. You will work on diverse assignments that require interpretation to determine the most appropriate course of action. You will report to the Lead Data Engineer. · You will ingest data from internal and external sources using cloud-native platforms and …",
+    "redirect_url": "https://www.adzuna.com/land/ad/5702022032?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=69CD349AA73AB6D50CF9BE1E84FB9363E981F56A",
+    "salary_max": 112739.1,
+    "salary_min": 112739.1,
+    "longitude": -86.278545,
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Chisolm"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 38.982355,
+    "location": "Annapolis, Anne Arundel County",
+    "id": "5701904951",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "created": "2026-04-16T18:01:00Z",
+    "company": "CenterWell",
+    "title": "Data Engineer",
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGpfY3JBQTk4Ukc3bXRvVnZLbXhHdyIsImkiOiI1NzAxOTA0OTUxIn0.91Zbql6IY9QZMF0qYFwq4iLuwpHzL7T4OxuttdgntaI",
+    "description": "Become a part of our caring community The Data Engineer 2 creates scalable data processing architectures and solutions that facilitate the efficient transformation of structured and unstructured data into applicable insights across the enterprise. You will work on diverse assignments that require interpretation to determine the most appropriate course of action. You will report to the Lead Data Engineer. · You will ingest data from internal and external sources using cloud-native platforms and …",
+    "redirect_url": "https://www.adzuna.com/land/ad/5701904951?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=8AF3EAF51BA0E0A3ED6C915278D766702A9D592C",
+    "salary_min": 155726.9,
+    "salary_max": 155726.9,
+    "longitude": -76.533695,
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Annapolis"
+  },
+  {
+    "latitude": 41.187702,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -104.80953,
+    "salary_max": 146588.25,
+    "salary_min": 146588.25,
+    "redirect_url": "https://www.adzuna.com/land/ad/5702045426?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=6216D9CD4ACAF134AF0487D7B337F92A8BEFAB2C",
+    "description": "Become a part of our caring community The Data Engineer 2 creates scalable data processing architectures and solutions that facilitate the efficient transformation of structured and unstructured data into applicable insights across the enterprise. You will work on diverse assignments that require interpretation to determine the most appropriate course of action. You will report to the Lead Data Engineer. · You will ingest data from internal and external sources using cloud-native platforms and …",
+    "title": "Data Engineer",
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGpfY3JBQTk4Ukc3bXRvVnZLbXhHdyIsImkiOiI1NzAyMDQ1NDI2In0.CNeFqZjv-AQhfSqMojlsBUT_NjO7PoZmuuZ9orhbPOE",
+    "created": "2026-04-16T21:37:51Z",
+    "company": "CenterWell",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "location": "Archer, Laramie County",
+    "id": "5702045426",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Archer"
+  },
+  {
+    "redirect_url": "https://www.adzuna.com/land/ad/5702027639?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=3E9910DBD35127D4CE06B95476ED01E76BF7BB60",
+    "description": "Become a part of our caring community The Data Engineer 2 creates scalable data processing architectures and solutions that facilitate the efficient transformation of structured and unstructured data into applicable insights across the enterprise. You will work on diverse assignments that require interpretation to determine the most appropriate course of action. You will report to the Lead Data Engineer. · You will ingest data from internal and external sources using cloud-native platforms and …",
+    "longitude": -71.065917,
+    "salary_min": 119432.88,
+    "salary_max": 119432.88,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "location": "Boston, Suffolk County",
+    "id": "5702027639",
+    "title": "Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGpfY3JBQTk4Ukc3bXRvVnZLbXhHdyIsImkiOiI1NzAyMDI3NjM5In0.ql4Dyv3jgvOvwgBe9ZzXG7CkNr0myTQJ5hXIUKJLNCU",
+    "salary_is_predicted": "1",
+    "created": "2026-04-16T21:26:52Z",
+    "company": "CenterWell",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 42.356644,
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Boston"
+  },
+  {
+    "salary_min": 129208.94,
+    "salary_max": 129208.94,
+    "longitude": -89.3816,
+    "description": "Become a part of our caring community The Data Engineer 2 creates scalable data processing architectures and solutions that facilitate the efficient transformation of structured and unstructured data into applicable insights across the enterprise. You will work on diverse assignments that require interpretation to determine the most appropriate course of action. You will report to the Lead Data Engineer. · You will ingest data from internal and external sources using cloud-native platforms and …",
+    "redirect_url": "https://www.adzuna.com/land/ad/5702225103?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=7AEC0D88F9A1BE0D0F365579838976FD1CFB5915",
+    "created": "2026-04-17T00:43:50Z",
+    "company": "CenterWell",
+    "title": "Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGpfY3JBQTk4Ukc3bXRvVnZLbXhHdyIsImkiOiI1NzAyMjI1MTAzIn0.j_1cgOQCQBKE49nwcaIZU0mkNv-Rr19ZlZDhW4k7V40",
+    "salary_is_predicted": "1",
+    "id": "5702225103",
+    "location": "Madison, Dane County",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "latitude": 43.07611,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Madison"
+  },
+  {
+    "redirect_url": "https://www.adzuna.com/land/ad/5702220779?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=674DBB916EEB4DF2E5AA400A05AC7534EA73DF32",
+    "description": "Become a part of our caring community The Data Engineer 2 creates scalable data processing architectures and solutions that facilitate the efficient transformation of structured and unstructured data into applicable insights across the enterprise. You will work on diverse assignments that require interpretation to determine the most appropriate course of action. You will report to the Lead Data Engineer. · You will ingest data from internal and external sources using cloud-native platforms and …",
+    "longitude": -111.88763,
+    "salary_min": 130341.86,
+    "salary_max": 130341.86,
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5702220779",
+    "location": "Bonnie, Utah County",
+    "title": "Data Engineer",
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMjIyMDc3OSIsInMiOiI4al9jckFBOThSRzdtdG9WdktteEd3In0.JknB5y8pRqj1QpzBH8qcsrgZwsEBiT1yYarSIIastc0",
+    "created": "2026-04-17T00:42:15Z",
+    "company": "CenterWell",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 40.72693,
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Bonnie"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 44.94452,
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "id": "5702026833",
+    "location": "Saint Paul, Ramsey County",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMjAyNjgzMyIsInMiOiI4al9jckFBOThSRzdtdG9WdktteEd3In0.n90Yh2l3zTUd0Ac5d1rKg5VAYai8P8MkprJ2TtMrltk",
+    "title": "Data Engineer",
+    "salary_is_predicted": "1",
+    "company": "CenterWell",
+    "created": "2026-04-16T21:26:30Z",
+    "redirect_url": "https://www.adzuna.com/land/ad/5702026833?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=B96B5B8566853D65022000CF5474D9B18BA18B77",
+    "description": "Become a part of our caring community The Data Engineer 2 creates scalable data processing architectures and solutions that facilitate the efficient transformation of structured and unstructured data into applicable insights across the enterprise. You will work on diverse assignments that require interpretation to determine the most appropriate course of action. You will report to the Lead Data Engineer. · You will ingest data from internal and external sources using cloud-native platforms and …",
+    "longitude": -93.09298,
+    "salary_max": 124140.1,
+    "salary_min": 124140.1,
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Saint Paul"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 42.738827,
+    "location": "Lansing, Ingham County",
+    "id": "5702026437",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "created": "2026-04-16T21:26:23Z",
+    "company": "CenterWell",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMjAyNjQzNyIsInMiOiI4al9jckFBOThSRzdtdG9WdktteEd3In0.-rMIR__Z6wiE9_g5NImd5Y6AWoRXXqTxFvrZjolFSGU",
+    "title": "Data Engineer",
+    "salary_is_predicted": "1",
+    "description": "Become a part of our caring community The Data Engineer 2 creates scalable data processing architectures and solutions that facilitate the efficient transformation of structured and unstructured data into applicable insights across the enterprise. You will work on diverse assignments that require interpretation to determine the most appropriate course of action. You will report to the Lead Data Engineer. · You will ingest data from internal and external sources using cloud-native platforms and …",
+    "redirect_url": "https://www.adzuna.com/land/ad/5702026437?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=1B7FEB41CF829588DC549EFAB80D3119E8089274",
+    "salary_min": 133149.98,
+    "salary_max": 133149.98,
+    "longitude": -84.570821,
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Lansing"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 34.02978,
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "id": "5702013084",
+    "location": "Edgewood, Richland County",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMjAxMzA4NCIsInMiOiI4al9jckFBOThSRzdtdG9WdktteEd3In0.XStZ4CaPcnZkKkXATO05jAqlnoGNzYIi-gM6nd7gbgg",
+    "title": "Data Engineer",
+    "salary_is_predicted": "1",
+    "company": "CenterWell",
+    "created": "2026-04-16T21:21:23Z",
+    "redirect_url": "https://www.adzuna.com/land/ad/5702013084?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=487FE7CE0BFC16BFB257FA7F06990A8CDEF7D06C",
+    "description": "Become a part of our caring community The Data Engineer 2 creates scalable data processing architectures and solutions that facilitate the efficient transformation of structured and unstructured data into applicable insights across the enterprise. You will work on diverse assignments that require interpretation to determine the most appropriate course of action. You will report to the Lead Data Engineer. · You will ingest data from internal and external sources using cloud-native platforms and …",
+    "longitude": -81.0075,
+    "salary_min": 126018.08,
+    "salary_max": 126018.08,
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Edgewood"
+  },
+  {
+    "salary_min": 170048.42,
+    "salary_max": 170048.42,
+    "longitude": -69.7445,
+    "description": "Become a part of our caring community The Data Engineer 2 creates scalable data processing architectures and solutions that facilitate the efficient transformation of structured and unstructured data into applicable insights across the enterprise. You will work on diverse assignments that require interpretation to determine the most appropriate course of action. You will report to the Lead Data Engineer. · You will ingest data from internal and external sources using cloud-native platforms and …",
+    "redirect_url": "https://www.adzuna.com/land/ad/5702005932?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=048CC3570366828CE18332607C0762F276EEDC40",
+    "created": "2026-04-16T21:07:56Z",
+    "company": "CenterWell",
+    "salary_is_predicted": "1",
+    "title": "Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGpfY3JBQTk4Ukc3bXRvVnZLbXhHdyIsImkiOiI1NzAyMDA1OTMyIn0.7z-6HMtvIh2C4-yKAPAkq3BFBKbKHFbzYK0om4DErPg",
+    "id": "5702005932",
+    "location": "Augusta, Kennebec County",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "latitude": 44.33616,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Augusta"
+  },
+  {
+    "title": "Data Engineer",
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGpfY3JBQTk4Ukc3bXRvVnZLbXhHdyIsImkiOiI1NjY0MTk0NDI4In0.mhc2wZWCwUI4lsfE0wTmFkL6bgN_7XXNrOiYPfvJuw0",
+    "company": "Insight Global",
+    "created": "2026-03-13T17:34:51Z",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5664194428",
+    "location": "Cupertino, Santa Clara County",
+    "longitude": -122.05272,
+    "salary_min": 126213.28,
+    "salary_max": 126213.28,
+    "redirect_url": "https://www.adzuna.com/land/ad/5664194428?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=6F5B0747AA6D4BE924711F7C1F1992BC50670306",
+    "description": "Job Description The Data Foundations Engineer designs and scales modern data architectures powering Wallet, Payments, and Commerce products. This role focuses on building high-performance data pipelines and enabling analytics and ML use cases, with strong fundamentals in data modeling and scalable systems. KEY RESPONSIBILITIES: Data Engineering & Architecture - Design and implement scalable batch and near-real-time data pipelines. - Develop ETL/ELT workflows optimized for performance and cost. …",
+    "latitude": 37.323,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Cupertino"
+  },
+  {
+    "id": "5677579937",
+    "location": "Grandview Heights, Franklin County",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "company": "Robert Half",
+    "created": "2026-03-24T21:15:53Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGpfY3JBQTk4Ukc3bXRvVnZLbXhHdyIsImkiOiI1Njc3NTc5OTM3In0.6DBCuwkuavMUmpWgmF9QLpQtxH3KisPku6aMvmo3Dl8",
+    "title": "Data Engineer",
+    "salary_is_predicted": "1",
+    "description": "Description We are looking for an experienced Data Engineer to join our team on a contract basis in Columbus, Ohio. In this role, you will take on a leadership position, driving the development and optimization of data pipelines that support enterprise-wide analytics and decision-making. You will also play a key role in mentoring team members, fostering collaboration, and ensuring the integrity and quality of data across various business functions. Responsibilities: - Design, develop, and maint…",
+    "redirect_url": "https://www.adzuna.com/land/ad/5677579937?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=9822566C3F9F6E433473B5BF0DFEC0453D48B42A",
+    "salary_max": 119629.06,
+    "salary_min": 119629.06,
+    "longitude": -83.000202,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 39.991073,
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Grandview Heights"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 35.99382,
+    "redirect_url": "https://www.adzuna.com/land/ad/5679842432?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=EA9A1DF524F455984339DF5BF954114880DC1F13",
+    "description": "Data Engineer Durham, NC Type: Contract Category: Data Industry: Financial Services Reference ID: JN -032026-105976 Date Posted: 04/14/2026 Shortcut: http://careers.eliassen.com/VzYMUH  Description  Recommended Jobs Description: _Hybrid Every other week onsite/5 days in Durham, NC_ Our client seeks a Data Engineer to build and scale data solutions on AWS with Snowflake. The role focuses on data analysis, data modeling, and ETL development using Python and SQL to support an enterprise data lake …",
+    "longitude": -78.8988,
+    "salary_min": 106167.97,
+    "salary_max": 106167.97,
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5679842432",
+    "location": "Durham, Durham County",
+    "title": "Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGpfY3JBQTk4Ukc3bXRvVnZLbXhHdyIsImkiOiI1Njc5ODQyNDMyIn0.5cJbh0bBKFOlqBxZOBZEI_mNR8F36A-jPKyz8WG9KFM",
+    "salary_is_predicted": "1",
+    "company": "Eliassen Group",
+    "created": "2026-03-26T21:07:00Z",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Durham"
+  },
+  {
+    "salary_max": 113789.02,
+    "salary_min": 113789.02,
+    "longitude": -82.374586,
+    "description": "Job Description In this role, the Senior Data Platform Engineer will own the day-to-day administration and optimization of the Snowflake platform, ensuring stability, performance, security, and cost efficiency across the enterprise data environment. You will manage account configurations, role hierarchies, integrations, and access controls while proactively monitoring system health, credit usage, and warehouse performance. On a regular basis, you will analyze and tune queries, optimize compute …",
+    "redirect_url": "https://www.adzuna.com/land/ad/5692568136?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=9530CDE9EF301F6C83F8B5F9114D5ABE5F14F928",
+    "company": "Insight Global",
+    "created": "2026-04-07T21:34:02Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5MjU2ODEzNiIsInMiOiI4al9jckFBOThSRzdtdG9WdktteEd3In0.IVkjoj-UYTj2flj1XRAhnEfJzqyT7snJ5wtJ6pQ7eCI",
+    "title": "Data Engineer",
+    "salary_is_predicted": "1",
+    "id": "5692568136",
+    "location": "Conestee, Greenville County",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "latitude": 34.730677,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Conestee"
+  },
+  {
+    "title": "Data Engineer",
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGpfY3JBQTk4Ukc3bXRvVnZLbXhHdyIsImkiOiI1NjU0NjQyMzY5In0.0Zffeq-MxqP7ugQJt7To-nQsvcy1n3N_ctv_1YQLogM",
+    "created": "2026-03-04T23:22:09Z",
+    "company": "Insight Global",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "id": "5654642369",
+    "location": "Redmond, King County",
+    "longitude": -122.114799,
+    "salary_max": 115865.34,
+    "salary_min": 115865.34,
+    "redirect_url": "https://www.adzuna.com/land/ad/5654642369?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=49C75315CD0CA0C55A0B36E212198D5F1BDD5BE5",
+    "description": "Job Description - Design, build, and maintain highly scalable and reliable data pipelines to move and transform data across large-scale, distributed systems at exabyte scale. - Architect, implement, and deploy new data models and data processing workflows in production, ensuring data quality, integrity, and compliance with data privacy regulations. - Collaborate with cross-functional teams - including software engineers, data scientists, and product managers - to understand data requirements an…",
+    "latitude": 47.6742,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Redmond"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 33.68808,
+    "redirect_url": "https://www.adzuna.com/land/ad/5686374504?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=849A28C4951FE3988F95CC5631E03FEE84C89609",
+    "description": "At NTT DATA, we believe that with the right people on board, anything is possible. Our team is built on the quality, integrity, and commitment of our employees, which have been key factors in our company's growth and market presence. We strive to hire the best people and help them grow both professionally and personally, ensuring a bright future for everyone involved. For over 25 years, NTT DATA Services has been making waves in the industry with our top-notch outsourcing services and automatio…",
+    "longitude": -117.78777,
+    "salary_max": 120459.29,
+    "salary_min": 120459.29,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "location": "Huntington, Orange County",
+    "id": "5686374504",
+    "salary_is_predicted": "1",
+    "title": "Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGpfY3JBQTk4Ukc3bXRvVnZLbXhHdyIsImkiOiI1Njg2Mzc0NTA0In0.PE6NStpuslSXYRgzl3YgUK21L8c0-4KNT7xgGw5UJ5c",
+    "created": "2026-04-01T17:48:42Z",
+    "company": "NTT Data Americas, Inc.",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Huntington"
+  },
+  {
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "location": "International, King County",
+    "id": "5696378662",
+    "title": "Data Engineer",
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGpfY3JBQTk4Ukc3bXRvVnZLbXhHdyIsImkiOiI1Njk2Mzc4NjYyIn0.GXuDGq0Nt0qG5OSiWWyKh9fxTVUsN3QU6uYUe3QGwcU",
+    "created": "2026-04-11T00:41:51Z",
+    "company": "CGI Technologies and Solutions, Inc.",
+    "redirect_url": "https://www.adzuna.com/land/ad/5696378662?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=376BD65B14019AE8B55321C4D45FC408116A591D",
+    "description": "Data Engineer Category: Software Development/ Engineering Main location: United States, Washington, Seattle Position ID: J0426-0552 Employment Type: Full Time Position Description: CGI Federal is currently seeking a Data Engineer to advance human machine integration and enhance physical, cognitive, and psychological readiness. This role will identify capability gaps, refine preventative and reactive support processes, and deliver data driven strategies that improve performance outcomes across A…",
+    "longitude": -122.326064,
+    "salary_max": 130191.54,
+    "salary_min": 130191.54,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 47.602485,
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "International"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGpfY3JBQTk4Ukc3bXRvVnZLbXhHdyIsImkiOiI1Njc5NzA5NDcyIn0.GMxYeNAqwz46KEfMf4pk4u3jtPigPOFp9YvRkBkqm2o",
+    "title": "Data Engineer",
+    "salary_is_predicted": "1",
+    "company": "Insight Global",
+    "created": "2026-03-26T17:44:33Z",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "location": "Alameda Pt, Alameda County",
+    "id": "5679709472",
+    "longitude": -122.242902,
+    "salary_max": 170562.62,
+    "salary_min": 170562.62,
+    "redirect_url": "https://www.adzuna.com/land/ad/5679709472?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=E8E989B141B7B951FC2430538818FB172AC8F799",
+    "description": "Job Description We are seeking a highly skilled Data Engineer with deep expertise in SQL performance tuning and Oracle database optimization to join our Reporting Instance (RI) team on a contract basis. This role will play a critical part in the Self-Managed Hosting (SMH) initiative, working closely with RI and Infrastructure teams to set up new environments, validate end-to-end data flows, and ensure high-performing, scalable data solutions. This is an ideal opportunity for a hands-on engineer…",
+    "latitude": 37.793068,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Alameda Pt"
+  },
+  {
+    "category": {
+      "tag": "accounting-finance-jobs",
+      "label": "Accounting & Finance Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5694953890",
+    "location": "Campbell, Santa Clara County",
+    "title": "Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGpfY3JBQTk4Ukc3bXRvVnZLbXhHdyIsImkiOiI1Njk0OTUzODkwIn0.KUVR9lhGcBCyzWugZvZ1PGZgZJ4vb4gRT_Q4jcF_TjI",
+    "salary_is_predicted": "1",
+    "company": "Insight Global",
+    "created": "2026-04-09T18:02:12Z",
+    "redirect_url": "https://www.adzuna.com/land/ad/5694953890?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=EFCDC2FDAACCA3CA0789730E312F32B090A394FE",
+    "description": "Job Description Insight Global is looking for a Data Engineer for a leader in the fintech space. We are seeking two highly analytical professionals to support a major migration from a legacy Partner Compensation Management System (PCMS)-built on Salesforce and Excel-to the new Trinity pricing platform. These roles will be instrumental in validating transaction expense data, automating manual calculations, and ensuring accurate partner revenue share payouts. Advanced Excel proficiency: VLOOKUPs,…",
+    "longitude": -121.89093,
+    "salary_min": 110973.35,
+    "salary_max": 110973.35,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 37.304,
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Campbell"
+  },
+  {
+    "latitude": 39.739167,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-02-11T20:13:45Z",
+    "company": "Janus Henderson Investors",
+    "title": "Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYyNTM3Njk4MiIsInMiOiI4al9jckFBOThSRzdtdG9WdktteEd3In0.gRZSx6Ff2AY_Gs_Zh8C6ssj0CUxcANdaKlGdsd5tBWQ",
+    "salary_is_predicted": "1",
+    "location": "Glendale, Denver",
+    "id": "5625376982",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "salary_max": 144478.1,
+    "salary_min": 144478.1,
+    "longitude": -104.984167,
+    "description": "Why work for us? A career at Janus Henderson is more than a job, it's about investing in a brighter future together . Our Mission at Janus Henderson is to help clients define and achieve superior financial outcomes through differentiated insights, disciplined investments, and world-class service. We will do this by protecting and growing our core business, amplifying our strengths and diversifying where we have the right. Our Values are key to driving our success, and are at the heart of everyt…",
+    "redirect_url": "https://www.adzuna.com/land/ad/5625376982?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=2A59F9658C910779A854B4B42F1C868AE2726EF0",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Glendale"
+  },
+  {
+    "latitude": 35.21514,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": "Insight Global",
+    "created": "2023-09-23T15:04:28Z",
+    "title": "Data Engineer",
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGpfY3JBQTk4Ukc3bXRvVnZLbXhHdyIsImkiOiI0MzMwMTY2Mzk5In0.Mk2wSXo9BlrVeLJxa5zNIT5se6cv37v_4jOmM6DZR9E",
+    "id": "4330166399",
+    "location": "Charlotte, Mecklenburg County",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "salary_max": 159757.44,
+    "salary_min": 159757.44,
+    "longitude": -80.82779,
+    "description": "Job Description Job Description: Lead complex technology initiatives including those that are companywide with broad impact. Act as a key participant in developing standards and companywide best practices for engineering complex and large scale technology solutions for technology engineering disciplines. Design, code, test, debug, and document for projects and programs. Review and analyze complex, large-scale technology solutions for tactical and strategic business objectives, enterprise techno…",
+    "redirect_url": "https://www.adzuna.com/land/ad/4330166399?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=2AAEC49BADBE85941733B50F758F6828F7D453DC",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Charlotte"
+  },
+  {
+    "salary_max": 120324.04,
+    "salary_min": 120324.04,
     "longitude": -92.17271,
-    "salary_min": 130812.57,
+    "description": "Data Engineer Anywhere Type: Contract Category: Engineer Industry: Life Sciences Workplace Type: Remote Reference ID: JN -042026-106348 Date Posted: 04/12/2026 Shortcut: http://careers.eliassen.com/cwAWl4  Description  Recommended Jobs Description: _Remote_ Our client seeks a Data Engineer to support clinical trial data operations over a 12 month contract. The role will program SAS edit checks and macros, build and optimize ETL/ELT pipelines, and ensure data quality across structured and unstru…",
+    "redirect_url": "https://www.adzuna.com/land/ad/5699621776?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=D42DF55F1D78315EE28ED3CB1F2562D39A81C128",
+    "company": "Eliassen Group",
+    "created": "2026-04-14T22:10:58Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5OTYyMTc3NiIsInMiOiI4al9jckFBOThSRzdtdG9WdktteEd3In0.Sb5X9UfZWWCuXrcDNcJ_dzRLRDjgRs2lxVI599J7IHU",
     "title": "Data Engineer",
     "salary_is_predicted": "1",
-    "created": "2026-04-18T22:11:13Z",
-    "id": "5704142977",
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "company": {
-      "display_name": "CVS Health",
-      "__CLASS__": "Adzuna::API::Response::Company"
+    "id": "5699621776",
+    "location": "Cedar, Cole County",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
     },
     "latitude": 38.57717,
-    "description": "We're building a world of health around every individual - shaping a more connected, convenient and compassionate health experience. At CVS Health®, you'll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger - helping to simplify health care one person, one family and one community at a time. Position Summary If you're eager to make a real impact i…",
-    "redirect_url": "https://www.adzuna.com/land/ad/5704142977?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=F0ECFE62E127982A6E8CEBA4419D40AA00C6A531",
-    "salary_max": 130812.57,
-    "location": {
-      "display_name": "Cedar, Cole County",
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "US",
-        "Missouri",
-        "Cole County",
-        "Cedar"
-      ]
-    },
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
     "_country": "us",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Cedar"
   },
   {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 34.752418,
+    "redirect_url": "https://www.adzuna.com/land/ad/5699569986?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=04D35177A2B5425EE148AD49DE382FD2C66858C9",
+    "description": "Data Engineer Anywhere Type: Contract Category: Engineer Industry: Life Sciences Workplace Type: Remote Reference ID: JN -042026-106348 Date Posted: 04/12/2026 Shortcut: http://careers.eliassen.com/cwAWl4  Description  Recommended Jobs Description: _Remote_ Our client seeks a Data Engineer to support clinical trial data operations over a 12 month contract. The role will program SAS edit checks and macros, build and optimize ETL/ELT pipelines, and ensure data quality across structured and unstru…",
+    "longitude": -92.344809,
+    "salary_max": 169760.97,
+    "salary_min": 169760.97,
     "category": {
       "label": "IT Jobs",
       "__CLASS__": "Adzuna::API::Response::Category",
       "tag": "it-jobs"
     },
-    "longitude": -96.676821,
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQmhmWjc4czg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NzA0MTQxMzE0In0.CSegGbFIIipTyayDOE6kli4Tip2HXguGmgoCrOG0MY8",
-    "created": "2026-04-18T22:10:40Z",
-    "salary_is_predicted": "1",
-    "id": "5704141314",
+    "location": "Cammack Village, Pulaski County",
+    "id": "5699569986",
     "title": "Data Engineer",
-    "salary_min": 152160.27,
-    "company": {
-      "display_name": "CVS Health",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "location": {
-      "display_name": "State House, Lancaster County",
-      "area": [
-        "US",
-        "Nebraska",
-        "Lancaster County",
-        "State House"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
-    "description": "We're building a world of health around every individual - shaping a more connected, convenient and compassionate health experience. At CVS Health®, you'll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger - helping to simplify health care one person, one family and one community at a time. Position Summary If you're eager to make a real impact i…",
-    "latitude": 40.822932,
-    "redirect_url": "https://www.adzuna.com/land/ad/5704141314?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=DC52671D688F651F5270E01D1AD548E7B03CCC66",
-    "salary_max": 152160.27,
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5OTU2OTk4NiIsInMiOiI4al9jckFBOThSRzdtdG9WdktteEd3In0.BuvdkUlWXjArls2NhFS6g9gYS5q0SHSaIeMVTEFVsWk",
+    "created": "2026-04-14T21:42:57Z",
+    "company": "Eliassen Group",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
     "_country": "us",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Cammack Village"
   },
   {
-    "salary_min": 181624.8,
-    "title": "Data Engineer",
-    "salary_is_predicted": "1",
-    "created": "2026-04-18T22:10:32Z",
-    "id": "5704140633",
-    "longitude": -71.560077,
-    "category": {
-      "label": "IT Jobs",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "tag": "it-jobs"
-    },
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQmhmWjc4czg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NzA0MTQwNjMzIn0.x2bq42jV0EaosA81xEN0rPEeXloMyokWlo9T8nhY4go",
-    "latitude": 43.231594,
-    "description": "We're building a world of health around every individual - shaping a more connected, convenient and compassionate health experience. At CVS Health®, you'll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger - helping to simplify health care one person, one family and one community at a time. Position Summary If you're eager to make a real impact i…",
-    "redirect_url": "https://www.adzuna.com/land/ad/5704140633?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=99CABD2E19AF302921EA53E14B604233DE6E7BAB",
-    "salary_max": 181624.8,
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "US",
-        "New Hampshire",
-        "Merrimack County",
-        "Concord"
-      ],
-      "display_name": "Concord, Merrimack County"
-    },
-    "company": {
-      "display_name": "CVS Health",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "location": {
-      "display_name": "Frankfort, Franklin County",
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "US",
-        "Kentucky",
-        "Franklin County",
-        "Frankfort"
-      ]
-    },
-    "description": "We're building a world of health around every individual - shaping a more connected, convenient and compassionate health experience. At CVS Health®, you'll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger - helping to simplify health care one person, one family and one community at a time. Position Summary If you're eager to make a real impact i…",
-    "redirect_url": "https://www.adzuna.com/land/ad/5704140396?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=431A0F24BE5615E7649D2300C1EC3129AEC82D8B",
-    "salary_max": 133172.34,
-    "latitude": 38.2008,
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "company": {
-      "display_name": "CVS Health",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "created": "2026-04-18T22:10:28Z",
-    "id": "5704140396",
-    "salary_is_predicted": "1",
-    "salary_min": 133172.34,
-    "title": "Data Engineer",
-    "longitude": -84.8721,
+    "description": "Data Engineer Anywhere Type: Contract Category: Engineer Industry: Life Sciences Workplace Type: Remote Reference ID: JN -042026-106348 Date Posted: 04/12/2026 Shortcut: http://careers.eliassen.com/cwAWl4  Description  Recommended Jobs Description: _Remote_ Our client seeks a Data Engineer to support clinical trial data operations over a 12 month contract. The role will program SAS edit checks and macros, build and optimize ETL/ELT pipelines, and ensure data quality across structured and unstru…",
+    "redirect_url": "https://www.adzuna.com/land/ad/5699572032?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=2E3E1D30E1D8FAC707398BF3EE5E562D839411E1",
+    "salary_max": 100583.21,
+    "salary_min": 100583.21,
+    "longitude": -86.278545,
+    "id": "5699572032",
+    "location": "Chisolm, Montgomery County",
     "category": {
       "tag": "it-jobs",
       "__CLASS__": "Adzuna::API::Response::Category",
       "label": "IT Jobs"
     },
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwNDE0MDM5NiIsInMiOiJCaGZaNzhzODhSR19ySzdKalFjd0hnIn0.ReNe_BVZxHfk6NcRlvwGdwLAdHHigYUUpd6S8vHTcps",
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "location": {
-      "display_name": "Jackson, Hinds County",
-      "area": [
-        "US",
-        "Mississippi",
-        "Hinds County",
-        "Jackson"
-      ],
-      "__CLASS__": "Adzuna::API::Response::Location"
-    },
-    "description": "We're building a world of health around every individual - shaping a more connected, convenient and compassionate health experience. At CVS Health®, you'll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger - helping to simplify health care one person, one family and one community at a time. Position Summary If you're eager to make a real impact i…",
-    "latitude": 32.307985,
-    "redirect_url": "https://www.adzuna.com/land/ad/5704139885?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=C769DC17C4708A3B4D7914818D115B31A3285739",
-    "salary_max": 112595.55,
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "company": {
-      "display_name": "CVS Health",
-      "__CLASS__": "Adzuna::API::Response::Company"
-    },
-    "salary_is_predicted": "1",
-    "created": "2026-04-18T22:10:09Z",
-    "id": "5704139885",
-    "salary_min": 112595.55,
+    "company": "Eliassen Group",
+    "created": "2026-04-14T21:43:32Z",
     "title": "Data Engineer",
-    "category": {
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "label": "IT Jobs",
-      "tag": "it-jobs"
-    },
-    "longitude": -90.200343,
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwNDEzOTg4NSIsInMiOiJCaGZaNzhzODhSR19ySzdKalFjd0hnIn0.W99Di26__7cnR-OJ5CltVlz0oqfxzBHlmaOl0FJj7F4",
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5OTU3MjAzMiIsInMiOiI4al9jckFBOThSRzdtdG9WdktteEd3In0.UairFtMl_WWey0PKogJESGIaaj0LfuOnQ5d9CLZBMlY",
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 32.378649,
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
     "_country": "us",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Chisolm"
   },
   {
-    "description": "We're building a world of health around every individual - shaping a more connected, convenient and compassionate health experience. At CVS Health®, you'll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger - helping to simplify health care one person, one family and one community at a time. Position Summary If you're eager to make a real impact i…",
-    "salary_max": 137882.22,
-    "redirect_url": "https://www.adzuna.com/land/ad/5704139690?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=C66F12E0EFAE900A5588811C442E5EDD65B37286",
-    "latitude": 42.67264,
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "US",
-        "New York",
-        "Albany County",
-        "Ny State Campus"
-      ],
-      "display_name": "Ny State Campus, Albany County"
+    "redirect_url": "https://www.adzuna.com/land/ad/5699582494?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=D50B299B76E72F8A3E6FA6516C6BE73C214A9003",
+    "description": "Data Engineer Anywhere Type: Contract Category: Engineer Industry: Life Sciences Workplace Type: Remote Reference ID: JN -042026-106348 Date Posted: 04/12/2026 Shortcut: http://careers.eliassen.com/cwAWl4  Description  Recommended Jobs Description: _Remote_ Our client seeks a Data Engineer to support clinical trial data operations over a 12 month contract. The role will program SAS edit checks and macros, build and optimize ETL/ELT pipelines, and ensure data quality across structured and unstru…",
+    "longitude": -84.38763,
+    "salary_min": 158975.78,
+    "salary_max": 158975.78,
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
     },
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "CVS Health"
-    },
+    "location": "Atlanta, Fulton County",
+    "id": "5699582494",
+    "title": "Data Engineer",
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGpfY3JBQTk4Ukc3bXRvVnZLbXhHdyIsImkiOiI1Njk5NTgyNDk0In0.2vfU0cTbesBOwmZ6-wEIuOBpX_nvsOvd2otzrN5q3lU",
+    "company": "Eliassen Group",
+    "created": "2026-04-14T21:49:27Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 33.795821,
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
+    "_country": "us",
+    "_source": "adzuna_api",
+    "city": "Atlanta"
+  },
+  {
+    "latitude": 35.807915,
     "__CLASS__": "Adzuna::API::Response::Job",
     "title": "Data Engineer",
-    "salary_min": 137882.22,
-    "created": "2026-04-18T22:10:07Z",
-    "id": "5704139690",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5OTU4NDcyMiIsInMiOiI4al9jckFBOThSRzdtdG9WdktteEd3In0.dEPIZa8b9VQMgCTPazXqNmlAzKjk9YBW-Q9cEBDYTIM",
     "salary_is_predicted": "1",
-    "category": {
-      "label": "IT Jobs",
-      "__CLASS__": "Adzuna::API::Response::Category",
-      "tag": "it-jobs"
-    },
-    "longitude": -73.77562,
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQmhmWjc4czg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NzA0MTM5NjkwIn0.R4VdGD0PTccfKcx7ekM6QSXBD_oZrHi2xcQJZlIeHhE",
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
-    "_country": "us",
-    "_source": "adzuna_api"
-  },
-  {
-    "company": {
-      "__CLASS__": "Adzuna::API::Response::Company",
-      "display_name": "CVS Health"
-    },
-    "__CLASS__": "Adzuna::API::Response::Job",
-    "location": {
-      "__CLASS__": "Adzuna::API::Response::Location",
-      "area": [
-        "US",
-        "Ohio",
-        "Franklin County",
-        "Grandview Heights"
-      ],
-      "display_name": "Grandview Heights, Franklin County"
-    },
-    "redirect_url": "https://www.adzuna.com/land/ad/5704130316?se=BhfZ78s88RG_rK7JjQcwHg&utm_medium=api&utm_source=9fef4eac&v=D2D8CA1A33AF8D9182AA129F6113641A36A559E3",
-    "description": "We're building a world of health around every individual - shaping a more connected, convenient and compassionate health experience. At CVS Health®, you'll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger - helping to simplify health care one person, one family and one community at a time. Position Summary If you're eager to make a real impact i…",
-    "latitude": 39.991073,
-    "salary_max": 151889.3,
-    "longitude": -83.000202,
+    "created": "2026-04-14T21:50:37Z",
+    "company": "Eliassen Group",
     "category": {
       "tag": "it-jobs",
       "__CLASS__": "Adzuna::API::Response::Category",
       "label": "IT Jobs"
     },
-    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQmhmWjc4czg4Ukdfcks3SmpRY3dIZyIsImkiOiI1NzA0MTMwMzE2In0.CGu9C6btGwNiRiKRlFJY5rquiJxqUZ89th19SVm5NaU",
-    "created": "2026-04-18T22:03:58Z",
-    "id": "5704130316",
-    "salary_is_predicted": "1",
-    "title": "Data Engineer",
-    "salary_min": 151889.3,
-    "_ingested_at": "2026-04-20T15:10:22.667136+00:00",
+    "id": "5699584722",
+    "location": "Five Points, Wake County",
+    "longitude": -78.646597,
+    "salary_min": 126339.61,
+    "salary_max": 126339.61,
+    "redirect_url": "https://www.adzuna.com/land/ad/5699584722?se=8j_crAA98RG7mtoVvKmxGw&utm_medium=api&utm_source=9fef4eac&v=7DBAE04980951D113EC00A2110E87FCC43F6C147",
+    "description": "Data Engineer Anywhere Type: Contract Category: Engineer Industry: Life Sciences Workplace Type: Remote Reference ID: JN -042026-106348 Date Posted: 04/12/2026 Shortcut: http://careers.eliassen.com/cwAWl4  Description  Recommended Jobs Description: _Remote_ Our client seeks a Data Engineer to support clinical trial data operations over a 12 month contract. The role will program SAS edit checks and macros, build and optimize ETL/ELT pipelines, and ensure data quality across structured and unstru…",
+    "_ingested_at": "2026-04-20T21:27:54.228397+00:00",
     "_country": "us",
-    "_source": "adzuna_api"
+    "_source": "adzuna_api",
+    "city": "Five Points"
   }
 ]
