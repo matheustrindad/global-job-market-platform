@@ -49,6 +49,7 @@ CREATE TABLE fact_job_postings (
     salary_max_usd DOUBLE PRECISION,
     seniority      VARCHAR(50),
     is_remote      BOOLEAN,
+    redirect_url   TEXT,
     source         VARCHAR(50),
     ingested_at    TIMESTAMP
 );

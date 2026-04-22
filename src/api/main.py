@@ -77,6 +77,7 @@ class JobOut(BaseModel):
     salary_min:   Optional[float]
     salary_max:   Optional[float]
     posted_date:  Optional[date]
+    redirect_url: Optional[str]
 
     class Config:
         from_attributes = True
@@ -120,16 +121,17 @@ def list_jobs(
     """List job postings with optional filters. Max 500 per request."""
     sql = """
         SELECT
-            f.id        AS job_id,
+            f.id          AS job_id,
             f.title,
-            c.name      AS company,
+            c.name        AS company,
             l.city,
             l.country,
             f.seniority,
             f.is_remote,
             f.salary_min,
             f.salary_max,
-            d.date      AS posted_date
+            d.date        AS posted_date,
+            f.redirect_url
         FROM fact_job_postings f
         LEFT JOIN dim_company  c ON f.company_id  = c.id
         LEFT JOIN dim_location l ON f.location_id = l.id

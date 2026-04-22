@@ -76,3 +76,14 @@ services:
       postgres:
         condition: service_healthy
     restart: unless-stopped
+
+  streamlit:
+    build:
+      context: src/dashboard
+      dockerfile: Dockerfile
+    container_name: streamlit_app
+    ports:
+      - "8501:8501"
+    depends_on:
+      - fastapi
+    restart: unless-stopped

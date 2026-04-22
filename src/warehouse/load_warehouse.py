@@ -98,11 +98,11 @@ def run(trusted_dir: str = "data/trusted", db_url: str = None) -> dict:
                     INSERT INTO fact_job_postings
                         (job_id, title, company_id, location_id, date_id,
                          salary_min, salary_max, salary_min_usd, salary_max_usd,
-                         seniority, is_remote, source, ingested_at)
+                         seniority, is_remote, redirect_url, source, ingested_at)
                     VALUES
                         (:job_id, :title, :company_id, :location_id, :date_id,
                          :salary_min, :salary_max, :salary_min_usd, :salary_max_usd,
-                         :seniority, :is_remote, :source, :ingested_at)
+                         :seniority, :is_remote, :redirect_url, :source, :ingested_at)
                 """), {
                     "job_id":         str(row.get("id", ""))[:100],
                     "title":          str(row.get("title", ""))[:500],
@@ -115,6 +115,7 @@ def run(trusted_dir: str = "data/trusted", db_url: str = None) -> dict:
                     "salary_max_usd": float(row["salary_max_usd"]) if pd.notna(row.get("salary_max_usd")) else None,
                     "seniority":      row.get("seniority"),
                     "is_remote":      bool(row.get("is_remote", False)),
+                    "redirect_url":   str(row["redirect_url"]) if pd.notna(row.get("redirect_url")) else None,
                     "source":         str(row.get("_source", "adzuna"))[:50] if row.get("_source") else "adzuna",
                     "ingested_at":    row.get("ingested_at"),
                 })
